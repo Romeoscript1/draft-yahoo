@@ -1,0 +1,6690 @@
+.atomic .Ai\(b\) {
+  -ms-flex-align: baseline;
+      align-items: baseline;
+}
+.atomic .Ai\(c\) {
+  -ms-flex-align: center;
+      align-items: center;
+}
+.atomic .Ai\(e\) {
+  -ms-flex-align: end;
+      align-items: end;
+}
+.atomic .Ai\(fe\) {
+  -ms-flex-align: end;
+      align-items: flex-end;
+}
+.atomic .Ai\(fs\) {
+  -ms-flex-align: start;
+      align-items: flex-start;
+}
+.atomic .Ai\(s\) {
+  -ms-flex-align: start;
+      align-items: start;
+}
+.atomic .Ai\(st\) {
+  -ms-flex-align: stretch;
+      align-items: stretch;
+}
+.atomic .Ac\(sb\) {
+  -ms-flex-line-pack: justify;
+      align-content: space-between;
+}
+.atomic .As\(c\) {
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+}
+.atomic .As\(fe\) {
+  -ms-flex-item-align: end;
+      align-self: flex-end;
+}
+.atomic .Animdur\(1s\) {
+  animation-duration: 1s;
+}
+.atomic .Bd, .atomic .Bdw\(1px\), .atomic .Bdw\(radp-bdw\), .Bd {
+  border-width: 1px;
+}
+.atomic .Bd, .atomic .Bds\(radp-bds\), .atomic .Bds\(s\), .Bd, .BdY, .BdT, .BdB {
+  border-style: solid;
+}
+.atomic .Bd\(0\), .Bd\(0\) {
+  border: 0;
+}
+.atomic .Bd\(bd-mgm-button\), .atomic .Bd\(dark-border\)\:h:hover, .Bd\(bd-mgm-button\), .Bd\(dark-border\)\:h:hover {
+  border: 2px solid #232a31;
+}
+.atomic .Bd\(border-light\), .Bd\(border-light\) {
+  border: 1px solid #d8d8d8;
+}
+.atomic .Bd\(border-primary\), .Bd\(border-primary\) {
+  border: 1px solid #959595;
+}
+.atomic .Bd\(border-secondary\), .Bd\(border-secondary\) {
+  border: 1px solid #e7e7e7;
+}
+.atomic .Bd\(border-tertiary\), .Bd\(border-tertiary\) {
+  border: 1px solid #bfbfbf;
+}
+.atomic .Bd\(grey-border\), .Bd\(grey-border\) {
+  border: 2px solid #e0e4e9;
+}
+.atomic .Bd\(input-border\), .atomic .Bd\(mw-border-input\), .Bd\(input-border\), .Bd\(mw-border-input\) {
+  border: 1px solid #cbcbcb;
+}
+.atomic .Bd\(light-grey-border\), .Bd\(light-grey-border\) {
+  border: 1px solid #e0e4e9;
+}
+.atomic .Bd\(n\), .Bd\(n\) {
+  border: none;
+}
+.atomic .Bd\(n\)\!, .Bd\(n\)\! {
+  border: none !important;
+}
+.atomic .Bdx\(arrowTop\) {
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+}
+.atomic .Bdx\(light-grey-border\), .atomic .Bdstart\(light-grey-border\) {
+  border-left: 1px solid #e0e4e9;
+}
+.atomic .Bdx\(light-grey-border\), .atomic .Bdend\(light-grey-border\) {
+  border-right: 1px solid #e0e4e9;
+}
+.atomic .Bdy\(border-secondary\), .atomic .Bdt\(border-secondary\) {
+  border-top: 1px solid #e7e7e7;
+}
+.atomic .Bdy\(border-secondary\), .atomic .Bdb\(border-secondary\) {
+  border-bottom: 1px solid #e7e7e7;
+}
+.atomic .Bdt\(light-grey-border\) {
+  border-top: 1px solid #e0e4e9;
+}
+.atomic .Bdend\(border-secondary\) {
+  border-right: 1px solid #e7e7e7;
+}
+.atomic .Bdb\(arrowTopColor\) {
+  border-bottom: 8px solid #188fff;
+}
+.atomic .Bdb\(bd-divider-label\) {
+  border-bottom: 1px dashed #f0f2f4;
+}
+.atomic .Bdb\(border-primary\) {
+  border-bottom: 1px solid #959595;
+}
+.atomic .Bdb\(grey-border\) {
+  border-bottom: 2px solid #e0e4e9;
+}
+.atomic .Bdb\(light-grey-border\) {
+  border-bottom: 1px solid #e0e4e9;
+}
+.atomic .Bdc\(\#000\.32\) {
+  border-color: rgba(0,0,0,.32);
+}
+.atomic .Bdc\(\#1b95ff\) {
+  border-color: #1b95ff;
+}
+.atomic .Bdc\(\#232a31\) {
+  border-color: #232a31;
+}
+.atomic .Bdc\(\#333\) {
+  border-color: #333;
+}
+.atomic .Bdc\(\#6f6b83\) {
+  border-color: #6f6b83;
+}
+.atomic .Bdc\(\#b0b9c1\)\:di:disabled {
+  border-color: #b0b9c1;
+}
+.atomic .Bdc\(\#d7d9dd\) {
+  border-color: #d7d9dd;
+}
+.atomic .Bdc\(\#d8dade\) {
+  border-color: #d8dade;
+}
+.atomic .Bdc\(\#d8f1ff\) {
+  border-color: #d8f1ff;
+}
+.atomic .Bdc\(\#ddd\) {
+  border-color: #ddd;
+}
+.atomic .Bdc\(\#e0e4e9\), .atomic .Bdc\(\$c-fuji-dirty-seagull\), .atomic .Bdc\(\$c-fuji-grey-c\), .atomic .Bdc\(bd-grey\), .atomic .Bdc\(\$c-fuji-grey-c\)\:h:hover {
+  border-color: #e0e4e9;
+}
+.atomic .Bdc\(\#e2e2e2\) {
+  border-color: #e2e2e2;
+}
+.atomic .Bdc\(\#e2e2e6\) {
+  border-color: #e2e2e6;
+}
+.atomic .Bdc\(\#e7e7e7\) {
+  border-color: #e7e7e7;
+}
+.atomic .Bdc\(\#fe8001\) {
+  border-color: #fe8001;
+}
+.atomic .Bdc\(\#fff\) {
+  border-color: #fff;
+}
+.atomic .Bdc\(\$c-fuji-blue-1-a\), .atomic .Bdc\(\$c-fuji-smurfette\), .atomic .Bdc\(bd-blue\) {
+  border-color: #188fff;
+}
+.atomic .Bdc\(\$c-fuji-dolphin\) {
+  border-color: #6e7780;
+}
+.atomic .Bdc\(\$c-fuji-dory\) {
+  border-color: #0f69ff;
+}
+.atomic .Bdc\(\$c-fuji-grey-d\) {
+  border-color: #d8dae3;
+}
+.atomic .Bdc\(\$c-fuji-shark\) {
+  border-color: #828a93;
+}
+.atomic .Bdc\(\$c-fuji-smurfette\)\! {
+  border-color: #188fff !important;
+}
+.atomic .Bdc\(\$c-scooter\) {
+  border-color: #0063EB;
+}
+.atomic .Bdc\(\$streamHoverClass\) {
+  border-color: #0078ff;
+}
+.atomic .Bdc\(--dirty-seagull\) {
+  border-color: var(--dirty-seagull);
+}
+.atomic .Bdc\(--dory\) {
+  border-color: var(--dory);
+}
+.atomic .Bdc\(--pebble\) {
+  border-color: var(--pebble);
+}
+.atomic .Bdc\(--sky\) {
+  border-color: var(--sky);
+}
+.atomic .Bdc\(--white\) {
+  border-color: var(--white);
+}
+.atomic .Bdc\(background-info-gray\) {
+  border-color: #f5f8fa;
+}
+.atomic .Bdc\(bdc-grey\) {
+  border-color: #EFEFEF;
+}
+.atomic .Bdc\(bgc-light-grey\) {
+  border-color: #cccccc;
+}
+.atomic .Bdc\(border-blue-focus\), .atomic .Bdc\(border-blue-focus\)\:h:hover {
+  border-color: rgba(24, 143, 255, 0.2);
+}
+.atomic .Bdc\(border-color-negative\) {
+  border-color: #eb0f29;
+}
+.atomic .Bdc\(button-primary-color\) {
+  border-color: #0078FF;
+}
+.atomic .Bdc\(circle-border\) {
+  border-color: rgba(255, 255, 255, 0.5);
+}
+.atomic .Bdc\(color-facebook\) {
+  border-color: #3b5998;
+}
+.atomic .Bdc\(color-gray-2\) {
+  border-color: #959595;
+}
+.atomic .Bdc\(color-negative\) {
+  border-color: #e7252e;
+}
+.atomic .Bdc\(color-positive\) {
+  border-color: #1ac567;
+}
+.atomic .Bdc\(color-tumblr\) {
+  border-color: #2d4460;
+}
+.atomic .Bdc\(color-twitter\) {
+  border-color: #00aced;
+}
+.atomic .Bdc\(light-trans\) {
+  border-color: rgba(255,255,255,.2);
+}
+.atomic .Bdc\(radp-bdc\) {
+  border-color: #aeaeae;
+}
+.atomic .Bdc\(silver\) {
+  border-color: silver;
+}
+.atomic .Bdc\(t\) {
+  border-color: transparent;
+}
+.atomic .Bdc\(white\) {
+  border-color: white;
+}
+.atomic .Bdc\(white-50\) {
+  border-color: rgba(255,255,255,0.5);
+}
+.atomic .Bdc\(\#125bd4\)\:h:hover {
+  border-color: #125bd4;
+}
+.active .active_Bdtc\(\#7300ff\) {
+  border-top-color: #7300ff !important;
+}
+.atomic .Bdtc\(\#222\) {
+  border-top-color: #222;
+}
+.atomic .Bdtc\(\#e4e0e9\) {
+  border-top-color: #e4e0e9;
+}
+.atomic .Bdtc\(\#fff\), .atomic .Bdtc\(main-bg-color\) {
+  border-top-color: #fff;
+}
+.atomic .Bdtc\(\$c-fuji-dirty-seagull\), .atomic .Bdtc\(\$c-fuji-grey-c\) {
+  border-top-color: #e0e4e9;
+}
+.atomic .Bdtc\(\$c-fuji-grey-d\) {
+  border-top-color: #d8dae3;
+}
+.atomic .Bdtc\(\$c-slurpee\) {
+  border-top-color: #0C9EF2;
+}
+.atomic .Bdtc\(--dirty-seagull\) {
+  border-top-color: var(--dirty-seagull);
+}
+.atomic .Bdtc\(bgc-grey-5\) {
+  border-top-color: #e7e7e7;
+}
+.atomic .Bdtc\(bgc-grey-7\) {
+  border-top-color: #e2e2e6;
+}
+.atomic .Bdtc\(color-orange\) {
+  border-top-color: #ff520d;
+}
+.atomic .Bdtc\(t\) {
+  border-top-color: transparent;
+}
+.atomic .Bdendc\(\#fff\) {
+  border-right-color: #fff;
+}
+.atomic .Bdendc\(\$c-slurpee\) {
+  border-right-color: #0C9EF2;
+}
+.atomic .Bdendc\(--hulk-pants\) {
+  border-right-color: var(--hulk-pants);
+}
+.atomic .Bdendc\(--white\) {
+  border-right-color: var(--white);
+}
+.atomic .Bdendc\(bgc-grey-5\) {
+  border-right-color: #e7e7e7;
+}
+.atomic .Bdendc\(transparent\) {
+  border-right-color: rgba(255, 255, 255, 0.0);
+}
+.atomic .Bdbc\(\#000\.32\) {
+  border-bottom-color: rgba(0,0,0,.32);
+}
+.atomic .Bdbc\(\#c7cdd3\) {
+  border-bottom-color: #c7cdd3;
+}
+.atomic .Bdbc\(\#e4e0e9\) {
+  border-bottom-color: #e4e0e9;
+}
+.atomic .Bdbc\(\#e7e7e7\), .atomic .Bdbc\(bgc-grey-5\) {
+  border-bottom-color: #e7e7e7;
+}
+.atomic .Bdbc\(\#edebec\) {
+  border-bottom-color: #edebec;
+}
+.atomic .Bdbc\(\$c-fuji-dirty-seagull\), .atomic .Bdbc\(\$c-fuji-grey-c\) {
+  border-bottom-color: #e0e4e9;
+}
+.atomic .Bdbc\(\$c-fuji-mulah\) {
+  border-bottom-color: #1ac567;
+}
+.atomic .Bdbc\(\$c-fuji-red-1-a\) {
+  border-bottom-color: #f0162f;
+}
+.atomic .Bdbc\(\$c-slurpee\) {
+  border-bottom-color: #0C9EF2;
+}
+.atomic .Bdbc\(--dirty-seagull\) {
+  border-bottom-color: var(--dirty-seagull);
+}
+.atomic .Bdbc\(--pebble\) {
+  border-bottom-color: var(--pebble);
+}
+.atomic .Bdbc\(bgc-grey-7\) {
+  border-bottom-color: #e2e2e6;
+}
+.atomic .Bdbc\(border-color-gray\) {
+  border-bottom-color: #6e7780;
+}
+.atomic .Bdbc\(radp-bdc\) {
+  border-bottom-color: #aeaeae;
+}
+.atomic .Bdbc\(t\) {
+  border-bottom-color: transparent;
+}
+.atomic .Bdstartc\(\#fff\) {
+  border-left-color: #fff;
+}
+.atomic .Bdstartc\(\$c-slurpee\) {
+  border-left-color: #0C9EF2;
+}
+.atomic .Bdstartc\(bgc-grey-5\) {
+  border-left-color: #e7e7e7;
+}
+.atomic .Bdstartc\(borderTrans\) {
+  border-left-color: rgba(255,255,255, 0.5);
+}
+.atomic .Bdstartc\(font-color-default\) {
+  border-left-color: #333333;
+}
+.atomic .Bdstartc\(transparent\) {
+  border-left-color: rgba(255, 255, 255, 0.0);
+}
+.atomic .Bdsp\(0\) {
+  border-spacing: 0;
+}
+.atomic .Bds\(d\) {
+  border-style: dotted;
+}
+.atomic .Bdts\(s\) {
+  border-top-style: solid;
+}
+.atomic .Bdends\(s\) {
+  border-right-style: solid;
+}
+.atomic .Bdbs\(radp-header-bds\), .atomic .Bdbs\(s\) {
+  border-bottom-style: solid;
+}
+.atomic .Bdstarts\(da\) {
+  border-left-style: dashed;
+}
+.atomic .Bdstarts\(s\) {
+  border-left-style: solid;
+}
+.atomic .Bdw\(0\) {
+  border-width: 0;
+}
+.atomic .Bdw\(0\)\! {
+  border-width: 0 !important;
+}
+.atomic .Bdw\(0px\) {
+  border-width: 0px;
+}
+.atomic .Bdw\(1\.5px\) {
+  border-width: 1.5px;
+}
+.atomic .Bdw\(12px\) {
+  border-width: 12px;
+}
+.atomic .Bdw\(2px\), .atomic .Bdw\(2px\)\:f:focus {
+  border-width: 2px;
+}
+.atomic .Bdw\(3px\) {
+  border-width: 3px;
+}
+.atomic .Bdw\(4px\) {
+  border-width: 4px;
+}
+.atomic .Bdw\(7px\) {
+  border-width: 7px;
+}
+.atomic .Bdw\(t\) {
+  border-width: thin;
+}
+.atomic .Bdtw\(0\) {
+  border-top-width: 0;
+}
+.atomic .Bdtw\(15px\) {
+  border-top-width: 15px;
+}
+.atomic .Bdtw\(1px\), .BdY, .BdT {
+  border-top-width: 1px;
+}
+.atomic .Bdtw\(2px\) {
+  border-top-width: 2px;
+}
+.atomic .Bdtw\(3px\) {
+  border-top-width: 3px;
+}
+.atomic .Bdtw\(4px\) {
+  border-top-width: 4px;
+}
+.atomic .Bdtw\(8px\) {
+  border-top-width: 8px;
+}
+.atomic .Bdtw\(t\) {
+  border-top-width: thin;
+}
+.atomic .Bdendw\(0\) {
+  border-right-width: 0;
+}
+.atomic .Bdendw\(0px\) {
+  border-right-width: 0px;
+}
+.atomic .Bdendw\(15px\) {
+  border-right-width: 15px;
+}
+.atomic .Bdendw\(1px\) {
+  border-right-width: 1px;
+}
+.atomic .Bdendw\(20px\) {
+  border-right-width: 20px;
+}
+.atomic .Bdendw\(7px\) {
+  border-right-width: 7px;
+}
+.atomic .Bdendw\(8px\) {
+  border-right-width: 8px;
+}
+.atomic .Bdbw\(0\) {
+  border-bottom-width: 0;
+}
+.atomic .Bdbw\(0\.5px\) {
+  border-bottom-width: 0.5px;
+}
+.atomic .Bdbw\(0px\), .atomic .Bdbw\(0px\)\:lc:last-child {
+  border-bottom-width: 0px;
+}
+.atomic .Bdbw\(1px\), .BdY, .BdB {
+  border-bottom-width: 1px;
+}
+.atomic .Bdbw\(1px\)\! {
+  border-bottom-width: 1px !important;
+}
+.atomic .Bdbw\(2px\) {
+  border-bottom-width: 2px;
+}
+.atomic .Bdbw\(3px\) {
+  border-bottom-width: 3px;
+}
+.atomic .Bdbw\(t\) {
+  border-bottom-width: thin;
+}
+.atomic .Bdstartw\(0\) {
+  border-left-width: 0;
+}
+.atomic .Bdstartw\(0px\) {
+  border-left-width: 0px;
+}
+.atomic .Bdstartw\(15px\) {
+  border-left-width: 15px;
+}
+.atomic .Bdstartw\(1px\) {
+  border-left-width: 1px;
+}
+.atomic .Bdstartw\(20px\) {
+  border-left-width: 20px;
+}
+.atomic .Bdrs\(0\) {
+  border-radius: 0;
+}
+.atomic .Bdrs\(0px\) {
+  border-radius: 0px;
+}
+.atomic .Bdrs\(100\%\) {
+  border-radius: 100%;
+}
+.atomic .Bdrs\(100px\) {
+  border-radius: 100px;
+}
+.atomic .Bdrs\(10px\) {
+  border-radius: 10px;
+}
+.atomic .Bdrs\(120px\) {
+  border-radius: 120px;
+}
+.atomic .Bdrs\(12px\) {
+  border-radius: 12px;
+}
+.atomic .Bdrs\(13\.5px\) {
+  border-radius: 13.5px;
+}
+.atomic .Bdrs\(14px\) {
+  border-radius: 14px;
+}
+.atomic .Bdrs\(15px\) {
+  border-radius: 15px;
+}
+.atomic .Bdrs\(16px\) {
+  border-radius: 16px;
+}
+.atomic .Bdrs\(18px\) {
+  border-radius: 18px;
+}
+.atomic .Bdrs\(19px\) {
+  border-radius: 19px;
+}
+.atomic .Bdrs\(1px\), .atomic .Bdrs\(1px\)\:\:b::before {
+  border-radius: 1px;
+}
+.atomic .Bdrs\(20\.5px\) {
+  border-radius: 20.5px;
+}
+.atomic .Bdrs\(20px\) {
+  border-radius: 20px;
+}
+.atomic .Bdrs\(22px\) {
+  border-radius: 22px;
+}
+.atomic .Bdrs\(24px\) {
+  border-radius: 24px;
+}
+.atomic .Bdrs\(25px\) {
+  border-radius: 25px;
+}
+.atomic .Bdrs\(26px\) {
+  border-radius: 26px;
+}
+.atomic .Bdrs\(2px\) {
+  border-radius: 2px;
+}
+.atomic .Bdrs\(35px\) {
+  border-radius: 35px;
+}
+.atomic .Bdrs\(3px\) {
+  border-radius: 3px;
+}
+.atomic .Bdrs\(40px\) {
+  border-radius: 40px;
+}
+.atomic .Bdrs\(4px\), .atomic .Bdrs\(4px\)\:h:hover {
+  border-radius: 4px;
+}
+.atomic .Bdrs\(50\%\) {
+  border-radius: 50%;
+}
+.atomic .Bdrs\(50px\) {
+  border-radius: 50px;
+}
+.atomic .Bdrs\(52px\) {
+  border-radius: 52px;
+}
+.atomic .Bdrs\(5px\) {
+  border-radius: 5px;
+}
+.atomic .Bdrs\(6px\) {
+  border-radius: 6px;
+}
+.atomic .Bdrs\(8px\), .atomic .Bdrs\(8px\)--xxs {
+  border-radius: 8px;
+}
+.atomic .Bdrs\(9999px\) {
+  border-radius: 9999px;
+}
+.atomic .Bdrs\(pin-bdrs\) {
+  border-radius: 50% 50% 50% 0;
+}
+.smartphone .smartphone_Bdrs\(45\%\) {
+  border-radius: 45% !important;
+}
+.atomic .Bdrstend\(12px\) {
+  border-top-right-radius: 12px;
+}
+.atomic .Bdrstend\(2px\) {
+  border-top-right-radius: 2px;
+}
+.atomic .Bdrstend\(3px\) {
+  border-top-right-radius: 3px;
+}
+.atomic .Bdrstend\(4px\), .atomic .Bdrstend\(radp-bdrs\) {
+  border-top-right-radius: 4px;
+}
+.atomic .Bdrstend\(5px\) {
+  border-top-right-radius: 5px;
+}
+.atomic .Bdrstend\(8px\) {
+  border-top-right-radius: 8px;
+}
+.smartphone .smartphone_Bdrstend\(8px\) {
+  border-top-right-radius: 8px !important;
+}
+.atomic .Bdrsbend\(2px\) {
+  border-bottom-right-radius: 2px;
+}
+.atomic .Bdrsbend\(3px\) {
+  border-bottom-right-radius: 3px;
+}
+.atomic .Bdrsbend\(4px\) {
+  border-bottom-right-radius: 4px;
+}
+.atomic .Bdrsbend\(5px\) {
+  border-bottom-right-radius: 5px;
+}
+.atomic .Bdrsbend\(8px\), .atomic .Bdrsbend\(8px\)\:lc:last-child {
+  border-bottom-right-radius: 8px;
+}
+.smartphone .smartphone_Bdrsbend\(0\) {
+  border-bottom-right-radius: 0 !important;
+}
+.atomic .Bdrsbstart\(16px\) {
+  border-bottom-left-radius: 16px;
+}
+.atomic .Bdrsbstart\(3px\) {
+  border-bottom-left-radius: 3px;
+}
+.atomic .Bdrsbstart\(4px\) {
+  border-bottom-left-radius: 4px;
+}
+.atomic .Bdrsbstart\(5px\) {
+  border-bottom-left-radius: 5px;
+}
+.atomic .Bdrsbstart\(8px\), .atomic .Bdrsbstart\(8px\)\:lc:last-child {
+  border-bottom-left-radius: 8px;
+}
+.smartphone .smartphone_Bdrsbstart\(0\) {
+  border-bottom-left-radius: 0 !important;
+}
+.atomic .Bdrststart\(12px\) {
+  border-top-left-radius: 12px;
+}
+.atomic .Bdrststart\(16px\) {
+  border-top-left-radius: 16px;
+}
+.atomic .Bdrststart\(3px\) {
+  border-top-left-radius: 3px;
+}
+.atomic .Bdrststart\(4px\), .atomic .Bdrststart\(radp-bdrs\) {
+  border-top-left-radius: 4px;
+}
+.atomic .Bdrststart\(5px\) {
+  border-top-left-radius: 5px;
+}
+.atomic .Bdrststart\(8px\) {
+  border-top-left-radius: 8px;
+}
+.smartphone .smartphone_Bdrststart\(8px\) {
+  border-top-left-radius: 8px !important;
+}
+.atomic .Bg\(\#f5f8fa\)\! {
+  background: #f5f8fa !important;
+}
+.atomic .Bg\(\#fff\) {
+  background: #fff;
+}
+.atomic .Bg\(\$c-fuji-beauty\) {
+  background: #ff4d52;
+}
+.atomic .Bg\(\$c-fuji-celebrity\), .atomic .Bg\(\$c-fuji-FAQS\), .atomic .Bg\(\$c-fuji-lifestyle\), .atomic .Bg\(\$c-fuji-lifestyles\), .atomic .Bg\(\$c-fuji-omg\) {
+  background: #f80e5d;
+}
+.atomic .Bg\(\$c-fuji-fantasy\) {
+  background: #00cd7a;
+}
+.atomic .Bg\(\$c-fuji-finance\), .atomic .Bg\(\$c-fuji-gma\), .atomic .Bg\(\$c-fuji-news\) {
+  background: #188fff;
+}
+.atomic .Bg\(\$c-fuji-general\), .atomic .Bg\(\$c-fuji-offnetwork\), .atomic .Bg\(\$c-fuji-tv\) {
+  background: #6d00f6;
+}
+.atomic .Bg\(\$c-fuji-grey-b\) {
+  background: #f1f1f5;
+}
+.atomic .Bg\(\$c-fuji-hkfood\), .atomic .Bg\(\$c-fuji-hkstylemen\), .atomic .Bg\(\$c-fuji-hktravelnow\), .atomic .Bg\(\$c-fuji-style\) {
+  background: #be0067;
+}
+.atomic .Bg\(\$c-fuji-movies\), .atomic .Bg\(\$c-fuji-music\) {
+  background: #cc008c;
+}
+.atomic .Bg\(\$c-fuji-sports\) {
+  background: #ff520d;
+}
+.atomic .Bg\(\$c-fuji-tech\) {
+  background: #ff7b12;
+}
+.atomic .Bg\(\$errorGradient\) {
+  background: linear-gradient(to bottom, #ff502d 0%,#fd3740 50%,#d30b68 100%);
+}
+.atomic .Bg\(\$shareBgColor\) {
+  background: #f5f8fA;
+}
+.atomic .Bg\(\$streamHoverClass\) {
+  background: #0078ff;
+}
+.atomic .Bg\(\$streamImgGradient\)\:\:b::before {
+  background: linear-gradient(-180deg,rgba(18,23,23,0.00) 28%,rgba(18,23,23,0.04) 34%,rgba(18,23,23,0.84) 100%);
+}
+.atomic .Bg\(--white\) {
+  background: var(--white);
+}
+.atomic .Bg\(accent-opaque\) {
+  background: rgba(224, 228, 233, 0.3);
+}
+.atomic .Bg\(bgc-dark-2\) {
+  background: #1c2125;
+}
+.atomic .Bg\(bgc-grey-8\) {
+  background: #f5f8fa;
+}
+.atomic .Bg\(featurebarGradient-0\) {
+  background: linear-gradient(255deg, #4e01ca 0%, #2b64f7 100%);
+}
+.atomic .Bg\(featurebarGradient-1\) {
+  background: linear-gradient(255deg, #1f61fe 0%, #0c8df3 100%);
+}
+.atomic .Bg\(featurebarGradient-2\) {
+  background: linear-gradient(255deg, #f94b37 0%, #fea60a 100%);
+}
+.atomic .Bg\(featurebarGradient-3\) {
+  background: linear-gradient(255deg, #ea145e 0%, #ff2429 100%);
+}
+.atomic .Bg\(green-trans\) {
+  background: rgba(26, 197, 103, 0.1);
+}
+.atomic .Bg\(light-trans\) {
+  background: rgba(255,255,255,.2);
+}
+.atomic .Bg\(loading-bg\) {
+  background: #fff url('https://s.yimg.com/os/yc/pt/icons/fuji-loader-v2-blue.0.svg') no-repeat center center;
+}
+.atomic .Bg\(n\) {
+  background: none;
+}
+.atomic .Bg\(splash-gradient\) {
+  background: linear-gradient(180deg, #007E80 0%, #007E80 42.53%, #046A6D 100%);;
+}
+.atomic .Bg\(t\) {
+  background: transparent;
+}
+.atomic .Bg\(text-tertiary-opaque\) {
+  background: rgba(199, 205, 210, 0.20);
+}
+.atomic .Bg\(white-gradient-bg\) {
+  background: linear-gradient(to right, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 30%);
+}
+.JsEnabled .JsEnabled_Bg\(n\) {
+  background: none !important;
+}
+.atomic .Bgi\(add-plus\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/add-alt@2x.png);
+}
+.atomic .Bgi\(betslip-mgm-bg\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/sportsbook/bet-mgm-secondary-horizontal-gl-dbk@2x.png);
+}
+.atomic .Bgi\(betslip-sports-symbol\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/sportsbook/ads@2x.png);
+}
+.atomic .Bgi\(betslip-yahoo-bg\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/sportsbook/group@2x.png);
+}
+.atomic .Bgi\(cash-challenges-sizzle\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/CashChallenges/challenge-amount-sizzle@2x.png);
+}
+.atomic .Bgi\(check\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/filled@2x.png);
+}
+.atomic .Bgi\(close\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/close@2x.png);
+}
+.atomic .Bgi\(flashSaleActiveBackground\) {
+  background-image: linear-gradient(to right, #FFC700, #FF4D52);
+}
+.atomic .Bgi\(gamcare-logo\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/gamcare-logo.png);
+}
+.atomic .Bgi\(gc-logo\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/gc-logo.png);
+}
+.atomic .Bgi\(golf-discover-large-promo-bg\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/dfs-promo-card-large-golf@2x.png);
+}
+.atomic .Bgi\(golf-discover-promo-bg\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/dfs-promo-card-golf@2x.png);
+}
+.atomic .Bgi\(gt-logo\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/gt-logo.png);
+}
+.atomic .Bgi\(icon-lock\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/icon_lock.png);
+}
+.atomic .Bgi\(mlb-discover-large-promo-bg\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/dfs-promo-card-large-baseball@2x.png);
+}
+.atomic .Bgi\(mlb-discover-promo-bg\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/dfs-promo-card-baseball@2x-min.png);
+}
+.atomic .Bgi\(muteOffIconBase64Image\) {
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAA65JREFUWAm9V0tME1EUnWltJXQhxKiliKKIC5torMDKELtAwWhCigs/gQQ2bhoDBvfGupaFLkmIMSFukBA/JTYuTHDDoqJEQ9qYWPksqklDE6rVFjxn6tTXMp0Z0sJJTt/M+9x733v33rmVJfOwYqoLPAzWgtWgAyTWwBSYAGPgCpgFDSEbzsgp8mBeM2gzMZ9T/oBRMAzSsJLQM4A7Pg2eBHeVlKA/kMHwR/A9qHkipQzg8Z4H94OVQBxCXoObToO7LMZedFwGec+VAn2lCVwGf4pCiw3gzqlcdS5xbrnPdgigA38B6SMKRAP4fBGs5M5zWv7/0ggnSAfdYLdowBm8H2PnNkM9XYaqZPmnjEdPb98pUBd15g1gnG8p1ILB4CUKIKLRqD+RSNwbHx8/53K5eMxGoC7qVAzgNTDJmAaVd3Z20lkVrAI1NTUHrgGRSOR+X1/fQXVMp6VOK6+A6dVshpOKlVNBS0vLk97e3gCUzzkcjj2jo6N3hoaGjPyJOl1MRGfBE6AhipXLsnxTXGS1WqVQKOTzer0Xksnk98bGxru4GmbDUvjMu9ANu3Q6/cBut6ueqykoFovdhjFyW1vbw46OjmeLi4vNdXV1R3ES3p6enpDmolxnLa9A8cZSk4yUc10qlVpraGg4Pjk56ctmsxIUv2K/x+Nxs9VBNQ3Q3Z3O4vzQ4ODgBF/cbvcptlNTU1/ZOp3OerY6cKh5QGeO8ZDFYin4qMEXFLnr6+tGizc4kcVEWRgZGblCAfPz8x/Y+ny+I2zj8fgyWx2kaMCmT6S4AE5oaGBVVdVuOF6ku7t7wmazyQMDA0qSCofDn0RZGs+pioYhlc/MzFxHNLSbDUOeQEzDMs2urq6uF9PT08+1Bvv7+w8tLCzcovJMJvMrEAg8NsgBFBNjHuBXid9nU9mQRiAhSWIqnp2dvdHa2toOGQzJVb/f/2hsbOwb33VAnSs0gLVaFDSVDTFPUo3gM4EPUD2O/AcMezM8PPxuaWkpnRvR/aXOrBo+TEZXQRq0E2B6fgoqUUCFjARWrzsF6lKij06ogqVzXH3ZxpY6qEuBWJKxRqPjNIFmigpFwBZ/mFNegr/VdaIB7FM8Ey2r10obQeVBMAnmUWwAB1i3s3Rm9Vr2hwoyCB47d16gnANaBrCfJ8EwIfaBoq8onSZ/6O1z4Fswf+ziWjUMxb7iZ4aoB2wGTSUrzFM3UNafU8gpAE+L9SP9g1UUDVOviPfLsEqATO3Mrpp/RtFfgL8rkAz8wqGMQwAAAABJRU5ErkJggg==);
+}
+.atomic .Bgi\(muteOnIconBase64Image\) {
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAvBJREFUWAm9l01vElEUhoEq1LbGNKCRatLEatK4MLFuXRsQ2fsP/Fr5R1xa/QfuwbZxQeIfUOPCBdpFTYCkCTQxKQakxfeZescZYD6AgTd5mTvnfrzn3nvunUM8Fh4Laromrour4pK4LIJjsS0eiQdiXTwRAxEPbHEmtKV2t8TzIdrT5I/4Xfwk4pgn/BxgxnfFO+I5zxH8K3qq/ip+FkeuiJcDLO8D8YoYBQ41yAdxaDWY5SDSMhRF9jkqECsbYk387Rx00AFmjrgJLmfbactJDUAA74vEiAWnA5QfilHO/Ezl/y9OXBUJ0D5mpwP39H4T44xhVpejGkv8E2PpifZ5AS00bQc452Mftd3d3UcMMgHQQtNygG3gkhkLiOdyOQJ2UqC5wBZwvYa94SyxCMQZB801HOBohEZE4kZvnb0IPHadTudVMpk00Ws6u57VavX54uLihUKh8DaRSMTK5fLTY2Fzc3Pb1dD9sooDVjS67e63IHFar6ysXMxmszcqlcrLuJBOp6/VarUf7pGG3pbYAt+ZDXXxMBSLxdetVquRyWSuI65yXbY3Hs2NedncA8Yw8bPX6/WFUzPAqYDNvHs8+zhAMjE1tOfPmHmz2aybldjZ2XkSMHCbGOATecmvoYLwOJVK+W5Vt9vtNBqNfQXhNkFYKpVeqF/Hb1y0yQfui7cDGtrVg8dQ8RY0S7vviMI3tuBgRIWnKZ/Pl/f29kqeDcarOMABvkr29zlM/4icQLNODJCr8X0OvQ1qG8MJbQfFSYHmickJuYweizg0D5CsvhPb5h7gJJC9zgtoWQmqcQBhUudDCjMGGmhZcKZk3Fo/xQ2R3G0W4NJ7L3bN4E4HsFmRqSef6KidQJyo/SXaGHSACvJ2UmeyV9/bT/VhwbIzc5c4nUc5gJ2V4JiAy6IzVixjyB+i/Yv4UbSX3dnXHEOnbbDMEd0SyeHCpm5mAlP9OR10hNUifyQ+yKJwzGwR+8uxOhK52rldR/4Zld2Fv3lxwne7YS4wAAAAAElFTkSuQmCC);
+}
+.atomic .Bgi\(n\) {
+  background-image: none;
+}
+.atomic .Bgi\(nba-discover-large-promo-bg\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/dfs-promo-card-large-basketball@2x.png);
+}
+.atomic .Bgi\(nba-discover-promo-bg\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/dfs-promo-card-basketball@2x.png);
+}
+.atomic .Bgi\(nfl-discover-large-promo-bg\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/dfs-promo-card-large-football@2x.png);
+}
+.atomic .Bgi\(nfl-discover-promo-bg\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/dfs-promo-card-football@2x.png);
+}
+.atomic .Bgi\(nhl-discover-large-promo-bg\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/dfs-promo-card-large-hockey@2x.png);
+}
+.atomic .Bgi\(nhl-discover-promo-bg\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/dfs-promo-card-hockey@2x.png);
+}
+.atomic .Bgi\(play-button\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/play_button.png);
+}
+.atomic .Bgi\(radio-deselect\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/deselected@2x.png);
+}
+.atomic .Bgi\(radio-select\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/selected-radio@2x.png);
+}
+.atomic .Bgi\(scroll-bottom-shadow\) {
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.4), rgba(255,255,255));
+}
+.atomic .Bgi\(scroll-top-shadow\) {
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255), rgba(255, 255, 255, 0));
+}
+.atomic .Bgi\(shimmer-background-dark\) {
+  background-image: linear-gradient(272.08deg, rgba(224, 228, 233, 0) -5.15%, rgba(224, 228, 233, 0.34) 47.62%, rgba(224, 228, 233, 0) 95.18%);
+}
+.atomic .Bgi\(shimmer-background-light\) {
+  background-image: linear-gradient(270deg, rgba(199, 205, 210, 0) 0%, #C7CDD2 52.6%, rgba(199, 205, 210, 0) 100%);
+}
+.atomic .Bgi\(soccer-discover-large-promo-bg\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/dfs-promo-card-large-soccer@2x.png);
+}
+.atomic .Bgi\(soccer-discover-promo-bg\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/dfs-promo-card-soccer@2x.png);
+}
+.atomic .Bgi\(sources-sprite\) {
+  background-image: url(https://s.yimg.com/dh/ap/default/150629/sources_sprite.jpg);
+}
+.atomic .Bgi\(sportsbook-discover-large-promo-bg\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/sportsbook/dfs-promo-card-large-sportsbook@2x.png);
+}
+.atomic .Bgi\(sportsbook-discover-promo-bg\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/sportsbook/dfs-promo-card-sportsbook@2x.png);
+}
+.atomic .Bgi\(sportsbook-header-bg\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/sportsbook/YSB_Header_Without_Text@3x_2.png);
+}
+.atomic .Bgi\(unified-email\) {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/unified-email-graphic@2x.png);
+}
+.active .active_Bgc\(\#fff\), .atomic .Bgc\(\#fff\)\! {
+  background-color: #fff !important;
+}
+.atomic .Bgc\(\#000\), .atomic .Bgc\(color-black\) {
+  background-color: #000;
+}
+.atomic .Bgc\(\#000\.8\) {
+  background-color: rgba(0,0,0,.8);
+}
+.atomic .Bgc\(\#0078ff\), .atomic .Bgc\(color-notify\), .atomic .Bgc\(progress-confirmed\) {
+  background-color: #0078ff;
+}
+.atomic .Bgc\(\#00aceb\) {
+  background-color: #00aceb;
+}
+.atomic .Bgc\(\#00c073\) {
+  background-color: #00c073;
+}
+.atomic .Bgc\(\#0c9ef2\) {
+  background-color: #0c9ef2;
+}
+.atomic .Bgc\(\#0c9ef2\)\! {
+  background-color: #0c9ef2 !important;
+}
+.atomic .Bgc\(\#188fff\), .atomic .Bgc\(\$c-fuji-blue-1-a\), .atomic .Bgc\(\$c-fuji-finance\), .atomic .Bgc\(\$c-fuji-gma\), .atomic .Bgc\(\$c-fuji-news\), .atomic .Bgc\(\$c-fuji-smurfette\), .atomic .Bgc\(bd-blue\), .atomic .Bgc\(\$c-fuji-finance\)\:f:focus, .atomic .Bgc\(\$c-fuji-gma\)\:f:focus, .atomic .Bgc\(\$c-fuji-news\)\:f:focus, .atomic .Bgc\(\$c-fuji-finance\)\:h:hover, .atomic .Bgc\(\$c-fuji-gma\)\:h:hover, .atomic .Bgc\(\$c-fuji-news\)\:h:hover {
+  background-color: #188fff;
+}
+.atomic .Bgc\(\#1b95ff\) {
+  background-color: #1b95ff;
+}
+.atomic .Bgc\(\#2d1152\) {
+  background-color: #2d1152;
+}
+.atomic .Bgc\(\#2d353e\) {
+  background-color: #2d353e;
+}
+.atomic .Bgc\(\#2e9bfe\) {
+  background-color: #2e9bfe;
+}
+.atomic .Bgc\(\#321c59\) {
+  background-color: #321c59;
+}
+.atomic .Bgc\(\#4761a6\) {
+  background-color: #4761a6;
+}
+.atomic .Bgc\(\#5601c0\) {
+  background-color: #5601c0;
+}
+.atomic .Bgc\(\#57acfb\) {
+  background-color: #57acfb;
+}
+.atomic .Bgc\(\#abaeb7\) {
+  background-color: #abaeb7;
+}
+.atomic .Bgc\(\#cbcbcb\), .atomic .Bgc\(bgc-grey-4\) {
+  background-color: #cbcbcb;
+}
+.atomic .Bgc\(\#cc0e25\) {
+  background-color: #cc0e25;
+}
+.atomic .Bgc\(\#ccc\) {
+  background-color: #ccc;
+}
+.atomic .Bgc\(\#e7e7e7\), .atomic .Bgc\(bgc-grey-5\) {
+  background-color: #e7e7e7;
+}
+.atomic .Bgc\(\#eee\) {
+  background-color: #eee;
+}
+.atomic .Bgc\(\#eee\.5\) {
+  background-color: rgba(238,238,238,.5);
+}
+.atomic .Bgc\(\#eef4fe\) {
+  background-color: #eef4fe;
+}
+.atomic .Bgc\(\#f2f2f4\) {
+  background-color: #f2f2f4;
+}
+.atomic .Bgc\(\#f3f3f3\), .atomic .Bgc\(bgc-grey-6\), .atomic .Bgc\(color-secondary\), .atomic .Bgc\(progress-available\) {
+  background-color: #f3f3f3;
+}
+.atomic .Bgc\(\#f5f8fa\), .atomic .Bgc\(\$c-fuji-marshmallow\), .atomic .Bgc\(\$shareBackgroundColor\), .atomic .Bgc\(background-info-gray\), .atomic .Bgc\(bgc-grey-8\), .atomic .Bgc\(\$c-fuji-marshmallow\)\:h:hover, .atomic .Bgc\(background-info-gray\)\:h:hover {
+  background-color: #f5f8fa;
+}
+.atomic .Bgc\(\#fafaff\) {
+  background-color: #fafaff;
+}
+.atomic .Bgc\(\#fce9ea\) {
+  background-color: #fce9ea;
+}
+.atomic .Bgc\(\#fd6d08\) {
+  background-color: #fd6d08;
+}
+.atomic .Bgc\(\#fe8b17\) {
+  background-color: #fe8b17;
+}
+.atomic .Bgc\(\#ff3008\) {
+  background-color: #ff3008;
+}
+.atomic .Bgc\(\#fff\), .atomic .Bgc\(\#fff\)\:\:b::before, .atomic .Bgc\(main-bg-color\), .atomic .Bgc\(radp-bgc\) {
+  background-color: #fff;
+}
+.atomic .Bgc\(\#fff\.1\) {
+  background-color: rgba(255,255,255,.1);
+}
+.atomic .Bgc\(\$c-accent\) {
+  background-color: #7300ff;
+}
+.atomic .Bgc\(\$c-casper\), .atomic .Bgc\(\$c-casper\)\:di:disabled {
+  background-color: #ffffff;
+}
+.atomic .Bgc\(\$c-daily\) {
+  background-color: #007E80;
+}
+.atomic .Bgc\(\$c-fuji-batcave\), .atomic .Bgc\(\$c-fuji-grey-m\) {
+  background-color: #232a31;
+}
+.atomic .Bgc\(\$c-fuji-beauty\), .atomic .Bgc\(\$c-fuji-beauty\)\:f:focus, .atomic .Bgc\(\$c-fuji-beauty\)\:h:hover {
+  background-color: #ff4d52;
+}
+.atomic .Bgc\(\$c-fuji-black\), .atomic .Bgc\(bgc-dark\) {
+  background-color: #000000;
+}
+.atomic .Bgc\(\$c-fuji-blue-1-b\) {
+  background-color: #0081f2;
+}
+.atomic .Bgc\(\$c-fuji-celebrity\), .atomic .Bgc\(\$c-fuji-FAQS\), .atomic .Bgc\(\$c-fuji-lifestyle\), .atomic .Bgc\(\$c-fuji-lifestyles\), .atomic .Bgc\(\$c-fuji-omg\), .atomic .Bgc\(\$c-fuji-celebrity\)\:f:focus, .atomic .Bgc\(\$c-fuji-FAQS\)\:f:focus, .atomic .Bgc\(\$c-fuji-lifestyle\)\:f:focus, .atomic .Bgc\(\$c-fuji-lifestyles\)\:f:focus, .atomic .Bgc\(\$c-fuji-omg\)\:f:focus, .atomic .Bgc\(\$c-fuji-celebrity\)\:h:hover, .atomic .Bgc\(\$c-fuji-FAQS\)\:h:hover, .atomic .Bgc\(\$c-fuji-lifestyle\)\:h:hover, .atomic .Bgc\(\$c-fuji-lifestyles\)\:h:hover, .atomic .Bgc\(\$c-fuji-omg\)\:h:hover {
+  background-color: #f80e5d;
+}
+.atomic .Bgc\(\$c-fuji-dirty-seagull\), .atomic .Bgc\(\$c-fuji-grey-c\), .atomic .Bgc\(bd-grey\), .atomic .Bgc\(\$c-fuji-grey-c\)\:h:hover {
+  background-color: #e0e4e9;
+}
+.atomic .Bgc\(\$c-fuji-dory\) {
+  background-color: #0f69ff;
+}
+.atomic .Bgc\(\$c-fuji-fantasy\), .atomic .Bgc\(\$c-fuji-fantasy\)\:f:focus, .atomic .Bgc\(\$c-fuji-fantasy\)\:h:hover {
+  background-color: #00cd7a;
+}
+.atomic .Bgc\(\$c-fuji-general\), .atomic .Bgc\(\$c-fuji-offnetwork\), .atomic .Bgc\(\$c-fuji-tv\), .atomic .Bgc\(\$c-fuji-general\)\:f:focus, .atomic .Bgc\(\$c-fuji-offnetwork\)\:f:focus, .atomic .Bgc\(\$c-fuji-tv\)\:f:focus, .atomic .Bgc\(\$c-fuji-general\)\:h:hover, .atomic .Bgc\(\$c-fuji-offnetwork\)\:h:hover, .atomic .Bgc\(\$c-fuji-tv\)\:h:hover {
+  background-color: #6d00f6;
+}
+.atomic .Bgc\(\$c-fuji-green-1-b\), .atomic .Bgc\(bgc-green-1\), .atomic .Bgc\(color-positive\) {
+  background-color: #1ac567;
+}
+.atomic .Bgc\(\$c-fuji-grey-1\), .atomic .Bgc\(\$c-fuji-grey-a\) {
+  background-color: #f7f8ff;
+}
+.atomic .Bgc\(\$c-fuji-grey-b\), .atomic .Bgc\(\$c-fuji-grey-b\)\:h:hover {
+  background-color: #f1f1f5;
+}
+.atomic .Bgc\(\$c-fuji-grey-o\) {
+  background-color: #6e7780;
+}
+.atomic .Bgc\(\$c-fuji-hkfood\), .atomic .Bgc\(\$c-fuji-hkstylemen\), .atomic .Bgc\(\$c-fuji-hktravelnow\), .atomic .Bgc\(\$c-fuji-style\), .atomic .Bgc\(\$c-fuji-hkfood\)\:f:focus, .atomic .Bgc\(\$c-fuji-hkstylemen\)\:f:focus, .atomic .Bgc\(\$c-fuji-hktravelnow\)\:f:focus, .atomic .Bgc\(\$c-fuji-style\)\:f:focus, .atomic .Bgc\(\$c-fuji-hkfood\)\:h:hover, .atomic .Bgc\(\$c-fuji-hkstylemen\)\:h:hover, .atomic .Bgc\(\$c-fuji-hktravelnow\)\:h:hover, .atomic .Bgc\(\$c-fuji-style\)\:h:hover {
+  background-color: #be0067;
+}
+.atomic .Bgc\(\$c-fuji-marshmallow\)\!, .atomic .Bgc\(\$c-fuji-marshmallow\)\!\:h:hover {
+  background-color: #f5f8fa !important;
+}
+.atomic .Bgc\(\$c-fuji-movies\), .atomic .Bgc\(\$c-fuji-music\), .atomic .Bgc\(\$c-fuji-movies\)\:f:focus, .atomic .Bgc\(\$c-fuji-music\)\:f:focus, .atomic .Bgc\(\$c-fuji-movies\)\:h:hover, .atomic .Bgc\(\$c-fuji-music\)\:h:hover {
+  background-color: #cc008c;
+}
+.atomic .Bgc\(\$c-fuji-mulah\)\! {
+  background-color: #1ac567 !important;
+}
+.atomic .Bgc\(\$c-fuji-orange-c\), .atomic .Bgc\(\$c-fuji-sports\), .atomic .Bgc\(\$c-fuji-sports\)\:f:focus, .atomic .Bgc\(\$c-fuji-sports\)\:h:hover {
+  background-color: #ff520d;
+}
+.atomic .Bgc\(\$c-fuji-red-1-a\) {
+  background-color: #f0162f;
+}
+.atomic .Bgc\(\$c-fuji-shark\) {
+  background-color: #828a93;
+}
+.atomic .Bgc\(\$c-fuji-solo-cup\) {
+  background-color: #eb0f29;
+}
+.atomic .Bgc\(\$c-fuji-tech\), .atomic .Bgc\(\$c-fuji-tech\)\:f:focus, .atomic .Bgc\(\$c-fuji-tech\)\:h:hover {
+  background-color: #ff7b12;
+}
+.atomic .Bgc\(\$c-scooter\) {
+  background-color: #0063EB;
+}
+.atomic .Bgc\(\$c-slurpee\) {
+  background-color: #0C9EF2;
+}
+.atomic .Bgc\(--att-blue\)\:\:b::before {
+  background-color: var(--att-blue);
+}
+.atomic .Bgc\(--black\) {
+  background-color: var(--black);
+}
+.atomic .Bgc\(--dirty-seagull\) {
+  background-color: var(--dirty-seagull);
+}
+.atomic .Bgc\(--dory\), .atomic .Bgc\(--dory\)\:h:hover {
+  background-color: var(--dory);
+}
+.atomic .Bgc\(--frontier-red\)\:\:b::before {
+  background-color: var(--frontier-red);
+}
+.atomic .Bgc\(--grey-hair\) {
+  background-color: var(--grey-hair);
+}
+.atomic .Bgc\(--hulk-pants\)\:\:b::before {
+  background-color: var(--hulk-pants);
+}
+.atomic .Bgc\(--inkwell\) {
+  background-color: var(--inkwell);
+}
+.atomic .Bgc\(--marshmallow\) {
+  background-color: var(--marshmallow);
+}
+.atomic .Bgc\(--midnight\) {
+  background-color: var(--midnight);
+}
+.atomic .Bgc\(--rogers-red\)\:\:b::before {
+  background-color: var(--rogers-red);
+}
+.atomic .Bgc\(--sky\) {
+  background-color: var(--sky);
+}
+.atomic .Bgc\(--watermelon\) {
+  background-color: var(--watermelon);
+}
+.atomic .Bgc\(--white\) {
+  background-color: var(--white);
+}
+.atomic .Bgc\(background-blue-focus\), .atomic .Bgc\(background-blue-focus\)\:h:hover {
+  background-color: rgba(24, 143, 255, 0.1);
+}
+.atomic .Bgc\(backgroundOverlay\) {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+.atomic .Bgc\(bench-background\) {
+  background-color: #eeeeee;
+}
+.atomic .Bgc\(bg-opaque\) {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.atomic .Bgc\(bgc-grey\), .atomic .Bgc\(progress-max\) {
+  background-color: #333333;
+}
+.atomic .Bgc\(bgc-grey-9\) {
+  background-color: #666666;
+}
+.atomic .Bgc\(bgc-grey-light\), .atomic .Bgc\(bgc-grey-light\)\:h:hover {
+  background-color: #F3F3F3;
+}
+.atomic .Bgc\(bgc-grey-light-2\) {
+  background-color: #F7F8FF;
+}
+.atomic .Bgc\(bgc-light\) {
+  background-color: #FFFFFF;
+}
+.atomic .Bgc\(bgc-mgm-light-purple\) {
+  background-color: #5722cb;
+}
+.atomic .Bgc\(bgc-mgm-purple\) {
+  background-color: #320f78;
+}
+.atomic .Bgc\(black\) {
+  background-color: black;
+}
+.atomic .Bgc\(blurple-background\) {
+  background-color: #5d5eff;
+}
+.atomic .Bgc\(button-primary-color\) {
+  background-color: #0078FF;
+}
+.atomic .Bgc\(button-primary-color\)\! {
+  background-color: #0078FF !important;
+}
+.atomic .Bgc\(circle-border\) {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+.atomic .Bgc\(color-light-green\), .atomic .Bgc\(green-highlight\) {
+  background-color: rgba(26, 197, 103, 0.1);
+}
+.atomic .Bgc\(color-light-red-invalid\) {
+  background-color: rgba(235, 15, 41, 0.1);
+}
+.atomic .Bgc\(color-negative\), .atomic .Bgc\(progress-stale\) {
+  background-color: #e7252e;
+}
+.atomic .Bgc\(color-orange-light\)\! {
+  background-color: #fae8e1 !important;
+}
+.atomic .Bgc\(crossIconColor\) {
+  background-color: rgba(0,0,0,.3);
+}
+.atomic .Bgc\(flyout-dark-trans\) {
+  background-color: rgba(0,0,0,0.9);
+}
+.atomic .Bgc\(lite-faint\) {
+  background-color: rgba(255,255,255,0.1);
+}
+.atomic .Bgc\(odd-teams-bg\) {
+  background-color: rgba(185, 189, 197, 0.3);
+}
+.atomic .Bgc\(progress-invited\) {
+  background-color: #959595;
+}
+.atomic .Bgc\(progress-unrenewed\) {
+  background-color: #a3ceff;
+}
+.atomic .Bgc\(radp-header-bgc\), .atomic .Bgc\(radp-selected\), .atomic .Bgc\(\#f0f0f0\)\:h:hover {
+  background-color: #f0f0f0;
+}
+.atomic .Bgc\(secondary\) {
+  background-color: rgba(0,128,242,0.05);
+}
+.atomic .Bgc\(selected-contact\) {
+  background-color: #787d82;
+}
+.atomic .Bgc\(slate-question-button-promo\) {
+  background-color: rgba(255,255,255,0.4);
+}
+.atomic .Bgc\(slate-question-button-promo-select\), .atomic .Bgc\(slate-question-button-promo-select\)\:h:hover {
+  background-color: rgba(255,255,255,0.2);
+}
+.atomic .Bgc\(t\), .atomic .Bgc\(t\)\:h:hover {
+  background-color: transparent;
+}
+.atomic .Bgc\(t\)\! {
+  background-color: transparent !important;
+}
+.atomic .Bgc\(tint-blue\) {
+  background-color: #ECF8FF;
+}
+.atomic .Bgc\(tint-green\) {
+  background-color: #EBFBF2;
+}
+.atomic .Bgc\(tint-orange\) {
+  background-color: #FFF1E0;
+}
+.atomic .Bgc\(tint-purple\) {
+  background-color: #F8F4FF;
+}
+.atomic .Bgc\(tint-yellow\) {
+  background-color: #FFFCE6;
+}
+.atomic .Bgc\(transparent\) {
+  background-color: rgba(255, 255, 255, 0.0);
+}
+.atomic .Bgc\(white\) {
+  background-color: white;
+}
+.atomic .Bgc\(white\)\! {
+  background-color: white !important;
+}
+.atomic .Bgc\(white-transparent\) {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+.atomic .Bgc\(yahoo-background\) {
+  background-color: #6001d2;
+}
+.atomic .Bgc\(\#004dcd\)\:h:hover {
+  background-color: #004dcd;
+}
+.atomic .Bgc\(\#125bd4\)\:h:hover {
+  background-color: #125bd4;
+}
+.atomic .Bgc\(\#188fff\.08\)\:h:hover {
+  background-color: rgba(24,143,255,.08);
+}
+.atomic .Bgc\(\#393f46\)\:h:hover {
+  background-color: #393f46;
+}
+.atomic .Bgc\(\#b00c1e\)\:h:hover {
+  background-color: #b00c1e;
+}
+.atomic .Bgc\(\#edf7f3\)\:h:hover {
+  background-color: #edf7f3;
+}
+.atomic .Bgc\(\$c-battleship\)\:h:hover {
+  background-color: #5B636A;
+}
+.atomic .Bgc\(bgc-grey-7\)\:h:hover {
+  background-color: #e2e2e6;
+}
+.atomic .Bgc\(bgc-trans-light-grey\)\:h:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.atomic .Bgc\(list-hover\)\:h:hover {
+  background-color: #e7f3fe;
+}
+.atomic .Bgc\(smurfette-20-per\)\:h:hover {
+  background-color: #1978D4;
+}
+.contestCard:hover .contestCard\:h_Bgc\(\$c-fuji-dory\) {
+  background-color: #0f69ff !important;
+}
+.wafer-countdown-expired .wafer-countdown-expired_Bgc\(\#2d353e7f\) {
+  background-color: #2d353e !important;
+}
+.wafer-countdown-lessthan24h .wafer-countdown-lessthan24h_Bgc\(\#ff3008\) {
+  background-color: #ff3008 !important;
+}
+.atomic .Bgz\(10px\)\! {
+  background-size: 10px !important;
+}
+.atomic .Bgz\(120px\,20px\) {
+  background-size: 120px;
+}
+.atomic .Bgz\(156px\,26px\) {
+  background-size: 156px;
+}
+.atomic .Bgz\(15px\)\! {
+  background-size: 15px !important;
+}
+.atomic .Bgz\(180px\,30px\) {
+  background-size: 180px;
+}
+.atomic .Bgz\(20px\)\! {
+  background-size: 20px !important;
+}
+.atomic .Bgz\(24px\)\! {
+  background-size: 24px !important;
+}
+.atomic .Bgz\(30px\)\! {
+  background-size: 30px !important;
+}
+.atomic .Bgz\(32px\)\! {
+  background-size: 32px !important;
+}
+.atomic .Bgz\(40px\)\! {
+  background-size: 40px !important;
+}
+.atomic .Bgz\(50px\)\! {
+  background-size: 50px !important;
+}
+.atomic .Bgz\(65\%\) {
+  background-size: 65%;
+}
+.atomic .Bgz\(84px\,14px\) {
+  background-size: 84px;
+}
+.atomic .Bgz\(ct\) {
+  background-size: contain;
+}
+.atomic .Bgz\(cv\) {
+  background-size: cover;
+}
+.atomic .Bgz\(sportsbook-header-bgz\) {
+  background-size: 100% 86px;
+}
+.atomic .Bgp\(0px\,0px\) {
+  background-position: 0px 0px;
+}
+.atomic .Bgp\(100px\,0px\) {
+  background-position: 100px 0px;
+}
+.atomic .Bgp\(104px\,0px\) {
+  background-position: 104px 0px;
+}
+.atomic .Bgp\(130px\,0px\) {
+  background-position: 130px 0px;
+}
+.atomic .Bgp\(28px\,0px\) {
+  background-position: 28px 0px;
+}
+.atomic .Bgp\(30px\,0px\) {
+  background-position: 30px 0px;
+}
+.atomic .Bgp\(40px\,0px\) {
+  background-position: 40px 0px;
+}
+.atomic .Bgp\(42px\,0px\) {
+  background-position: 42px 0px;
+}
+.atomic .Bgp\(50\%\,50\%\) {
+  background-position: 50% 50%;
+}
+.atomic .Bgp\(52px\,0px\) {
+  background-position: 52px 0px;
+}
+.atomic .Bgp\(56px\,0px\) {
+  background-position: 56px 0px;
+}
+.atomic .Bgp\(60px\,0px\) {
+  background-position: 60px 0px;
+}
+.atomic .Bgp\(80px\,0px\) {
+  background-position: 80px 0px;
+}
+.atomic .Bgp\(c\) {
+  background-position: center;
+}
+.atomic .Bgp\(facebook-sprite-bgp\) {
+  background-position: 52px 0;
+}
+.atomic .Bgp\(google-sprite-bgp\) {
+  background-position: 104px 0;
+}
+.atomic .Bgp\(outlook-sprite-bgp\) {
+  background-position: -78px 0;
+}
+.atomic .Bgpx\(-468px\) {
+  background-position-x: -468px;
+}
+.atomic .Bgpx\(0\) {
+  background-position-x: 0;
+}
+.atomic .Bgpx\(468px\) {
+  background-position-x: 468px;
+}
+.atomic .Bgpx\(end\) {
+  background-position-x: right;
+}
+.atomic .Bgpy\(0\) {
+  background-position-y: 0;
+}
+.atomic .Bgr\(nr\) {
+  background-repeat: no-repeat;
+}
+.atomic .Bdcl\(c\) {
+  border-collapse: collapse;
+}
+.atomic .Bdcl\(s\) {
+  border-collapse: separate;
+}
+.atomic .Bxz\(bb\), .Row {
+  box-sizing: border-box;
+}
+.atomic .Bxz\(cb\) {
+  box-sizing: content-box;
+}
+.smartphone .smartphone_Bxz\(bb\) {
+  box-sizing: border-box !important;
+}
+.atomic .Bxsh\(\$toastShadow\) {
+  box-shadow: 0 0 6px 0 rgba(91, 91, 91, 0.5);
+}
+.atomic .Bxsh\(--elevation-4\) {
+  box-shadow: var(--elevation-4);
+}
+.atomic .Bxsh\(card-box-shadow\) {
+  box-shadow: 0 0 3px rgba(0,0,0,0.25);
+}
+.atomic .Bxsh\(column-shadow\) {
+  box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.1);
+}
+.atomic .Bxsh\(elevation-3-shadow\) {
+  box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.1), 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+.atomic .Bxsh\(elevation-4-shadow\), .atomic .Bxsh\(elevation-4-shadow\)\:h:hover {
+  box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.05), 0px 4px 16px rgba(0, 0, 0, 0.2);
+}
+.atomic .Bxsh\(iframeBoxShadow\) {
+  box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.12);
+}
+.atomic .Bxsh\(lockerConfigMenuBxsh\) {
+  box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.3);
+}
+.atomic .Bxsh\(n\), .atomic .Bxsh\(n\)\:f:focus {
+  box-shadow: none;
+}
+.atomic .Bxsh\(n\)\! {
+  box-shadow: none !important;
+}
+.atomic .Bxsh\(na-backgroud-shadow\) {
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.1);
+}
+.atomic .Bxsh\(panelShadow\) {
+  box-shadow: 0 2px 6px 0 rgba(0,0,0,.2);
+}
+.atomic .Bxsh\(pin-bxsh\) {
+  box-shadow: 0px 0px 0px 3px rgba(24,143,255,0.2);
+}
+.atomic .Bxsh\(premium-modal-box-shadow\) {
+  box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.1);
+}
+.atomic .Bxsh\(rankings-shadow\) {
+  box-shadow: inset 0 -1px 0 0 #f1f1f5, inset 0 1px 0 0 #f1f1f5;
+}
+.atomic .Bxsh\(smadModalShadow\) {
+  box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3);
+}
+.atomic .Bxsh\(smadParallaxCTACardArrowBtnShadow\), .atomic .Bxsh\(smadParallaxCardImageShadow\) {
+  box-shadow: 0px 4px 10px 2px rgba(0, 0, 0, 0.1);
+}
+.atomic .Bxsh\(smadParallaxCTACardShadow\) {
+  box-shadow: 0px 5px 10px 5px rgba(0, 0, 0, 0.1);
+}
+.atomic .Bxsh\(smadParallaxCardLableShadow\) {
+  box-shadow: 0px 10px 8px rgba(0, 0, 0, 0.1);
+}
+.atomic .Bxsh\(streamTooltipShadow\) {
+  box-shadow: 0 1px 3px 1px rgba(0,0,0,.08);
+}
+.atomic .Bxsh\(tooltip-shadow\) {
+  box-shadow: 0px 4px 14px 0 rgba(0,0,0,.18);
+}
+.atomic .Bxsh\(depth-chart-team-shadow\)\:h:hover {
+  box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.1);
+}
+.atomic .Bxsh\(entry-bxsh\)\:h:hover {
+  box-shadow: 0px 5px 5px rgba(0,0,0,0.1), 0px -5px 5px rgba(0,0,0,0.1);
+}
+.atomic .Bxsh\(row-shadow\)\:h:hover {
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.1);
+}
+.atomic .Cl\(b\), .Cf:after, .Row {
+  clear: both;
+}
+.active .active_C\(\#7300ff\) {
+  color: #7300ff !important;
+}
+.atomic .C\(\#--sky\), .atomic .C\(--sky\) {
+  color: var(--sky);
+}
+.atomic .C\(\#000\), .atomic .C\(radp-c\), .atomic .C\(radp-selected-c\) {
+  color: #000;
+}
+.atomic .C\(\#000\)\! {
+  color: #000 !important;
+}
+.atomic .C\(\#000\.54\) {
+  color: rgba(0,0,0,.54);
+}
+.atomic .C\(\#0078ff\), .atomic .C\(progress-confirmed\), .atomic .C\(\#0078ff\)\:h:hover {
+  color: #0078ff;
+}
+.atomic .C\(\#00c3ff\) {
+  color: #00c3ff;
+}
+.atomic .C\(\#00d15e\), .atomic .C\(font-color-green-success\) {
+  color: #00d15e;
+}
+.atomic .C\(\#0c9ef2\) {
+  color: #0c9ef2;
+}
+.atomic .C\(\#0f1417\) {
+  color: #0f1417;
+}
+.atomic .C\(\#1b95ff\) {
+  color: #1b95ff;
+}
+.atomic .C\(\#222\) {
+  color: #222;
+}
+.atomic .C\(\#232a31\), .atomic .C\(\$c-fuji-batcave\), .atomic .C\(\$c-fuji-grey-m\), .atomic .C\(font-color-dark-grey-3\), .atomic .C\(\$c-fuji-grey-m\)\:h:hover {
+  color: #232a31;
+}
+.atomic .C\(\#324fe1\) {
+  color: #324fe1;
+}
+.atomic .C\(\#464e55\) {
+  color: #464e55;
+}
+.atomic .C\(\#5b636a\), .atomic .C\(\$c-fuji-battleship\), .atomic .C\(\$c-fuji-grey-i\) {
+  color: #5b636a;
+}
+.atomic .C\(\#777\) {
+  color: #777;
+}
+.atomic .C\(\#828c93\), .atomic .C\(font-color-grey-7\) {
+  color: #828c93;
+}
+.atomic .C\(\#959595\), .atomic .C\(color-gray-2\), .atomic .C\(color-gray-light\), .atomic .C\(progress-invited\) {
+  color: #959595;
+}
+.atomic .C\(\#999\) {
+  color: #999;
+}
+.atomic .C\(\#9d9d9d\)\! {
+  color: #9d9d9d !important;
+}
+.atomic .C\(\#a298c2\) {
+  color: #a298c2;
+}
+.atomic .C\(\#afafaf\) {
+  color: #afafaf;
+}
+.atomic .C\(\#afafaf\)\! {
+  color: #afafaf !important;
+}
+.atomic .C\(\#b0b9c1\)\!\:di:disabled {
+  color: #b0b9c1 !important;
+}
+.atomic .C\(\#b2b2b2\) {
+  color: #b2b2b2;
+}
+.atomic .C\(\#cc0e25\) {
+  color: #cc0e25;
+}
+.atomic .C\(\#ccc\) {
+  color: #ccc;
+}
+.atomic .C\(\#f0162f\), .atomic .C\(\$c-fuji-red-1-a\) {
+  color: #f0162f;
+}
+.atomic .C\(\#ff3008\) {
+  color: #ff3008;
+}
+.atomic .C\(\#ff403a\) {
+  color: #ff403a;
+}
+.atomic .C\(\#ff6e0c\) {
+  color: #ff6e0c;
+}
+.atomic .C\(\#fff\), .atomic .C\(main-bg-color\), .atomic .C\(main-bg-color\)\:h:hover {
+  color: #fff;
+}
+.atomic .C\(\#fff\)\! {
+  color: #fff !important;
+}
+.atomic .C\(\#fff\.6\) {
+  color: rgba(255,255,255,.6);
+}
+.atomic .C\(\$c-battleship\) {
+  color: #5B636A;
+}
+.atomic .C\(\$c-casper\), .atomic .C\(\$c-casper\)\:h:hover {
+  color: #ffffff;
+}
+.atomic .C\(\$c-casper\)\!, .atomic .C\(\$c-casper\)\!\:h:hover {
+  color: #ffffff !important;
+}
+.atomic .C\(\$c-fuji-beauty\), .atomic .C\(font-color-fuji-red\), .atomic .C\(\$c-fuji-beauty\)\:f:focus, .atomic .C\(\$c-fuji-beauty\)\:h:hover {
+  color: #ff4d52;
+}
+.atomic .C\(\$c-fuji-black\) {
+  color: #000000;
+}
+.atomic .C\(\$c-fuji-blue-1-a\), .atomic .C\(\$c-fuji-finance\), .atomic .C\(\$c-fuji-gma\), .atomic .C\(\$c-fuji-news\), .atomic .C\(\$c-fuji-smurfette\), .atomic .C\(bd-blue\), .atomic .C\(font-color-blue\), .atomic .C\(\$c-fuji-finance\)\:f:focus, .atomic .C\(\$c-fuji-gma\)\:f:focus, .atomic .C\(\$c-fuji-news\)\:f:focus, .atomic .C\(\$c-fuji-finance\)\:h:hover, .atomic .C\(\$c-fuji-gma\)\:h:hover, .atomic .C\(\$c-fuji-news\)\:h:hover {
+  color: #188fff;
+}
+.atomic .C\(\$c-fuji-blue-1-a\)\! {
+  color: #188fff !important;
+}
+.atomic .C\(\$c-fuji-carrot-juice\), .atomic .C\(\$c-fuji-sports\), .atomic .C\(\$c-fuji-sports\)\:f:focus, .atomic .C\(\$c-fuji-sports\)\:h:hover {
+  color: #ff520d;
+}
+.atomic .C\(\$c-fuji-celebrity\), .atomic .C\(\$c-fuji-FAQS\), .atomic .C\(\$c-fuji-lifestyle\), .atomic .C\(\$c-fuji-lifestyles\), .atomic .C\(\$c-fuji-omg\), .atomic .C\(\$c-fuji-celebrity\)\:f:focus, .atomic .C\(\$c-fuji-FAQS\)\:f:focus, .atomic .C\(\$c-fuji-lifestyle\)\:f:focus, .atomic .C\(\$c-fuji-lifestyles\)\:f:focus, .atomic .C\(\$c-fuji-omg\)\:f:focus, .atomic .C\(\$c-fuji-celebrity\)\:h:hover, .atomic .C\(\$c-fuji-FAQS\)\:h:hover, .atomic .C\(\$c-fuji-lifestyle\)\:h:hover, .atomic .C\(\$c-fuji-lifestyles\)\:h:hover, .atomic .C\(\$c-fuji-omg\)\:h:hover {
+  color: #f80e5d;
+}
+.atomic .C\(\$c-fuji-dolphin\), .atomic .C\(\$c-fuji-grey-o\), .atomic .C\(border-color-gray\), .atomic .C\(color-gray-3\) {
+  color: #6e7780;
+}
+.atomic .C\(\$c-fuji-dory\), .atomic .C\(\$c-fuji-dory\)\:h:hover {
+  color: #0f69ff;
+}
+.atomic .C\(\$c-fuji-dory\)\! {
+  color: #0f69ff !important;
+}
+.atomic .C\(\$c-fuji-fantasy\), .atomic .C\(\$c-fuji-fantasy\)\:f:focus, .atomic .C\(\$c-fuji-fantasy\)\:h:hover {
+  color: #00cd7a;
+}
+.atomic .C\(\$c-fuji-general\), .atomic .C\(\$c-fuji-offnetwork\), .atomic .C\(\$c-fuji-tv\), .atomic .C\(\$c-fuji-general\)\:f:focus, .atomic .C\(\$c-fuji-offnetwork\)\:f:focus, .atomic .C\(\$c-fuji-tv\)\:f:focus, .atomic .C\(\$c-fuji-general\)\:h:hover, .atomic .C\(\$c-fuji-offnetwork\)\:h:hover, .atomic .C\(\$c-fuji-tv\)\:h:hover {
+  color: #6d00f6;
+}
+.atomic .C\(\$c-fuji-green-1-b\), .atomic .C\(\$c-fuji-mulah\), .atomic .C\(color-positive\), .atomic .C\(font-color-green\) {
+  color: #1ac567;
+}
+.atomic .C\(\$c-fuji-green-1-b\)\! {
+  color: #1ac567 !important;
+}
+.atomic .C\(\$c-fuji-grey-c\) {
+  color: #e0e4e9;
+}
+.atomic .C\(\$c-fuji-grey-e\), .atomic .C\(font-color-light-grey-2\) {
+  color: #b9bdc5;
+}
+.atomic .C\(\$c-fuji-grey-f\) {
+  color: #979ba7;
+}
+.atomic .C\(\$c-fuji-grey-h\) {
+  color: #767d84;
+}
+.atomic .C\(\$c-fuji-grey-j\) {
+  color: #464e56;
+}
+.atomic .C\(\$c-fuji-grey-l\), .atomic .C\(font-colordark-grey-2\) {
+  color: #26282a;
+}
+.atomic .C\(\$c-fuji-grey-m\)\! {
+  color: #232a31 !important;
+}
+.atomic .C\(\$c-fuji-grey-n\) {
+  color: #1d2228;
+}
+.atomic .C\(\$c-fuji-hkfood\), .atomic .C\(\$c-fuji-hkstylemen\), .atomic .C\(\$c-fuji-hktravelnow\), .atomic .C\(\$c-fuji-style\), .atomic .C\(\$c-fuji-hkfood\)\:f:focus, .atomic .C\(\$c-fuji-hkstylemen\)\:f:focus, .atomic .C\(\$c-fuji-hktravelnow\)\:f:focus, .atomic .C\(\$c-fuji-style\)\:f:focus, .atomic .C\(\$c-fuji-hkfood\)\:h:hover, .atomic .C\(\$c-fuji-hkstylemen\)\:h:hover, .atomic .C\(\$c-fuji-hktravelnow\)\:h:hover, .atomic .C\(\$c-fuji-style\)\:h:hover {
+  color: #be0067;
+}
+.atomic .C\(\$c-fuji-malbec\) {
+  color: #39007d;
+}
+.atomic .C\(\$c-fuji-movies\), .atomic .C\(\$c-fuji-music\), .atomic .C\(\$c-fuji-movies\)\:f:focus, .atomic .C\(\$c-fuji-music\)\:f:focus, .atomic .C\(\$c-fuji-movies\)\:h:hover, .atomic .C\(\$c-fuji-music\)\:h:hover {
+  color: #cc008c;
+}
+.atomic .C\(\$c-fuji-purple-a\) {
+  color: #6001d2;
+}
+.atomic .C\(\$c-fuji-red-1-b\) {
+  color: #dc142d;
+}
+.atomic .C\(\$c-fuji-red-1-b\)\! {
+  color: #dc142d !important;
+}
+.atomic .C\(\$c-fuji-shark\) {
+  color: #828a93;
+}
+.atomic .C\(\$c-fuji-tech\), .atomic .C\(\$c-fuji-tech\)\:f:focus, .atomic .C\(\$c-fuji-tech\)\:h:hover {
+  color: #ff7b12;
+}
+.atomic .C\(\$c-scooter\)\! {
+  color: #0063EB !important;
+}
+.atomic .C\(--barney\) {
+  color: var(--barney);
+}
+.atomic .C\(--batcave\) {
+  color: var(--batcave);
+}
+.atomic .C\(--black\), .atomic .C\(--black\)\:\:ph:-ms-input-placeholder {
+  color: var(--black);
+}
+.atomic .C\(--black\), .atomic .C\(--black\)\:\:ph::placeholder {
+  color: var(--black);
+}
+.atomic .C\(--bob\) {
+  color: var(--bob);
+}
+.atomic .C\(--cobalt\) {
+  color: var(--cobalt);
+}
+.atomic .C\(--dolphin\) {
+  color: var(--dolphin);
+}
+.atomic .C\(--dory\) {
+  color: var(--dory);
+}
+.atomic .C\(--inkwell\) {
+  color: var(--inkwell);
+}
+.atomic .C\(--malibu\) {
+  color: var(--malibu);
+}
+.atomic .C\(--shark\) {
+  color: var(--shark);
+}
+.atomic .C\(--white\) {
+  color: var(--white);
+}
+.atomic .C\(--yb-gandalf\) {
+  color: var(--yb-gandalf);
+}
+.atomic .C\(bgc-grey-4\) {
+  color: #cbcbcb;
+}
+.atomic .C\(black\) {
+  color: black;
+}
+.atomic .C\(border-color-negative\) {
+  color: #eb0f29;
+}
+.atomic .C\(button-primary-color\), .atomic .C\(button-primary-color\)\:h:hover {
+  color: #0078FF;
+}
+.atomic .C\(cc\) {
+  color: currentColor;
+}
+.atomic .C\(circle-border\) {
+  color: rgba(255, 255, 255, 0.5);
+}
+.atomic .C\(color-caution\) {
+  color: #daa400;
+}
+.atomic .C\(color-facebook\) {
+  color: #3b5998;
+}
+.atomic .C\(color-gray-4\), .atomic .C\(faded-grey\) {
+  color: #c7cdd2;
+}
+.atomic .C\(color-gray-light\)\!, .wafer-countdown-expired .wafer-countdown-expired_C\(\#959595\) {
+  color: #959595 !important;
+}
+.atomic .C\(color-negative\), .atomic .C\(progress-stale\) {
+  color: #e7252e;
+}
+.atomic .C\(color-secondary\), .atomic .C\(progress-available\) {
+  color: #f3f3f3;
+}
+.atomic .C\(color-tumblr\) {
+  color: #2d4460;
+}
+.atomic .C\(color-twitter\) {
+  color: #00aced;
+}
+.atomic .C\(font-color-dark\) {
+  color: #232A31;
+}
+.atomic .C\(font-color-dark\)\! {
+  color: #232A31 !important;
+}
+.atomic .C\(font-color-dark-grey\) {
+  color: #787d82;
+}
+.atomic .C\(font-color-default\), .atomic .C\(progress-max\) {
+  color: #333333;
+}
+.atomic .C\(font-color-default\)\! {
+  color: #333333 !important;
+}
+.atomic .C\(font-color-grey\) {
+  color: #757575;
+}
+.atomic .C\(font-color-light\) {
+  color: #FFFFFF;
+}
+.atomic .C\(font-color-light\)\! {
+  color: #FFFFFF !important;
+}
+.atomic .C\(font-color-mgm-gold\) {
+  color: #bda978;
+}
+.atomic .C\(font-color-turmeric\) {
+  color: #FFA700;
+}
+.atomic .C\(gray\) {
+  color: gray;
+}
+.atomic .C\(grey\) {
+  color: grey;
+}
+.atomic .C\(primary-text\) {
+  color: #333;
+}
+.atomic .C\(progress-unrenewed\) {
+  color: #a3ceff;
+}
+.atomic .C\(red\) {
+  color: red;
+}
+.atomic .C\(white\) {
+  color: white;
+}
+.atomic .C\(white\)\!, .contestCard:hover .contestCard\:h_C\(white\), .Selected .Selected_C\(white\) {
+  color: white !important;
+}
+.atomic .C\(\#333\)\!\:h:hover {
+  color: #333 !important;
+}
+.share-button:hover .share-button\:h_C\(\$streamHoverClass\) {
+  color: #0078ff !important;
+}
+.wafer-countdown-lessthan24h .wafer-countdown-lessthan24h_C\(\#ff3008\) {
+  color: #ff3008 !important;
+}
+.atomic .Colmg\(8px\) {
+  column-gap: 8px;
+}
+.atomic .Cnt\(emptyContent\)\:\:b::before {
+  content: '';
+}
+.atomic .Cnt\(noq\)\:\:b::before {
+  content: no-open-quote;
+}
+.atomic .Cur\(a\) {
+  cursor: auto;
+}
+.atomic .Cur\(d\), .atomic .Cur\(d\)\:di:disabled, .atomic .Cur\(d\)\:h:hover {
+  cursor: default;
+}
+.atomic .Cur\(d\)\! {
+  cursor: default !important;
+}
+.atomic .Cur\(h\) {
+  cursor: help;
+}
+.atomic .Cur\(n\), .atomic .Cur\(n\)\:h:hover {
+  cursor: none;
+}
+.atomic .Cur\(na\) {
+  cursor: not-allowed;
+}
+.atomic .Cur\(p\), .atomic .Cur\(p\)\:h:hover {
+  cursor: pointer;
+}
+.atomic .Cur\(pr\) {
+  cursor: progress;
+}
+.active .active_D\(b\), .ad-feedback-options .ad-feedback-options_D\(b\), .close-btn:hover .close-btn\:h_D\(b\), .contestCard:hover .contestCard\:h_D\(b\), .atomic .D\(b\)\!, .demote-confirm-open .demote-confirm-open_D\(b\), .dislike-thankyou-show .dislike-thankyou-show_D\(b\), .dropdownWrapper:hover .dropdownWrapper\:h_D\(b\), .Feedback:hover .Feedback\:h_D\(b\), .final-thankyou-show .final-thankyou-show_D\(b\), .gemini-dropdown-actions-show .gemini-dropdown-actions-show_D\(b\), .gemini-dropdown-show .gemini-dropdown-show_D\(b\), .js-hotspot-modal-active .js-hotspot-modal-active_D\(b\), .js-image-container-full-screen .js-image-container-full-screen_D\(b\), .js-leadgen-ad-fullscreen .js-leadgen-ad-fullscreen_D\(b\), .like-thankyou-show .like-thankyou-show_D\(b\), .menu-item-active .menu-item-active_D\(b\), .menu-options-show .menu-options-show_D\(b\), .selected > .selected\>D\(b\), .selected ~ .selected\~D\(b\), .show-dislike-options .show-dislike-options_D\(b\), .show-then-hide-ad-confirmation .show-then-hide-ad-confirmation_D\(b\), .thankyou-toast-show .thankyou-toast-show_D\(b\), .tooltip:hover .tooltip\:h_D\(b\), .wafer-countdown-expired .wafer-countdown-expired_D\(b\), .ys-partner-container:hover .ys-partner-container\:h_D\(b\) {
+  display: block !important;
+}
+.adfeedback-error-hide .adfeedback-error-hide_D\(n\), .adfeedback-options-hide .adfeedback-options-hide_D\(n\), .close-btn:hover .close-btn\:h_D\(n\), .contestCard:hover .contestCard\:h_D\(n\), .atomic .D\(n\)\!, .demote-confirm-open .demote-confirm-open_D\(n\), .dot-hide .dot-hide_D\(n\), .error-msg-show .error-msg-show_D\(n\), .final-thankyou-show .final-thankyou-show_D\(n\), .hide-feedback-options .hide-feedback-options_D\(n\), .js-image-container-full-screen .js-image-container-full-screen_D\(n\), .lightweight .lightweight_D\(n\), .menu-options-hide .menu-options-hide_D\(n\), .NoJs .NoJs_D\(n\), .sdaLite .sdaLite_D\(n\), .show-then-hide-ad-confirmation .show-then-hide-ad-confirmation_D\(n\), .show-then-hide-gemini-confirmation .show-then-hide-gemini-confirmation_D\(n\), .thankyou-toast-show .thankyou-toast-show_D\(n\), .wafer-countdown-expired .wafer-countdown-expired_D\(n\), .wafer-countdown-lessthan1h .wafer-countdown-lessthan1h_D\(n\), .wafer-countdown-lessthan24h .wafer-countdown-lessthan24h_D\(n\) {
+  display: none !important;
+}
+.close-btn:hover .close-btn\:h_D\(ib\)\!, .contact:hover > .contact\:h\>D\(ib\), .wafer-geolocation-denied + .wafer-geolocation-denied\+D\(ib\) {
+  display: inline-block !important;
+}
+.atomic .D\(b\), .atomic .D\(b\)\:\:b::before {
+  display: block;
+}
+.atomic .D\(f\) {
+  display: -ms-flexbox;
+  display: flex;
+}
+.atomic .D\(f\)\! {
+  display: -ms-flexbox !important;
+  display: flex !important;
+}
+.atomic .D\(g\) {
+  display: -ms-grid;
+  display: grid;
+}
+.atomic .D\(i\) {
+  display: inline;
+}
+.atomic .D\(ib\), .atomic .D\(ib\)\:\:b::before, .atomic .D\(radp-d\), .Ell:after, .IbBox, a[class*=LineClamp], a[class*=LineClamp]:after, .Row {
+  display: inline-block;
+}
+.atomic .D\(if\) {
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+.atomic .D\(n\) {
+  display: none;
+}
+.atomic .D\(tb\), .Cf:before, .Cf:after {
+  display: table;
+}
+.atomic .D\(tbc\) {
+  display: table-cell;
+}
+.atomic .D\(tbr\) {
+  display: table-row;
+}
+.show-something-else .show-something-else_D\(tb\) {
+  display: table !important;
+}
+.atomic .Fil\(row-blur\) {
+  filter: blur(6px);
+}
+.atomic .Fil\(smadDropShadow\) {
+  filter: drop-shadow(0px 4px 16px #000040);
+}
+.atomic .Fx\(\$grid1\) {
+  -ms-flex: 1;
+      flex: 1;
+}
+.atomic .Fx\(\$grid7\) {
+  -ms-flex: 7;
+      flex: 7;
+}
+.atomic .Fx\(\$grid9\) {
+  -ms-flex: 9;
+      flex: 9;
+}
+.atomic .Flxg\(1\), .atomic .Fxg\(1\) {
+  -ms-flex-positive: 1;
+      flex-grow: 1;
+}
+.atomic .Flxg\(100\%\) {
+  -ms-flex-positive: 100%;
+      flex-grow: 100%;
+}
+.atomic .Flxs\(0\), .atomic .Fxs\(0\) {
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+.atomic .Flxs\(2\) {
+  -ms-flex-negative: 2;
+      flex-shrink: 2;
+}
+.atomic .Flxb\(0\) {
+  -ms-flex-preferred-size: 0;
+      flex-basis: 0;
+}
+.atomic .Flxb\(10\%\) {
+  -ms-flex-preferred-size: 10%;
+      flex-basis: 10%;
+}
+.atomic .Flxb\(100\%\), .atomic .Fxb\(100\%\), .atomic .Fxb\(100\%\)--xxs {
+  -ms-flex-preferred-size: 100%;
+      flex-basis: 100%;
+}
+.atomic .Flxb\(58\%\) {
+  -ms-flex-preferred-size: 58%;
+      flex-basis: 58%;
+}
+.atomic .Flxb\(60\%\) {
+  -ms-flex-preferred-size: 60%;
+      flex-basis: 60%;
+}
+.atomic .Flxb\(65\%\) {
+  -ms-flex-preferred-size: 65%;
+      flex-basis: 65%;
+}
+.atomic .Flxb\(80\%\) {
+  -ms-flex-preferred-size: 80%;
+      flex-basis: 80%;
+}
+.atomic .Flxb\(90\%\), .atomic .Fxb\(90\%\) {
+  -ms-flex-preferred-size: 90%;
+      flex-basis: 90%;
+}
+.atomic .Fxb\(1\/3\) {
+  -ms-flex-preferred-size: 33.3333%;
+      flex-basis: 33.3333%;
+}
+.atomic .Fxb\(25\%\) {
+  -ms-flex-preferred-size: 25%;
+      flex-basis: 25%;
+}
+.atomic .Fxb\(2em\) {
+  -ms-flex-preferred-size: 2em;
+      flex-basis: 2em;
+}
+.atomic .Fxb\(50\%\) {
+  -ms-flex-preferred-size: 50%;
+      flex-basis: 50%;
+}
+.atomic .Fxb\(75\%\) {
+  -ms-flex-preferred-size: 75%;
+      flex-basis: 75%;
+}
+.atomic .Fld\(c\), .atomic .Fxd\(c\) {
+  -ms-flex-direction: column;
+      flex-direction: column;
+}
+.atomic .Fld\(r\), .atomic .Fxd\(r\) {
+  -ms-flex-direction: row;
+      flex-direction: row;
+}
+.smartphone .smartphone_Fxd\(c\) {
+  -ms-flex-direction: column !important;
+      flex-direction: column !important;
+}
+.atomic .Flf\(w\), .atomic .Fxf\(w\) {
+  -ms-flex-flow: wrap;
+      flex-flow: wrap;
+}
+.atomic .Gtc\(four-col-grid\) {
+  -ms-grid-columns: (1fr)[4];
+      grid-template-columns: repeat(4, 1fr);
+}
+.atomic .Gtc\(three-col-grid\) {
+  -ms-grid-columns: (1fr)[3];
+      grid-template-columns: repeat(3, 1fr);
+}
+.atomic .Or\(1\) {
+  -ms-flex-order: 1;
+      order: 1;
+}
+.atomic .Jc\(c\) {
+  -ms-flex-pack: center;
+      justify-content: center;
+}
+.atomic .Jc\(fe\) {
+  -ms-flex-pack: end;
+      justify-content: flex-end;
+}
+.atomic .Jc\(fs\) {
+  -ms-flex-pack: start;
+      justify-content: flex-start;
+}
+.atomic .Jc\(sa\) {
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+.atomic .Jc\(sb\) {
+  -ms-flex-pack: justify;
+      justify-content: space-between;
+}
+.atomic .Jc\(se\) {
+  -ms-flex-pack: space-evenly;
+      justify-content: space-evenly;
+}
+.atomic .Flw\(nw\) {
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+}
+.atomic .Flw\(w\), .atomic .Fxw\(w\) {
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+.close-btn:hover .close-btn\:h_Fl\(end\) {
+  float: right !important;
+}
+.atomic .Fl\(end\) {
+  float: right;
+}
+.atomic .Fl\(start\) {
+  float: left;
+}
+.atomic .Ff\(\$ff-primary\), .atomic .Ff\(\$ff-secondary\) {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.atomic .Ff\(ss\) {
+  font-family: Helvetica, Arial, sans-serif;
+}
+.active .active_Fw\(700\), .Selected .Selected_Fw\(700\) {
+  font-weight: 700 !important;
+}
+.atomic .Fw\(\$fweight\), .atomic .Fw\(700\), .atomic .Fw\(fw-xstrong\) {
+  font-weight: 700;
+}
+.atomic .Fw\(100\) {
+  font-weight: 100;
+}
+.atomic .Fw\(200\), .atomic .Fw\(fw-thin\) {
+  font-weight: 200;
+}
+.atomic .Fw\(300\) {
+  font-weight: 300;
+}
+.atomic .Fw\(400\) {
+  font-weight: 400;
+}
+.atomic .Fw\(500\) {
+  font-weight: 500;
+}
+.atomic .Fw\(600\) {
+  font-weight: 600;
+}
+.atomic .Fw\(600\)\! {
+  font-weight: 600 !important;
+}
+.atomic .Fw\(800\) {
+  font-weight: 800;
+}
+.atomic .Fw\(b\), .atomic .Fw\(b\)\:h:hover {
+  font-weight: bold;
+}
+.atomic .Fw\(lr\) {
+  font-weight: lighter;
+}
+.atomic .Fw\(n\) {
+  font-weight: normal;
+}
+.atomic .Fz\(0\) {
+  font-size: 0;
+}
+.atomic .Fz\(1\.3em\) {
+  font-size: 1.3em;
+}
+.atomic .Fz\(1\.6em\) {
+  font-size: 1.6em;
+}
+.atomic .Fz\(10px\) {
+  font-size: 10px;
+}
+.atomic .Fz\(11px\), .atomic .Fz\(fz-xsm\) {
+  font-size: 11px;
+}
+.atomic .Fz\(11px\)\! {
+  font-size: 11px !important;
+}
+.atomic .Fz\(12px\) {
+  font-size: 12px;
+}
+.atomic .Fz\(12px\)\! {
+  font-size: 12px !important;
+}
+.atomic .Fz\(13px\), .atomic .Fz\(13px\)--sm1024, .atomic .Fz\(fz-sm\) {
+  font-size: 13px;
+}
+.atomic .Fz\(14px\) {
+  font-size: 14px;
+}
+.atomic .Fz\(15px\), .atomic .Fz\(fz-md\) {
+  font-size: 15px;
+}
+.atomic .Fz\(16px\), .atomic .Fz\(16px\)--xxs {
+  font-size: 16px;
+}
+.atomic .Fz\(17px\), .atomic .Fz\(17px\)--sm1024 {
+  font-size: 17px;
+}
+.atomic .Fz\(18px\), .atomic .Fz\(fz-lg\) {
+  font-size: 18px;
+}
+.atomic .Fz\(19px\) {
+  font-size: 19px;
+}
+.atomic .Fz\(20px\), .atomic .Fz\(20px\)--xxs, .atomic .Fz\(fz-xl\) {
+  font-size: 20px;
+}
+.atomic .Fz\(22px\), .atomic .Fz\(fz-2xl\) {
+  font-size: 22px;
+}
+.atomic .Fz\(24px\), .atomic .Fz\(fz-3xl\) {
+  font-size: 24px;
+}
+.atomic .Fz\(25px\) {
+  font-size: 25px;
+}
+.atomic .Fz\(26px\) {
+  font-size: 26px;
+}
+.atomic .Fz\(27px\) {
+  font-size: 27px;
+}
+.atomic .Fz\(28px\), .atomic .Fz\(28px\)--xxs {
+  font-size: 28px;
+}
+.atomic .Fz\(30px\) {
+  font-size: 30px;
+}
+.atomic .Fz\(32px\) {
+  font-size: 32px;
+}
+.atomic .Fz\(34px\) {
+  font-size: 34px;
+}
+.atomic .Fz\(35px\) {
+  font-size: 35px;
+}
+.atomic .Fz\(40px\) {
+  font-size: 40px;
+}
+.atomic .Fz\(42px\) {
+  font-size: 42px;
+}
+.atomic .Fz\(48px\) {
+  font-size: 48px;
+}
+.atomic .Fz\(50px\) {
+  font-size: 50px;
+}
+.atomic .Fz\(60px\) {
+  font-size: 60px;
+}
+.atomic .Fz\(7px\) {
+  font-size: 7px;
+}
+.atomic .Fz\(8px\) {
+  font-size: 8px;
+}
+.atomic .Fz\(9px\) {
+  font-size: 9px;
+}
+.atomic .Fz\(font-size-inherit\) {
+  font-size: inherit;
+}
+.my .my_Fz\(13px\), .smartphone .smartphone_Fz\(13px\) {
+  font-size: 13px !important;
+}
+.smartphone .smartphone_Fz\(14px\), .tablet .tablet_Fz\(14px\) {
+  font-size: 14px !important;
+}
+.smartphone .smartphone_Fz\(fz-xl\) {
+  font-size: 20px !important;
+}
+.atomic .Fs\(i\) {
+  font-style: italic;
+}
+.atomic .Fs\(n\) {
+  font-style: normal;
+}
+.atomic .Gp\(10px\) {
+  gap: 10px;
+}
+.atomic .Gp\(16px\) {
+  gap: 16px;
+}
+.atomic .Gp\(5px\) {
+  gap: 5px;
+}
+.atomic .Gp\(6px\) {
+  gap: 6px;
+}
+.atomic .Rowg\(20px\) {
+  row-gap: 20px;
+}
+.active .active_H\(2px\) {
+  height: 2px !important;
+}
+.atomic .H\(0\) {
+  height: 0;
+}
+.atomic .H\(0px\) {
+  height: 0px;
+}
+.atomic .H\(1\.3em\) {
+  height: 1.3em;
+}
+.atomic .H\(100\%\) {
+  height: 100%;
+}
+.atomic .H\(100px\) {
+  height: 100px;
+}
+.atomic .H\(100vh\) {
+  height: 100vh;
+}
+.atomic .H\(105px\) {
+  height: 105px;
+}
+.atomic .H\(10px\) {
+  height: 10px;
+}
+.atomic .H\(11\.5px\)--min320 {
+  height: 11.5px;
+}
+.atomic .H\(111px\) {
+  height: 111px;
+}
+.atomic .H\(115px\) {
+  height: 115px;
+}
+.atomic .H\(11px\) {
+  height: 11px;
+}
+.atomic .H\(12px\), .atomic .H\(12px\)\:\:b::before {
+  height: 12px;
+}
+.atomic .H\(12px\)\! {
+  height: 12px !important;
+}
+.atomic .H\(130px\) {
+  height: 130px;
+}
+.atomic .H\(132px\) {
+  height: 132px;
+}
+.atomic .H\(136px\) {
+  height: 136px;
+}
+.atomic .H\(13px\) {
+  height: 13px;
+}
+.atomic .H\(14px\) {
+  height: 14px;
+}
+.atomic .H\(15px\) {
+  height: 15px;
+}
+.atomic .H\(16em\) {
+  height: 16em;
+}
+.atomic .H\(16px\) {
+  height: 16px;
+}
+.atomic .H\(170px\) {
+  height: 170px;
+}
+.atomic .H\(175px\) {
+  height: 175px;
+}
+.atomic .H\(176px\) {
+  height: 176px;
+}
+.atomic .H\(177\.77vw\) {
+  height: 177.77vw;
+}
+.atomic .H\(180\%\) {
+  height: 180%;
+}
+.atomic .H\(18px\), .atomic .H\(18px\)--xxs {
+  height: 18px;
+}
+.atomic .H\(19px\) {
+  height: 19px;
+}
+.atomic .H\(1em\) {
+  height: 1em;
+}
+.atomic .H\(1px\) {
+  height: 1px;
+}
+.atomic .H\(200px\) {
+  height: 200px;
+}
+.atomic .H\(206px\) {
+  height: 206px;
+}
+.atomic .H\(20px\) {
+  height: 20px;
+}
+.atomic .H\(210px\) {
+  height: 210px;
+}
+.atomic .H\(21px\) {
+  height: 21px;
+}
+.atomic .H\(22px\) {
+  height: 22px;
+}
+.atomic .H\(24px\) {
+  height: 24px;
+}
+.atomic .H\(250px\) {
+  height: 250px;
+}
+.atomic .H\(25px\) {
+  height: 25px;
+}
+.atomic .H\(26px\) {
+  height: 26px;
+}
+.atomic .H\(280px\) {
+  height: 280px;
+}
+.atomic .H\(28px\) {
+  height: 28px;
+}
+.atomic .H\(296px\) {
+  height: 296px;
+}
+.atomic .H\(300px\) {
+  height: 300px;
+}
+.atomic .H\(30px\) {
+  height: 30px;
+}
+.atomic .H\(30vh\)\:\:b::before {
+  height: 30vh;
+}
+.atomic .H\(31px\) {
+  height: 31px;
+}
+.atomic .H\(32px\) {
+  height: 32px;
+}
+.atomic .H\(33\%\) {
+  height: 33%;
+}
+.atomic .H\(335px\) {
+  height: 335px;
+}
+.atomic .H\(33px\) {
+  height: 33px;
+}
+.atomic .H\(34px\) {
+  height: 34px;
+}
+.atomic .H\(35px\) {
+  height: 35px;
+}
+.atomic .H\(365px\) {
+  height: 365px;
+}
+.atomic .H\(36px\) {
+  height: 36px;
+}
+.atomic .H\(37px\) {
+  height: 37px;
+}
+.atomic .H\(38px\) {
+  height: 38px;
+}
+.atomic .H\(3px\) {
+  height: 3px;
+}
+.atomic .H\(400px\) {
+  height: 400px;
+}
+.atomic .H\(40px\) {
+  height: 40px;
+}
+.atomic .H\(41px\) {
+  height: 41px;
+}
+.atomic .H\(42px\) {
+  height: 42px;
+}
+.atomic .H\(434px\) {
+  height: 434px;
+}
+.atomic .H\(44px\), .atomic .H\(44px\)--xxs {
+  height: 44px;
+}
+.atomic .H\(45px\) {
+  height: 45px;
+}
+.atomic .H\(46\.7vw\) {
+  height: 46.7vw;
+}
+.atomic .H\(46px\) {
+  height: 46px;
+}
+.atomic .H\(48px\) {
+  height: 48px;
+}
+.atomic .H\(4px\) {
+  height: 4px;
+}
+.atomic .H\(50\%\) {
+  height: 50%;
+}
+.atomic .H\(50px\) {
+  height: 50px;
+}
+.atomic .H\(52\.25vw\) {
+  height: 52.25vw;
+}
+.atomic .H\(52px\) {
+  height: 52px;
+}
+.atomic .H\(534px\) {
+  height: 534px;
+}
+.atomic .H\(53px\) {
+  height: 53px;
+}
+.atomic .H\(545px\) {
+  height: 545px;
+}
+.atomic .H\(54px\) {
+  height: 54px;
+}
+.atomic .H\(56px\) {
+  height: 56px;
+}
+.atomic .H\(59px\) {
+  height: 59px;
+}
+.atomic .H\(5px\) {
+  height: 5px;
+}
+.atomic .H\(60\%\) {
+  height: 60%;
+}
+.atomic .H\(600px\) {
+  height: 600px;
+}
+.atomic .H\(60px\) {
+  height: 60px;
+}
+.atomic .H\(61px\) {
+  height: 61px;
+}
+.atomic .H\(64px\) {
+  height: 64px;
+}
+.atomic .H\(65px\) {
+  height: 65px;
+}
+.atomic .H\(66px\) {
+  height: 66px;
+}
+.atomic .H\(68px\) {
+  height: 68px;
+}
+.atomic .H\(70px\) {
+  height: 70px;
+}
+.atomic .H\(72px\) {
+  height: 72px;
+}
+.atomic .H\(74px\) {
+  height: 74px;
+}
+.atomic .H\(75px\) {
+  height: 75px;
+}
+.atomic .H\(78px\) {
+  height: 78px;
+}
+.atomic .H\(80px\) {
+  height: 80px;
+}
+.atomic .H\(84px\) {
+  height: 84px;
+}
+.atomic .H\(85px\) {
+  height: 85px;
+}
+.atomic .H\(86px\) {
+  height: 86px;
+}
+.atomic .H\(90px\) {
+  height: 90px;
+}
+.atomic .H\(92px\) {
+  height: 92px;
+}
+.atomic .H\(95\%\) {
+  height: 95%;
+}
+.atomic .H\(a\) {
+  height: auto;
+}
+.atomic .H\(a\)\!, .smartphone .smartphone_H\(a\) {
+  height: auto !important;
+}
+.atomic .H\(fc\) {
+  height: -webkit-fit-content;
+  height: fit-content;
+}
+.atomic .H\(smadBigFontMImgHeight\) {
+  height: calc(178vw - 120px);
+}
+.atomic .H\(smadMImgHeight\) {
+  height: calc(177.77vw - 112px);
+}
+.atomic .H\(smadXSImgHeight\) {
+  height: calc(142vw - 35px);
+}
+.smartphone .smartphone_H\(24px\) {
+  height: 24px !important;
+}
+.atomic .Iso\(i\) {
+  isolation: isolate;
+}
+.atomic .Lts\(\$lspacing-sm\), .atomic .Lts\(n\) {
+  letter-spacing: normal;
+}
+.atomic .Lts\(-0\.23px\) {
+  letter-spacing: -0.23px;
+}
+.atomic .Lts\(0\) {
+  letter-spacing: 0;
+}
+.atomic .Lts\(0\.5px\) {
+  letter-spacing: 0.5px;
+}
+.atomic .Lts\(2px\) {
+  letter-spacing: 2px;
+}
+.atomic .Lts\(4px\) {
+  letter-spacing: 4px;
+}
+.atomic .List\(n\) {
+  list-style-type: none;
+}
+.atomic .Lh\(\$lheight\), .atomic .Lh\(23px\) {
+  line-height: 23px;
+}
+.atomic .Lh\(0\.8\) {
+  line-height: 0.8;
+}
+.atomic .Lh\(1\) {
+  line-height: 1;
+}
+.atomic .Lh\(1\.13\) {
+  line-height: 1.13;
+}
+.atomic .Lh\(1\.14\) {
+  line-height: 1.14;
+}
+.atomic .Lh\(1\.2\) {
+  line-height: 1.2;
+}
+.atomic .Lh\(1\.23077\) {
+  line-height: 1.23077;
+}
+.atomic .Lh\(1\.25\) {
+  line-height: 1.25;
+}
+.atomic .Lh\(1\.2em\) {
+  line-height: 1.2em;
+}
+.atomic .Lh\(1\.31\) {
+  line-height: 1.31;
+}
+.atomic .Lh\(1\.33\) {
+  line-height: 1.33;
+}
+.atomic .Lh\(1\.36666667\) {
+  line-height: 1.36666667;
+}
+.atomic .Lh\(1\.3em\) {
+  line-height: 1.3em;
+}
+.atomic .Lh\(1\.4\) {
+  line-height: 1.4;
+}
+.atomic .Lh\(1\.43\) {
+  line-height: 1.43;
+}
+.atomic .Lh\(1\.5\) {
+  line-height: 1.5;
+}
+.atomic .Lh\(1\.6\) {
+  line-height: 1.6;
+}
+.atomic .Lh\(1\.6em\) {
+  line-height: 1.6em;
+}
+.atomic .Lh\(12px\) {
+  line-height: 12px;
+}
+.atomic .Lh\(14px\) {
+  line-height: 14px;
+}
+.atomic .Lh\(16px\) {
+  line-height: 16px;
+}
+.atomic .Lh\(17px\)--sm1024 {
+  line-height: 17px;
+}
+.atomic .Lh\(19px\), .atomic .Lh\(19px\)--sm1024 {
+  line-height: 19px;
+}
+.atomic .Lh\(1em\) {
+  line-height: 1em;
+}
+.atomic .Lh\(2\) {
+  line-height: 2;
+}
+.atomic .Lh\(2\.5\) {
+  line-height: 2.5;
+}
+.atomic .Lh\(20px\) {
+  line-height: 20px;
+}
+.atomic .Lh\(21px\) {
+  line-height: 21px;
+}
+.atomic .Lh\(22\.5px\) {
+  line-height: 22.5px;
+}
+.atomic .Lh\(24px\) {
+  line-height: 24px;
+}
+.atomic .Lh\(25px\) {
+  line-height: 25px;
+}
+.atomic .Lh\(28px\) {
+  line-height: 28px;
+}
+.atomic .Lh\(3\) {
+  line-height: 3;
+}
+.atomic .Lh\(30px\) {
+  line-height: 30px;
+}
+.atomic .Lh\(32px\) {
+  line-height: 32px;
+}
+.atomic .Lh\(34px\) {
+  line-height: 34px;
+}
+.atomic .Lh\(35px\) {
+  line-height: 35px;
+}
+.atomic .Lh\(36px\) {
+  line-height: 36px;
+}
+.atomic .Lh\(38px\) {
+  line-height: 38px;
+}
+.atomic .Lh\(40px\) {
+  line-height: 40px;
+}
+.atomic .Lh\(42px\) {
+  line-height: 42px;
+}
+.atomic .Lh\(50px\) {
+  line-height: 50px;
+}
+.atomic .Lh\(55px\) {
+  line-height: 55px;
+}
+.atomic .Lh\(60px\) {
+  line-height: 60px;
+}
+.atomic .Lh\(80px\) {
+  line-height: 80px;
+}
+.atomic .Lh\(n\) {
+  line-height: normal;
+}
+.atomic .Lh\(n\)\! {
+  line-height: normal !important;
+}
+.atomic .M\(0\) {
+  margin: 0;
+}
+.atomic .M\(0\)\! {
+  margin: 0 !important;
+}
+.atomic .M\(0px\) {
+  margin: 0px;
+}
+.atomic .M\(10px\) {
+  margin: 10px;
+}
+.atomic .M\(12px\) {
+  margin: 12px;
+}
+.atomic .M\(13px\) {
+  margin: 13px;
+}
+.atomic .M\(20px\) {
+  margin: 20px;
+}
+.atomic .M\(2px\) {
+  margin: 2px;
+}
+.atomic .M\(3px\) {
+  margin: 3px;
+}
+.atomic .M\(4\) {
+  margin: 4;
+}
+.atomic .M\(4px\) {
+  margin: 4px;
+}
+.atomic .M\(5px\) {
+  margin: 5px;
+}
+.atomic .M\(6px\) {
+  margin: 6px;
+}
+.atomic .M\(a\) {
+  margin: auto;
+}
+.atomic .Mx\(-10px\) {
+  margin-left: -10px;
+}
+.atomic .Mx\(-10px\), .atomic .Mend\(-10px\) {
+  margin-right: -10px;
+}
+.atomic .Mx\(-20px\) {
+  margin-left: -20px;
+  margin-right: -20px;
+}
+.atomic .Mx\(-5px\), .atomic .Mstart\(-5px\) {
+  margin-left: -5px;
+}
+.atomic .Mx\(-5px\), .atomic .Mend\(-5px\) {
+  margin-right: -5px;
+}
+.atomic .Mx\(0\), .atomic .Mstart\(0\) {
+  margin-left: 0;
+}
+.atomic .Mx\(0\) {
+  margin-right: 0;
+}
+.atomic .Mx\(0px\), .atomic .Mstart\(0px\), .atomic .Mstart\(0px\)\:fc:first-child {
+  margin-left: 0px;
+}
+.atomic .Mx\(0px\), .atomic .Mend\(0px\)\:lc:last-child {
+  margin-right: 0px;
+}
+.atomic .Mx\(1\) {
+  margin-left: 1;
+  margin-right: 1;
+}
+.atomic .Mx\(10px\), .atomic .Mstart\(10px\) {
+  margin-left: 10px;
+}
+.atomic .Mx\(10px\), .atomic .Mend\(10px\) {
+  margin-right: 10px;
+}
+.atomic .Mx\(12px\), .atomic .Mstart\(12px\) {
+  margin-left: 12px;
+}
+.atomic .Mx\(12px\), .atomic .Mend\(12px\) {
+  margin-right: 12px;
+}
+.atomic .Mx\(15px\), .atomic .Mstart\(15px\) {
+  margin-left: 15px;
+}
+.atomic .Mx\(15px\), .atomic .Mend\(15px\) {
+  margin-right: 15px;
+}
+.atomic .Mx\(16px\), .atomic .Mstart\(16px\) {
+  margin-left: 16px;
+}
+.atomic .Mx\(16px\), .atomic .Mend\(16px\) {
+  margin-right: 16px;
+}
+.atomic .Mx\(1px\), .atomic .Mstart\(1px\) {
+  margin-left: 1px;
+}
+.atomic .Mx\(1px\) {
+  margin-right: 1px;
+}
+.atomic .Mx\(20px\), .atomic .Mstart\(20px\) {
+  margin-left: 20px;
+}
+.atomic .Mx\(20px\), .atomic .Mend\(20px\) {
+  margin-right: 20px;
+}
+.atomic .Mx\(24px\), .atomic .Mstart\(24px\) {
+  margin-left: 24px;
+}
+.atomic .Mx\(24px\), .atomic .Mend\(24px\) {
+  margin-right: 24px;
+}
+.atomic .Mx\(2px\), .atomic .Mstart\(2px\) {
+  margin-left: 2px;
+}
+.atomic .Mx\(2px\), .atomic .Mend\(2px\) {
+  margin-right: 2px;
+}
+.atomic .Mx\(3px\), .atomic .Mstart\(3px\) {
+  margin-left: 3px;
+}
+.atomic .Mx\(3px\), .atomic .Mend\(3px\) {
+  margin-right: 3px;
+}
+.atomic .Mx\(40px\), .atomic .Mstart\(40px\) {
+  margin-left: 40px;
+}
+.atomic .Mx\(40px\) {
+  margin-right: 40px;
+}
+.atomic .Mx\(46px\) {
+  margin-left: 46px;
+  margin-right: 46px;
+}
+.atomic .Mx\(4px\), .atomic .Mstart\(4px\) {
+  margin-left: 4px;
+}
+.atomic .Mx\(4px\), .atomic .Mend\(4px\) {
+  margin-right: 4px;
+}
+.atomic .Mx\(50px\) {
+  margin-left: 50px;
+}
+.atomic .Mx\(50px\), .atomic .Mend\(50px\) {
+  margin-right: 50px;
+}
+.atomic .Mx\(5px\), .atomic .Mstart\(5px\) {
+  margin-left: 5px;
+}
+.atomic .Mx\(5px\), .atomic .Mend\(5px\) {
+  margin-right: 5px;
+}
+.atomic .Mx\(61px\) {
+  margin-left: 61px;
+  margin-right: 61px;
+}
+.atomic .Mx\(6px\), .atomic .Mstart\(6px\) {
+  margin-left: 6px;
+}
+.atomic .Mx\(6px\), .atomic .Mend\(6px\) {
+  margin-right: 6px;
+}
+.atomic .Mx\(8px\), .atomic .Mstart\(8px\) {
+  margin-left: 8px;
+}
+.atomic .Mx\(8px\), .atomic .Mend\(8px\), .atomic .Mend\(8px\)\:\:b::before {
+  margin-right: 8px;
+}
+.atomic .Mx\(9px\) {
+  margin-left: 9px;
+}
+.atomic .Mx\(9px\), .atomic .Mend\(9px\) {
+  margin-right: 9px;
+}
+.atomic .Mx\(a\), .atomic .Mstart\(a\) {
+  margin-left: auto;
+}
+.atomic .Mx\(a\), .atomic .Mend\(a\) {
+  margin-right: auto;
+}
+.smartphone .smartphone_Mx\(20px\) {
+  margin-left: 20px !important;
+  margin-right: 20px !important;
+}
+.atomic .My\(\.55em\), .atomic .Mt\(\.55em\) {
+  margin-top: .55em;
+}
+.atomic .My\(\.55em\), .atomic .Mb\(\.55em\) {
+  margin-bottom: .55em;
+}
+.atomic .My\(0\), .atomic .Mt\(0\) {
+  margin-top: 0;
+}
+.atomic .My\(0\), .atomic .Mb\(0\) {
+  margin-bottom: 0;
+}
+.atomic .My\(0px\), .atomic .Mt\(0px\) {
+  margin-top: 0px;
+}
+.atomic .My\(0px\), .atomic .Mb\(0px\), .atomic .Mb\(0px\)\:lc:last-child {
+  margin-bottom: 0px;
+}
+.atomic .My\(10\) {
+  margin-top: 10;
+  margin-bottom: 10;
+}
+.atomic .My\(100px\) {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.atomic .My\(10px\), .atomic .Mt\(10px\) {
+  margin-top: 10px;
+}
+.atomic .My\(10px\), .atomic .Mb\(10px\) {
+  margin-bottom: 10px;
+}
+.atomic .My\(12\.5px\) {
+  margin-top: 12.5px;
+  margin-bottom: 12.5px;
+}
+.atomic .My\(12px\), .atomic .Mt\(12px\) {
+  margin-top: 12px;
+}
+.atomic .My\(12px\), .atomic .Mb\(12px\) {
+  margin-bottom: 12px;
+}
+.atomic .My\(14px\), .atomic .Mt\(14px\) {
+  margin-top: 14px;
+}
+.atomic .My\(14px\), .atomic .Mb\(14px\) {
+  margin-bottom: 14px;
+}
+.atomic .My\(15px\), .atomic .Mt\(15px\) {
+  margin-top: 15px;
+}
+.atomic .My\(15px\), .atomic .Mb\(15px\) {
+  margin-bottom: 15px;
+}
+.atomic .My\(16px\), .atomic .Mt\(16px\) {
+  margin-top: 16px;
+}
+.atomic .My\(16px\), .atomic .Mb\(16px\) {
+  margin-bottom: 16px;
+}
+.atomic .My\(1px\), .atomic .Mt\(1px\) {
+  margin-top: 1px;
+}
+.atomic .My\(1px\), .atomic .Mb\(1px\) {
+  margin-bottom: 1px;
+}
+.atomic .My\(20px\), .atomic .Mt\(20px\) {
+  margin-top: 20px;
+}
+.atomic .My\(20px\), .atomic .Mb\(20px\) {
+  margin-bottom: 20px;
+}
+.atomic .My\(21px\) {
+  margin-top: 21px;
+  margin-bottom: 21px;
+}
+.atomic .My\(22px\), .atomic .Mt\(22px\) {
+  margin-top: 22px;
+}
+.atomic .My\(22px\), .atomic .Mb\(22px\) {
+  margin-bottom: 22px;
+}
+.atomic .My\(24px\), .atomic .Mt\(24px\) {
+  margin-top: 24px;
+}
+.atomic .My\(24px\), .atomic .Mb\(24px\) {
+  margin-bottom: 24px;
+}
+.atomic .My\(2px\), .atomic .Mt\(2px\) {
+  margin-top: 2px;
+}
+.atomic .My\(2px\), .atomic .Mb\(2px\) {
+  margin-bottom: 2px;
+}
+.atomic .My\(30px\), .atomic .Mt\(30px\) {
+  margin-top: 30px;
+}
+.atomic .My\(30px\), .atomic .Mb\(30px\) {
+  margin-bottom: 30px;
+}
+.atomic .My\(40px\), .atomic .Mt\(40px\) {
+  margin-top: 40px;
+}
+.atomic .My\(40px\), .atomic .Mb\(40px\) {
+  margin-bottom: 40px;
+}
+.atomic .My\(4px\), .atomic .Mt\(4px\) {
+  margin-top: 4px;
+}
+.atomic .My\(4px\), .atomic .Mb\(4px\) {
+  margin-bottom: 4px;
+}
+.atomic .My\(5px\), .atomic .Mt\(5px\) {
+  margin-top: 5px;
+}
+.atomic .My\(5px\), .atomic .Mb\(5px\) {
+  margin-bottom: 5px;
+}
+.atomic .My\(6px\), .atomic .Mt\(6px\) {
+  margin-top: 6px;
+}
+.atomic .My\(6px\), .atomic .Mb\(6px\) {
+  margin-bottom: 6px;
+}
+.atomic .My\(8px\), .atomic .Mt\(8px\) {
+  margin-top: 8px;
+}
+.atomic .My\(8px\), .atomic .Mb\(8px\) {
+  margin-bottom: 8px;
+}
+.atomic .My\(a\), .atomic .Mt\(a\) {
+  margin-top: auto;
+}
+.atomic .My\(a\) {
+  margin-bottom: auto;
+}
+.grid-layout .grid-layout_Mt\(15px\) {
+  margin-top: 15px !important;
+}
+.atomic .Mt\(-10px\) {
+  margin-top: -10px;
+}
+.atomic .Mt\(-12px\) {
+  margin-top: -12px;
+}
+.atomic .Mt\(-13px\) {
+  margin-top: -13px;
+}
+.atomic .Mt\(-145px\) {
+  margin-top: -145px;
+}
+.atomic .Mt\(-15px\) {
+  margin-top: -15px;
+}
+.atomic .Mt\(-18px\) {
+  margin-top: -18px;
+}
+.atomic .Mt\(-1px\) {
+  margin-top: -1px;
+}
+.atomic .Mt\(-20px\) {
+  margin-top: -20px;
+}
+.atomic .Mt\(-23px\) {
+  margin-top: -23px;
+}
+.atomic .Mt\(-2px\) {
+  margin-top: -2px;
+}
+.atomic .Mt\(-30px\) {
+  margin-top: -30px;
+}
+.atomic .Mt\(-40px\) {
+  margin-top: -40px;
+}
+.atomic .Mt\(-4px\) {
+  margin-top: -4px;
+}
+.atomic .Mt\(-5px\) {
+  margin-top: -5px;
+}
+.atomic .Mt\(-6px\) {
+  margin-top: -6px;
+}
+.atomic .Mt\(-75px\) {
+  margin-top: -75px;
+}
+.atomic .Mt\(105px\) {
+  margin-top: 105px;
+}
+.atomic .Mt\(107px\) {
+  margin-top: 107px;
+}
+.atomic .Mt\(120px\) {
+  margin-top: 120px;
+}
+.atomic .Mt\(13px\) {
+  margin-top: 13px;
+}
+.atomic .Mt\(17px\) {
+  margin-top: 17px;
+}
+.atomic .Mt\(18px\) {
+  margin-top: 18px;
+}
+.atomic .Mt\(25px\) {
+  margin-top: 25px;
+}
+.atomic .Mt\(28px\) {
+  margin-top: 28px;
+}
+.atomic .Mt\(31px\) {
+  margin-top: 31px;
+}
+.atomic .Mt\(36px\) {
+  margin-top: 36px;
+}
+.atomic .Mt\(3px\) {
+  margin-top: 3px;
+}
+.atomic .Mt\(4\) {
+  margin-top: 4;
+}
+.atomic .Mt\(47px\) {
+  margin-top: 47px;
+}
+.atomic .Mt\(48px\) {
+  margin-top: 48px;
+}
+.atomic .Mt\(50px\) {
+  margin-top: 50px;
+}
+.atomic .Mt\(52px\) {
+  margin-top: 52px;
+}
+.atomic .Mt\(60px\) {
+  margin-top: 60px;
+}
+.atomic .Mt\(70px\) {
+  margin-top: 70px;
+}
+.atomic .Mt\(77px\) {
+  margin-top: 77px;
+}
+.smartphone .smartphone_Mt\(0\), .tablet .tablet_Mt\(0\) {
+  margin-top: 0 !important;
+}
+.smartphone .smartphone_Mt\(20px\) {
+  margin-top: 20px !important;
+}
+.atomic .Mend\(-2px\) {
+  margin-right: -2px;
+}
+.atomic .Mend\(-30px\) {
+  margin-right: -30px;
+}
+.atomic .Mend\(-4px\) {
+  margin-right: -4px;
+}
+.atomic .Mend\(-8px\) {
+  margin-right: -8px;
+}
+.atomic .Mend\(10\) {
+  margin-right: 10;
+}
+.atomic .Mend\(11px\) {
+  margin-right: 11px;
+}
+.atomic .Mend\(14px\) {
+  margin-right: 14px;
+}
+.atomic .Mend\(17px\) {
+  margin-right: 17px;
+}
+.atomic .Mend\(25px\) {
+  margin-right: 25px;
+}
+.atomic .Mend\(26px\) {
+  margin-right: 26px;
+}
+.atomic .Mend\(30px\) {
+  margin-right: 30px;
+}
+.atomic .Mend\(32px\) {
+  margin-right: 32px;
+}
+.atomic .Mend\(42px\) {
+  margin-right: 42px;
+}
+.atomic .Mend\(7px\) {
+  margin-right: 7px;
+}
+.atomic .Mb\(-10px\) {
+  margin-bottom: -10px;
+}
+.atomic .Mb\(-8px\) {
+  margin-bottom: -8px;
+}
+.atomic .Mb\(11px\) {
+  margin-bottom: 11px;
+}
+.atomic .Mb\(17px\) {
+  margin-bottom: 17px;
+}
+.atomic .Mb\(19px\) {
+  margin-bottom: 19px;
+}
+.atomic .Mb\(26px\) {
+  margin-bottom: 26px;
+}
+.atomic .Mb\(28px\) {
+  margin-bottom: 28px;
+}
+.atomic .Mb\(300px\) {
+  margin-bottom: 300px;
+}
+.atomic .Mb\(31px\) {
+  margin-bottom: 31px;
+}
+.atomic .Mb\(32px\) {
+  margin-bottom: 32px;
+}
+.atomic .Mb\(36px\) {
+  margin-bottom: 36px;
+}
+.atomic .Mb\(3px\) {
+  margin-bottom: 3px;
+}
+.atomic .Mb\(7px\) {
+  margin-bottom: 7px;
+}
+.smartphone .smartphone_Mb\(9px\) {
+  margin-bottom: 9px !important;
+}
+.atomic .Mstart\(-11px\) {
+  margin-left: -11px;
+}
+.atomic .Mstart\(-125px\) {
+  margin-left: -125px;
+}
+.atomic .Mstart\(-147px\) {
+  margin-left: -147px;
+}
+.atomic .Mstart\(-15px\)\! {
+  margin-left: -15px !important;
+}
+.atomic .Mstart\(-1px\) {
+  margin-left: -1px;
+}
+.atomic .Mstart\(-1px\)\! {
+  margin-left: -1px !important;
+}
+.atomic .Mstart\(-215px\) {
+  margin-left: -215px;
+}
+.atomic .Mstart\(-23px\) {
+  margin-left: -23px;
+}
+.atomic .Mstart\(-2px\) {
+  margin-left: -2px;
+}
+.atomic .Mstart\(-36px\) {
+  margin-left: -36px;
+}
+.atomic .Mstart\(-3px\) {
+  margin-left: -3px;
+}
+.atomic .Mstart\(-46px\) {
+  margin-left: -46px;
+}
+.atomic .Mstart\(-47px\) {
+  margin-left: -47px;
+}
+.atomic .Mstart\(-8px\) {
+  margin-left: -8px;
+}
+.atomic .Mstart\(0\.5em\) {
+  margin-left: 0.5em;
+}
+.atomic .Mstart\(10\%\) {
+  margin-left: 10%;
+}
+.atomic .Mstart\(120px\) {
+  margin-left: 120px;
+}
+.atomic .Mstart\(17px\) {
+  margin-left: 17px;
+}
+.atomic .Mstart\(18px\) {
+  margin-left: 18px;
+}
+.atomic .Mstart\(19px\) {
+  margin-left: 19px;
+}
+.atomic .Mstart\(21px\) {
+  margin-left: 21px;
+}
+.atomic .Mstart\(25px\) {
+  margin-left: 25px;
+}
+.atomic .Mstart\(28px\) {
+  margin-left: 28px;
+}
+.atomic .Mstart\(30px\) {
+  margin-left: 30px;
+}
+.atomic .Mstart\(32px\) {
+  margin-left: 32px;
+}
+.atomic .Mstart\(43px\)\! {
+  margin-left: 43px !important;
+}
+.atomic .Mstart\(50\%\) {
+  margin-left: 50%;
+}
+.atomic .Mstart\(54px\)\! {
+  margin-left: 54px !important;
+}
+.atomic .Mstart\(55\%\) {
+  margin-left: 55%;
+}
+.atomic .Mstart\(7px\) {
+  margin-left: 7px;
+}
+.atomic .Mah\(100\%\) {
+  max-height: 100%;
+}
+.atomic .Mah\(1000px\) {
+  max-height: 1000px;
+}
+.atomic .Mah\(100vh\) {
+  max-height: 100vh;
+}
+.atomic .Mah\(200px\) {
+  max-height: 200px;
+}
+.atomic .Mah\(218px\) {
+  max-height: 218px;
+}
+.atomic .Mah\(250px\) {
+  max-height: 250px;
+}
+.atomic .Mah\(400px\) {
+  max-height: 400px;
+}
+.atomic .Mah\(50vh\) {
+  max-height: 50vh;
+}
+.atomic .Mah\(65vh\) {
+  max-height: 65vh;
+}
+.atomic .Mah\(80vh\) {
+  max-height: 80vh;
+}
+.atomic .Mah\(86px\) {
+  max-height: 86px;
+}
+.atomic .Mah\(96\%\) {
+  max-height: 96%;
+}
+.smartphone .smartphone_Mah\(90vh\) {
+  max-height: 90vh !important;
+}
+.atomic .Maw\(100\%\), .Ell {
+  max-width: 100%;
+}
+.atomic .Maw\(1000px\) {
+  max-width: 1000px;
+}
+.atomic .Maw\(100px\) {
+  max-width: 100px;
+}
+.atomic .Maw\(100px\)\! {
+  max-width: 100px !important;
+}
+.atomic .Maw\(110px\) {
+  max-width: 110px;
+}
+.atomic .Maw\(1200px\) {
+  max-width: 1200px;
+}
+.atomic .Maw\(124px\) {
+  max-width: 124px;
+}
+.atomic .Maw\(1254px\) {
+  max-width: 1254px;
+}
+.atomic .Maw\(1260px\) {
+  max-width: 1260px;
+}
+.atomic .Maw\(130px\) {
+  max-width: 130px;
+}
+.atomic .Maw\(140px\)\! {
+  max-width: 140px !important;
+}
+.atomic .Maw\(150px\) {
+  max-width: 150px;
+}
+.atomic .Maw\(18\%\) {
+  max-width: 18%;
+}
+.atomic .Maw\(180px\) {
+  max-width: 180px;
+}
+.atomic .Maw\(185px\) {
+  max-width: 185px;
+}
+.atomic .Maw\(190px\) {
+  max-width: 190px;
+}
+.atomic .Maw\(200px\)\! {
+  max-width: 200px !important;
+}
+.atomic .Maw\(220px\) {
+  max-width: 220px;
+}
+.atomic .Maw\(225px\) {
+  max-width: 225px;
+}
+.atomic .Maw\(226px\) {
+  max-width: 226px;
+}
+.atomic .Maw\(230px\) {
+  max-width: 230px;
+}
+.atomic .Maw\(25\%\) {
+  max-width: 25%;
+}
+.atomic .Maw\(250px\) {
+  max-width: 250px;
+}
+.atomic .Maw\(255px\) {
+  max-width: 255px;
+}
+.atomic .Maw\(26\%\) {
+  max-width: 26%;
+}
+.atomic .Maw\(281px\) {
+  max-width: 281px;
+}
+.atomic .Maw\(286px\) {
+  max-width: 286px;
+}
+.atomic .Maw\(296px\) {
+  max-width: 296px;
+}
+.atomic .Maw\(300px\) {
+  max-width: 300px;
+}
+.atomic .Maw\(346px\) {
+  max-width: 346px;
+}
+.atomic .Maw\(350px\) {
+  max-width: 350px;
+}
+.atomic .Maw\(366px\) {
+  max-width: 366px;
+}
+.atomic .Maw\(392px\) {
+  max-width: 392px;
+}
+.atomic .Maw\(40\%\) {
+  max-width: 40%;
+}
+.atomic .Maw\(400px\) {
+  max-width: 400px;
+}
+.atomic .Maw\(460px\) {
+  max-width: 460px;
+}
+.atomic .Maw\(480px\) {
+  max-width: 480px;
+}
+.atomic .Maw\(50\%\) {
+  max-width: 50%;
+}
+.atomic .Maw\(500px\) {
+  max-width: 500px;
+}
+.atomic .Maw\(50px\) {
+  max-width: 50px;
+}
+.atomic .Maw\(600px\) {
+  max-width: 600px;
+}
+.atomic .Maw\(60px\) {
+  max-width: 60px;
+}
+.atomic .Maw\(650px\) {
+  max-width: 650px;
+}
+.atomic .Maw\(69\%\) {
+  max-width: 69%;
+}
+.atomic .Maw\(70\%\) {
+  max-width: 70%;
+}
+.atomic .Maw\(700px\) {
+  max-width: 700px;
+}
+.atomic .Maw\(70px\) {
+  max-width: 70px;
+}
+.atomic .Maw\(72px\) {
+  max-width: 72px;
+}
+.atomic .Maw\(75\%\) {
+  max-width: 75%;
+}
+.atomic .Maw\(79\%\) {
+  max-width: 79%;
+}
+.atomic .Maw\(80\%\) {
+  max-width: 80%;
+}
+.atomic .Maw\(80\%\)\! {
+  max-width: 80% !important;
+}
+.atomic .Maw\(825px\) {
+  max-width: 825px;
+}
+.atomic .Maw\(85px\) {
+  max-width: 85px;
+}
+.atomic .Maw\(90\%\) {
+  max-width: 90%;
+}
+.atomic .Maw\(90\%\)\! {
+  max-width: 90% !important;
+}
+.atomic .Maw\(900px\) {
+  max-width: 900px;
+}
+.atomic .Maw\(950px\) {
+  max-width: 950px;
+}
+.atomic .Maw\(fc\) {
+  max-width: -webkit-fit-content;
+  max-width: fit-content;
+}
+.atomic .Maw\(minc\) {
+  max-width: -webkit-min-content;
+  max-width: min-content;
+}
+.smartphone .smartphone_Maw\(ini\) {
+  max-width: initial !important;
+}
+.atomic .Mih\(100px\) {
+  min-height: 100px;
+}
+.atomic .Mih\(100vh\) {
+  min-height: 100vh;
+}
+.atomic .Mih\(11px\) {
+  min-height: 11px;
+}
+.atomic .Mih\(125px\) {
+  min-height: 125px;
+}
+.atomic .Mih\(13px\) {
+  min-height: 13px;
+}
+.atomic .Mih\(150px\) {
+  min-height: 150px;
+}
+.atomic .Mih\(16px\) {
+  min-height: 16px;
+}
+.atomic .Mih\(180px\) {
+  min-height: 180px;
+}
+.atomic .Mih\(192px\) {
+  min-height: 192px;
+}
+.atomic .Mih\(196px\) {
+  min-height: 196px;
+}
+.atomic .Mih\(200px\) {
+  min-height: 200px;
+}
+.atomic .Mih\(20px\) {
+  min-height: 20px;
+}
+.atomic .Mih\(21px\) {
+  min-height: 21px;
+}
+.atomic .Mih\(24px\) {
+  min-height: 24px;
+}
+.atomic .Mih\(270px\) {
+  min-height: 270px;
+}
+.atomic .Mih\(286px\) {
+  min-height: 286px;
+}
+.atomic .Mih\(28px\) {
+  min-height: 28px;
+}
+.atomic .Mih\(300px\) {
+  min-height: 300px;
+}
+.atomic .Mih\(30px\) {
+  min-height: 30px;
+}
+.atomic .Mih\(310px\) {
+  min-height: 310px;
+}
+.atomic .Mih\(32px\) {
+  min-height: 32px;
+}
+.atomic .Mih\(350px\) {
+  min-height: 350px;
+}
+.atomic .Mih\(352px\) {
+  min-height: 352px;
+}
+.atomic .Mih\(35px\) {
+  min-height: 35px;
+}
+.atomic .Mih\(400px\) {
+  min-height: 400px;
+}
+.atomic .Mih\(40px\) {
+  min-height: 40px;
+}
+.atomic .Mih\(414px\) {
+  min-height: 414px;
+}
+.atomic .Mih\(48px\) {
+  min-height: 48px;
+}
+.atomic .Mih\(50px\) {
+  min-height: 50px;
+}
+.atomic .Mih\(545px\) {
+  min-height: 545px;
+}
+.atomic .Mih\(54px\) {
+  min-height: 54px;
+}
+.atomic .Mih\(56px\) {
+  min-height: 56px;
+}
+.atomic .Mih\(60px\) {
+  min-height: 60px;
+}
+.atomic .Mih\(670px\) {
+  min-height: 670px;
+}
+.atomic .Mih\(70px\) {
+  min-height: 70px;
+}
+.atomic .Mih\(85px\) {
+  min-height: 85px;
+}
+.atomic .Mih\(90vh\) {
+  min-height: 90vh;
+}
+.smartphone .smartphone_Mih\(24px\) {
+  min-height: 24px !important;
+}
+.atomic .Miw\(0\) {
+  min-width: 0;
+}
+.atomic .Miw\(100\%\) {
+  min-width: 100%;
+}
+.atomic .Miw\(1007px\) {
+  min-width: 1007px;
+}
+.atomic .Miw\(100px\) {
+  min-width: 100px;
+}
+.atomic .Miw\(107px\) {
+  min-width: 107px;
+}
+.atomic .Miw\(110px\) {
+  min-width: 110px;
+}
+.atomic .Miw\(1195px\) {
+  min-width: 1195px;
+}
+.atomic .Miw\(122px\) {
+  min-width: 122px;
+}
+.atomic .Miw\(125px\) {
+  min-width: 125px;
+}
+.atomic .Miw\(132px\) {
+  min-width: 132px;
+}
+.atomic .Miw\(135px\) {
+  min-width: 135px;
+}
+.atomic .Miw\(150px\) {
+  min-width: 150px;
+}
+.atomic .Miw\(160px\) {
+  min-width: 160px;
+}
+.atomic .Miw\(16px\) {
+  min-width: 16px;
+}
+.atomic .Miw\(170px\) {
+  min-width: 170px;
+}
+.atomic .Miw\(200px\) {
+  min-width: 200px;
+}
+.atomic .Miw\(20px\) {
+  min-width: 20px;
+}
+.atomic .Miw\(220px\) {
+  min-width: 220px;
+}
+.atomic .Miw\(225px\) {
+  min-width: 225px;
+}
+.atomic .Miw\(230px\) {
+  min-width: 230px;
+}
+.atomic .Miw\(231px\) {
+  min-width: 231px;
+}
+.atomic .Miw\(234px\) {
+  min-width: 234px;
+}
+.atomic .Miw\(236px\) {
+  min-width: 236px;
+}
+.atomic .Miw\(24px\) {
+  min-width: 24px;
+}
+.atomic .Miw\(250px\) {
+  min-width: 250px;
+}
+.atomic .Miw\(255px\) {
+  min-width: 255px;
+}
+.atomic .Miw\(25px\) {
+  min-width: 25px;
+}
+.atomic .Miw\(260px\) {
+  min-width: 260px;
+}
+.atomic .Miw\(265px\) {
+  min-width: 265px;
+}
+.atomic .Miw\(296px\) {
+  min-width: 296px;
+}
+.atomic .Miw\(300px\) {
+  min-width: 300px;
+}
+.atomic .Miw\(301px\) {
+  min-width: 301px;
+}
+.atomic .Miw\(30px\) {
+  min-width: 30px;
+}
+.atomic .Miw\(320px\) {
+  min-width: 320px;
+}
+.atomic .Miw\(32px\) {
+  min-width: 32px;
+}
+.atomic .Miw\(345px\) {
+  min-width: 345px;
+}
+.atomic .Miw\(346px\) {
+  min-width: 346px;
+}
+.atomic .Miw\(350px\) {
+  min-width: 350px;
+}
+.atomic .Miw\(375px\) {
+  min-width: 375px;
+}
+.atomic .Miw\(392px\) {
+  min-width: 392px;
+}
+.atomic .Miw\(400px\) {
+  min-width: 400px;
+}
+.atomic .Miw\(48px\) {
+  min-width: 48px;
+}
+.atomic .Miw\(5\%\) {
+  min-width: 5%;
+}
+.atomic .Miw\(550px\) {
+  min-width: 550px;
+}
+.atomic .Miw\(60px\) {
+  min-width: 60px;
+}
+.atomic .Miw\(635px\) {
+  min-width: 635px;
+}
+.atomic .Miw\(68px\) {
+  min-width: 68px;
+}
+.atomic .Miw\(76px\) {
+  min-width: 76px;
+}
+.atomic .Miw\(80px\) {
+  min-width: 80px;
+}
+.atomic .Miw\(90\%\) {
+  min-width: 90%;
+}
+.atomic .Miw\(90px\) {
+  min-width: 90px;
+}
+.atomic .Miw\(92px\) {
+  min-width: 92px;
+}
+.atomic .Miw\(998px\) {
+  min-width: 998px;
+}
+.atomic .Miw\(fc\) {
+  min-width: -webkit-fit-content;
+  min-width: fit-content;
+}
+.smartphone .smartphone_Miw\(24px\) {
+  min-width: 24px !important;
+}
+.smartphone .smartphone_Miw\(ini\) {
+  min-width: initial !important;
+}
+.atomic .Objf\(ct\) {
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+.atomic .O\(0\), .atomic .O\(0\)\:f:focus {
+  outline: 0;
+}
+.atomic .O\(n\), .atomic .O\(n\)\:f:focus {
+  outline: none;
+}
+.atomic .O\(button-focus-visible\)\:fv:focus-visible {
+  outline: 4px solid rgba(15, 105, 255, 0.5);
+}
+.CollapsibleUh .CollapsibleUh_T\(110px\)\! {
+  top: 110px !important;
+}
+.CollapsibleUh .CollapsibleUh_T\(99px\)\! {
+  top: 99px !important;
+}
+.smartphone .smartphone_T\(0\) {
+  top: 0 !important;
+}
+.smartphone .smartphone_T\(a\), .atomic .T\(a\)\!, .tablet .tablet_T\(a\) {
+  top: auto !important;
+}
+.atomic .T\(-.3em\) {
+  top: .3em;
+}
+.atomic .T\(-10px\) {
+  top: -10px;
+}
+.atomic .T\(-15px\) {
+  top: -15px;
+}
+.atomic .T\(-1px\) {
+  top: -1px;
+}
+.atomic .T\(-20px\) {
+  top: -20px;
+}
+.atomic .T\(-24\%\) {
+  top: -24%;
+}
+.atomic .T\(-2px\) {
+  top: -2px;
+}
+.atomic .T\(-35px\) {
+  top: -35px;
+}
+.atomic .T\(-4px\) {
+  top: -4px;
+}
+.atomic .T\(-55px\) {
+  top: -55px;
+}
+.atomic .T\(-5px\) {
+  top: -5px;
+}
+.atomic .T\(-85px\) {
+  top: -85px;
+}
+.atomic .T\(-8px\) {
+  top: -8px;
+}
+.atomic .T\(-92px\) {
+  top: -92px;
+}
+.atomic .T\(0\), .atomic .T\(0\)\:\:b::before {
+  top: 0;
+}
+.atomic .T\(0px\) {
+  top: 0px;
+}
+.atomic .T\(100\%\) {
+  top: 100%;
+}
+.atomic .T\(10px\) {
+  top: 10px;
+}
+.atomic .T\(12px\) {
+  top: 12px;
+}
+.atomic .T\(130px\) {
+  top: 130px;
+}
+.atomic .T\(13px\) {
+  top: 13px;
+}
+.atomic .T\(14px\) {
+  top: 14px;
+}
+.atomic .T\(15px\) {
+  top: 15px;
+}
+.atomic .T\(16px\) {
+  top: 16px;
+}
+.atomic .T\(1px\) {
+  top: 1px;
+}
+.atomic .T\(200px\) {
+  top: 200px;
+}
+.atomic .T\(20px\) {
+  top: 20px;
+}
+.atomic .T\(22px\) {
+  top: 22px;
+}
+.atomic .T\(24\%\) {
+  top: 24%;
+}
+.atomic .T\(24px\) {
+  top: 24px;
+}
+.atomic .T\(25px\) {
+  top: 25px;
+}
+.atomic .T\(2px\), .atomic .T\(2px\)\:\:b::before {
+  top: 2px;
+}
+.atomic .T\(30\%\) {
+  top: 30%;
+}
+.atomic .T\(35px\) {
+  top: 35px;
+}
+.atomic .T\(38\%\) {
+  top: 38%;
+}
+.atomic .T\(3px\) {
+  top: 3px;
+}
+.atomic .T\(40\%\) {
+  top: 40%;
+}
+.atomic .T\(40px\)\! {
+  top: 40px !important;
+}
+.atomic .T\(45\%\) {
+  top: 45%;
+}
+.atomic .T\(45px\) {
+  top: 45px;
+}
+.atomic .T\(4px\) {
+  top: 4px;
+}
+.atomic .T\(5\%\) {
+  top: 5%;
+}
+.atomic .T\(50\%\) {
+  top: 50%;
+}
+.atomic .T\(50px\) {
+  top: 50px;
+}
+.atomic .T\(52px\) {
+  top: 52px;
+}
+.atomic .T\(5px\) {
+  top: 5px;
+}
+.atomic .T\(60px\) {
+  top: 60px;
+}
+.atomic .T\(7px\) {
+  top: 7px;
+}
+.atomic .T\(8em\) {
+  top: 8em;
+}
+.atomic .T\(8px\) {
+  top: 8px;
+}
+.atomic .T\(90px\) {
+  top: 90px;
+}
+.atomic .T\(99\%\)\:\:b::before {
+  top: 99%;
+}
+.tablet .tablet_T\(5px\) {
+  top: 5px !important;
+}
+.atomic .End\(-10px\) {
+  right: -10px;
+}
+.atomic .End\(-25\%\) {
+  right: -25%;
+}
+.atomic .End\(-25px\) {
+  right: -25px;
+}
+.atomic .End\(-40px\) {
+  right: -40px;
+}
+.atomic .End\(-50px\) {
+  right: -50px;
+}
+.atomic .End\(-5px\) {
+  right: -5px;
+}
+.atomic .End\(-8px\) {
+  right: -8px;
+}
+.atomic .End\(0\) {
+  right: 0;
+}
+.atomic .End\(0px\) {
+  right: 0px;
+}
+.atomic .End\(100\%\) {
+  right: 100%;
+}
+.atomic .End\(10px\) {
+  right: 10px;
+}
+.atomic .End\(12px\) {
+  right: 12px;
+}
+.atomic .End\(15px\) {
+  right: 15px;
+}
+.atomic .End\(16px\) {
+  right: 16px;
+}
+.atomic .End\(20px\) {
+  right: 20px;
+}
+.atomic .End\(25\%\) {
+  right: 25%;
+}
+.atomic .End\(25px\) {
+  right: 25px;
+}
+.atomic .End\(2em\) {
+  right: 2em;
+}
+.atomic .End\(3\%\) {
+  right: 3%;
+}
+.atomic .End\(30px\) {
+  right: 30px;
+}
+.atomic .End\(3px\) {
+  right: 3px;
+}
+.atomic .End\(4px\) {
+  right: 4px;
+}
+.atomic .End\(50\%\) {
+  right: 50%;
+}
+.atomic .End\(5px\) {
+  right: 5px;
+}
+.atomic .End\(6px\) {
+  right: 6px;
+}
+.atomic .End\(7px\) {
+  right: 7px;
+}
+.atomic .End\(8px\) {
+  right: 8px;
+}
+.smartphone .smartphone_End\(15px\) {
+  right: 15px !important;
+}
+.tablet .tablet_End\(0\) {
+  right: 0 !important;
+}
+.tablet .tablet_End\(7px\) {
+  right: 7px !important;
+}
+.atomic .B\(-100vh\) {
+  bottom: -100vh;
+}
+.atomic .B\(-1px\) {
+  bottom: -1px;
+}
+.atomic .B\(-24px\) {
+  bottom: -24px;
+}
+.atomic .B\(-3px\) {
+  bottom: -3px;
+}
+.atomic .B\(-52px\) {
+  bottom: -52px;
+}
+.atomic .B\(-8px\) {
+  bottom: -8px;
+}
+.atomic .B\(0\) {
+  bottom: 0;
+}
+.atomic .B\(0px\) {
+  bottom: 0px;
+}
+.atomic .B\(100\%\) {
+  bottom: 100%;
+}
+.atomic .B\(100px\) {
+  bottom: 100px;
+}
+.atomic .B\(10px\) {
+  bottom: 10px;
+}
+.atomic .B\(11px\) {
+  bottom: 11px;
+}
+.atomic .B\(12px\) {
+  bottom: 12px;
+}
+.atomic .B\(14px\) {
+  bottom: 14px;
+}
+.atomic .B\(15px\) {
+  bottom: 15px;
+}
+.atomic .B\(16px\) {
+  bottom: 16px;
+}
+.atomic .B\(20px\) {
+  bottom: 20px;
+}
+.atomic .B\(22px\) {
+  bottom: 22px;
+}
+.atomic .B\(24px\) {
+  bottom: 24px;
+}
+.atomic .B\(27vw\) {
+  bottom: 27vw;
+}
+.atomic .B\(2px\) {
+  bottom: 2px;
+}
+.atomic .B\(4px\) {
+  bottom: 4px;
+}
+.atomic .B\(50\%\) {
+  bottom: 50%;
+}
+.atomic .B\(50px\) {
+  bottom: 50px;
+}
+.atomic .B\(55px\) {
+  bottom: 55px;
+}
+.atomic .B\(57px\) {
+  bottom: 57px;
+}
+.atomic .B\(5px\) {
+  bottom: 5px;
+}
+.atomic .B\(60px\) {
+  bottom: 60px;
+}
+.atomic .B\(65px\)\!--miw1200 {
+  bottom: 65px !important;
+}
+.atomic .B\(6px\) {
+  bottom: 6px;
+}
+.atomic .B\(7px\) {
+  bottom: 7px;
+}
+.atomic .B\(8px\) {
+  bottom: 8px;
+}
+.shortcutMenuPanel-open .shortcutMenuPanel-open_B\(0\) {
+  bottom: 0 !important;
+}
+.tablet .tablet_B\(20px\) {
+  bottom: 20px !important;
+}
+.active .active_Start\(0\) {
+  left: 0 !important;
+}
+.atomic .Start\(-100vw\) {
+  left: -100vw;
+}
+.atomic .Start\(-1px\) {
+  left: -1px;
+}
+.atomic .Start\(-20px\) {
+  left: -20px;
+}
+.atomic .Start\(-25\%\) {
+  left: -25%;
+}
+.atomic .Start\(-40px\) {
+  left: -40px;
+}
+.atomic .Start\(-4px\) {
+  left: -4px;
+}
+.atomic .Start\(-50px\) {
+  left: -50px;
+}
+.atomic .Start\(-60px\) {
+  left: -60px;
+}
+.atomic .Start\(-65px\) {
+  left: -65px;
+}
+.atomic .Start\(-88px\) {
+  left: -88px;
+}
+.atomic .Start\(-8px\) {
+  left: -8px;
+}
+.atomic .Start\(0\) {
+  left: 0;
+}
+.atomic .Start\(10\%\)\! {
+  left: 10% !important;
+}
+.atomic .Start\(100\%\) {
+  left: 100%;
+}
+.atomic .Start\(108\%\) {
+  left: 108%;
+}
+.atomic .Start\(10px\) {
+  left: 10px;
+}
+.atomic .Start\(14px\) {
+  left: 14px;
+}
+.atomic .Start\(16px\) {
+  left: 16px;
+}
+.atomic .Start\(1px\) {
+  left: 1px;
+}
+.atomic .Start\(20px\) {
+  left: 20px;
+}
+.atomic .Start\(25\%\) {
+  left: 25%;
+}
+.atomic .Start\(250px\) {
+  left: 250px;
+}
+.atomic .Start\(26px\) {
+  left: 26px;
+}
+.atomic .Start\(2px\) {
+  left: 2px;
+}
+.atomic .Start\(30\%\) {
+  left: 30%;
+}
+.atomic .Start\(30px\) {
+  left: 30px;
+}
+.atomic .Start\(45\%\) {
+  left: 45%;
+}
+.atomic .Start\(5\) {
+  left: 5;
+}
+.atomic .Start\(50\%\) {
+  left: 50%;
+}
+.atomic .Start\(50px\) {
+  left: 50px;
+}
+.atomic .Start\(5px\) {
+  left: 5px;
+}
+.atomic .Start\(7\.5vw\) {
+  left: 7.5vw;
+}
+.atomic .Start\(77px\) {
+  left: 77px;
+}
+.atomic .Start\(80px\) {
+  left: 80px;
+}
+.atomic .Start\(82px\) {
+  left: 82px;
+}
+.atomic .Start\(8px\) {
+  left: 8px;
+}
+.custom-social:hover .custom-social\:h_Op\(1\), .invite-count:hover .invite-count\:h_Op\(1\), .js-hotspot-modal-active .js-hotspot-modal-active_Op\(1\), .Selected .Selected_Op\(1\), .wafer-beacon .wafer-beacon_Op\(1\) {
+  opacity: 1 !important;
+}
+.JsEnabled .JsEnabled_Op\(0\) {
+  opacity: 0 !important;
+}
+.atomic .Op\(\.1\) {
+  opacity: .1;
+}
+.atomic .Op\(\.4\) {
+  opacity: .4;
+}
+.atomic .Op\(\.5\) {
+  opacity: .5;
+}
+.atomic .Op\(\.7\) {
+  opacity: .7;
+}
+.atomic .Op\(0\) {
+  opacity: 0;
+}
+.atomic .Op\(0\.3\) {
+  opacity: 0.3;
+}
+.atomic .Op\(0\.4\) {
+  opacity: 0.4;
+}
+.atomic .Op\(0\.48\) {
+  opacity: 0.48;
+}
+.atomic .Op\(0\.6\), .atomic .Op\(0\.6\)\:h:hover {
+  opacity: 0.6;
+}
+.atomic .Op\(0\.8\), .atomic .Op\(0\.8\)\:h:hover {
+  opacity: 0.8;
+}
+.atomic .Op\(1\), .atomic .Op\(1\)\:di:disabled, .atomic .Op\(1\)\:h:hover {
+  opacity: 1;
+}
+.atomic .Op\(30\%\) {
+  opacity: 30%;
+}
+.atomic .Op\(40\%\) {
+  opacity: 40%;
+}
+.atomic .Op\(51\%\) {
+  opacity: 51%;
+}
+.atomic .Op\(\.6\)\:h:hover {
+  opacity: .6;
+}
+.atomic .Op\(\.9\)\:h:hover {
+  opacity: .9;
+}
+.atomic .Ov\(a\) {
+  overflow: auto;
+}
+.atomic .Ov\(h\), .Ell:after, .Ell, .Hidden, [class*=LineClamp], a[class*=LineClamp]:after {
+  overflow: hidden;
+}
+.atomic .Ov\(s\) {
+  overflow: scroll;
+}
+.atomic .Ov\(v\) {
+  overflow: visible;
+}
+.atomic .Ovx\(a\) {
+  overflow-x: auto;
+}
+.atomic .Ovx\(h\) {
+  overflow-x: hidden;
+}
+.atomic .Ovx\(s\) {
+  overflow-x: scroll;
+}
+.atomic .Ovy\(a\) {
+  overflow-y: auto;
+}
+.atomic .Ovy\(h\) {
+  overflow-y: hidden;
+}
+.atomic .Ovy\(s\) {
+  overflow-y: scroll;
+}
+.smartphone .smartphone_Ovy\(s\) {
+  overflow-y: scroll !important;
+}
+.atomic .Ovs\(touch\) {
+  -webkit-overflow-scrolling: touch;
+}
+.atomic .P\(0\) {
+  padding: 0;
+}
+.atomic .P\(0\)\!, .smartphone .smartphone_P\(0\), .Hidden {
+  padding: 0 !important;
+}
+.atomic .P\(0px\) {
+  padding: 0px;
+}
+.atomic .P\(10px\) {
+  padding: 10px;
+}
+.atomic .P\(12px\) {
+  padding: 12px;
+}
+.atomic .P\(14px\) {
+  padding: 14px;
+}
+.atomic .P\(15px\) {
+  padding: 15px;
+}
+.atomic .P\(16px\) {
+  padding: 16px;
+}
+.atomic .P\(1px\) {
+  padding: 1px;
+}
+.atomic .P\(2\) {
+  padding: 2;
+}
+.atomic .P\(20px\) {
+  padding: 20px;
+}
+.atomic .P\(24px\) {
+  padding: 24px;
+}
+.atomic .P\(25px\) {
+  padding: 25px;
+}
+.atomic .P\(2px\) {
+  padding: 2px;
+}
+.atomic .P\(30px\) {
+  padding: 30px;
+}
+.atomic .P\(35px\)\!--miw1200 {
+  padding: 35px !important;
+}
+.atomic .P\(3px\) {
+  padding: 3px;
+}
+.atomic .P\(4px\) {
+  padding: 4px;
+}
+.atomic .P\(5px\) {
+  padding: 5px;
+}
+.atomic .P\(6px\) {
+  padding: 6px;
+}
+.atomic .P\(7px\) {
+  padding: 7px;
+}
+.atomic .P\(8px\) {
+  padding: 8px;
+}
+.atomic .P\(9px\) {
+  padding: 9px;
+}
+.atomic .Px\(0\), .atomic .Pstart\(0\) {
+  padding-left: 0;
+}
+.atomic .Px\(0\), .atomic .Pend\(0\) {
+  padding-right: 0;
+}
+.atomic .Px\(0\)\! {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.atomic .Px\(0\.4em\) {
+  padding-left: 0.4em;
+  padding-right: 0.4em;
+}
+.atomic .Px\(0px\), .atomic .Pstart\(0px\) {
+  padding-left: 0px;
+}
+.atomic .Px\(0px\) {
+  padding-right: 0px;
+}
+.atomic .Px\(1\.1em\) {
+  padding-left: 1.1em;
+  padding-right: 1.1em;
+}
+.atomic .Px\(10px\), .atomic .Pstart\(10px\) {
+  padding-left: 10px;
+}
+.atomic .Px\(10px\), .atomic .Pend\(10px\) {
+  padding-right: 10px;
+}
+.atomic .Px\(10px\)\!, .smartphone .smartphone_Px\(10px\) {
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+.atomic .Px\(12px\), .atomic .Pstart\(12px\) {
+  padding-left: 12px;
+}
+.atomic .Px\(12px\), .atomic .Pend\(12px\) {
+  padding-right: 12px;
+}
+.atomic .Px\(13px\), .atomic .Pstart\(13px\) {
+  padding-left: 13px;
+}
+.atomic .Px\(13px\), .atomic .Pend\(13px\) {
+  padding-right: 13px;
+}
+.atomic .Px\(14px\), .atomic .Pstart\(14px\) {
+  padding-left: 14px;
+}
+.atomic .Px\(14px\), .atomic .Pend\(14px\) {
+  padding-right: 14px;
+}
+.atomic .Px\(15px\), .atomic .Pstart\(15px\) {
+  padding-left: 15px;
+}
+.atomic .Px\(15px\), .atomic .Pend\(15px\) {
+  padding-right: 15px;
+}
+.atomic .Px\(16px\), .atomic .Pstart\(16px\) {
+  padding-left: 16px;
+}
+.atomic .Px\(16px\), .atomic .Pend\(16px\) {
+  padding-right: 16px;
+}
+.atomic .Px\(18px\), .atomic .Pstart\(18px\) {
+  padding-left: 18px;
+}
+.atomic .Px\(18px\), .atomic .Pend\(18px\) {
+  padding-right: 18px;
+}
+.atomic .Px\(1px\), .atomic .Pstart\(1px\) {
+  padding-left: 1px;
+}
+.atomic .Px\(1px\) {
+  padding-right: 1px;
+}
+.atomic .Px\(20px\), .atomic .Pstart\(20px\) {
+  padding-left: 20px;
+}
+.atomic .Px\(20px\), .atomic .Pend\(20px\) {
+  padding-right: 20px;
+}
+.atomic .Px\(21px\) {
+  padding-left: 21px;
+  padding-right: 21px;
+}
+.atomic .Px\(24px\), .atomic .Pstart\(24px\) {
+  padding-left: 24px;
+}
+.atomic .Px\(24px\), .atomic .Pend\(24px\) {
+  padding-right: 24px;
+}
+.atomic .Px\(25px\), .atomic .Pstart\(25px\) {
+  padding-left: 25px;
+}
+.atomic .Px\(25px\) {
+  padding-right: 25px;
+}
+.atomic .Px\(26px\), .atomic .Pstart\(26px\) {
+  padding-left: 26px;
+}
+.atomic .Px\(26px\) {
+  padding-right: 26px;
+}
+.atomic .Px\(28px\) {
+  padding-left: 28px;
+  padding-right: 28px;
+}
+.atomic .Px\(2px\), .atomic .Pstart\(2px\) {
+  padding-left: 2px;
+}
+.atomic .Px\(2px\), .atomic .Pend\(2px\) {
+  padding-right: 2px;
+}
+.atomic .Px\(30px\), .atomic .Pstart\(30px\) {
+  padding-left: 30px;
+}
+.atomic .Px\(30px\), .atomic .Pend\(30px\) {
+  padding-right: 30px;
+}
+.atomic .Px\(32px\), .atomic .Pstart\(32px\) {
+  padding-left: 32px;
+}
+.atomic .Px\(32px\) {
+  padding-right: 32px;
+}
+.atomic .Px\(35px\) {
+  padding-left: 35px;
+  padding-right: 35px;
+}
+.atomic .Px\(3px\) {
+  padding-left: 3px;
+  padding-right: 3px;
+}
+.atomic .Px\(40px\), .atomic .Pstart\(40px\) {
+  padding-left: 40px;
+}
+.atomic .Px\(40px\), .atomic .Pend\(40px\) {
+  padding-right: 40px;
+}
+.atomic .Px\(4px\), .atomic .Pstart\(4px\) {
+  padding-left: 4px;
+}
+.atomic .Px\(4px\), .atomic .Pend\(4px\) {
+  padding-right: 4px;
+}
+.atomic .Px\(5px\), .atomic .Pstart\(5px\) {
+  padding-left: 5px;
+}
+.atomic .Px\(5px\), .atomic .Pend\(5px\) {
+  padding-right: 5px;
+}
+.atomic .Px\(6\) {
+  padding-left: 6;
+  padding-right: 6;
+}
+.atomic .Px\(60px\) {
+  padding-left: 60px;
+}
+.atomic .Px\(60px\), .atomic .Pend\(60px\) {
+  padding-right: 60px;
+}
+.atomic .Px\(6px\), .atomic .Pstart\(6px\) {
+  padding-left: 6px;
+}
+.atomic .Px\(6px\), .atomic .Pend\(6px\) {
+  padding-right: 6px;
+}
+.atomic .Px\(7px\) {
+  padding-left: 7px;
+}
+.atomic .Px\(7px\), .atomic .Pend\(7px\) {
+  padding-right: 7px;
+}
+.atomic .Px\(8px\), .atomic .Pstart\(8px\) {
+  padding-left: 8px;
+}
+.atomic .Px\(8px\), .atomic .Pend\(8px\) {
+  padding-right: 8px;
+}
+.atomic .Px\(9px\) {
+  padding-left: 9px;
+  padding-right: 9px;
+}
+.smartphone .smartphone_Px\(16px\), .atomic .Pstart\(16px\)\!, .smartphone .smartphone_Pstart\(16px\) {
+  padding-left: 16px !important;
+}
+.smartphone .smartphone_Px\(16px\), .atomic .Pend\(16px\)\! {
+  padding-right: 16px !important;
+}
+.smartphone .smartphone_Px\(5px\) {
+  padding-left: 5px !important;
+  padding-right: 5px !important;
+}
+.atomic .Py\(\.5em\) {
+  padding-top: .5em;
+  padding-bottom: .5em;
+}
+.atomic .Py\(0\), .atomic .Pt\(0\) {
+  padding-top: 0;
+}
+.atomic .Py\(0\), .atomic .Pb\(0\) {
+  padding-bottom: 0;
+}
+.atomic .Py\(0px\), .atomic .Pt\(0px\) {
+  padding-top: 0px;
+}
+.atomic .Py\(0px\), .atomic .Pb\(0px\) {
+  padding-bottom: 0px;
+}
+.atomic .Py\(10px\), .atomic .Pt\(10px\) {
+  padding-top: 10px;
+}
+.atomic .Py\(10px\), .atomic .Pb\(10px\) {
+  padding-bottom: 10px;
+}
+.atomic .Py\(10px\)\! {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
+.atomic .Py\(11px\), .atomic .Pt\(11px\) {
+  padding-top: 11px;
+}
+.atomic .Py\(11px\), .atomic .Pb\(11px\) {
+  padding-bottom: 11px;
+}
+.atomic .Py\(12px\), .atomic .Pt\(12px\) {
+  padding-top: 12px;
+}
+.atomic .Py\(12px\), .atomic .Pb\(12px\) {
+  padding-bottom: 12px;
+}
+.atomic .Py\(12px\)\! {
+  padding-top: 12px !important;
+  padding-bottom: 12px !important;
+}
+.atomic .Py\(13px\), .atomic .Pt\(13px\) {
+  padding-top: 13px;
+}
+.atomic .Py\(13px\) {
+  padding-bottom: 13px;
+}
+.atomic .Py\(14px\), .atomic .Pt\(14px\) {
+  padding-top: 14px;
+}
+.atomic .Py\(14px\), .atomic .Pb\(14px\) {
+  padding-bottom: 14px;
+}
+.atomic .Py\(14px\)\! {
+  padding-top: 14px !important;
+  padding-bottom: 14px !important;
+}
+.atomic .Py\(15\.5px\) {
+  padding-top: 15.5px;
+  padding-bottom: 15.5px;
+}
+.atomic .Py\(15px\), .atomic .Pt\(15px\) {
+  padding-top: 15px;
+}
+.atomic .Py\(15px\), .atomic .Pb\(15px\) {
+  padding-bottom: 15px;
+}
+.atomic .Py\(16px\), .atomic .Pt\(16px\) {
+  padding-top: 16px;
+}
+.atomic .Py\(16px\), .atomic .Pb\(16px\) {
+  padding-bottom: 16px;
+}
+.atomic .Py\(16px\)\! {
+  padding-top: 16px !important;
+  padding-bottom: 16px !important;
+}
+.atomic .Py\(19px\) {
+  padding-top: 19px;
+  padding-bottom: 19px;
+}
+.atomic .Py\(1px\), .atomic .Pt\(1px\) {
+  padding-top: 1px;
+}
+.atomic .Py\(1px\) {
+  padding-bottom: 1px;
+}
+.atomic .Py\(20px\), .atomic .Pt\(20px\) {
+  padding-top: 20px;
+}
+.atomic .Py\(20px\), .atomic .Pb\(20px\) {
+  padding-bottom: 20px;
+}
+.atomic .Py\(22px\), .atomic .Pt\(22px\) {
+  padding-top: 22px;
+}
+.atomic .Py\(22px\), .atomic .Pb\(22px\) {
+  padding-bottom: 22px;
+}
+.atomic .Py\(24px\), .atomic .Pt\(24px\) {
+  padding-top: 24px;
+}
+.atomic .Py\(24px\), .atomic .Pb\(24px\) {
+  padding-bottom: 24px;
+}
+.atomic .Py\(2px\), .atomic .Pt\(2px\) {
+  padding-top: 2px;
+}
+.atomic .Py\(2px\), .atomic .Pb\(2px\) {
+  padding-bottom: 2px;
+}
+.atomic .Py\(30px\), .atomic .Pt\(30px\) {
+  padding-top: 30px;
+}
+.atomic .Py\(30px\), .atomic .Pb\(30px\) {
+  padding-bottom: 30px;
+}
+.atomic .Py\(32px\), .atomic .Pt\(32px\) {
+  padding-top: 32px;
+}
+.atomic .Py\(32px\) {
+  padding-bottom: 32px;
+}
+.atomic .Py\(3px\), .atomic .Pt\(3px\) {
+  padding-top: 3px;
+}
+.atomic .Py\(3px\), .atomic .Pb\(3px\) {
+  padding-bottom: 3px;
+}
+.atomic .Py\(40px\), .atomic .Pt\(40px\) {
+  padding-top: 40px;
+}
+.atomic .Py\(40px\), .atomic .Pb\(40px\) {
+  padding-bottom: 40px;
+}
+.atomic .Py\(48px\) {
+  padding-top: 48px;
+  padding-bottom: 48px;
+}
+.atomic .Py\(4px\), .atomic .Pt\(4px\) {
+  padding-top: 4px;
+}
+.atomic .Py\(4px\), .atomic .Pb\(4px\) {
+  padding-bottom: 4px;
+}
+.atomic .Py\(50px\), .atomic .Pt\(50px\) {
+  padding-top: 50px;
+}
+.atomic .Py\(50px\), .atomic .Pb\(50px\) {
+  padding-bottom: 50px;
+}
+.atomic .Py\(5px\), .atomic .Pt\(5px\) {
+  padding-top: 5px;
+}
+.atomic .Py\(5px\), .atomic .Pb\(5px\) {
+  padding-bottom: 5px;
+}
+.atomic .Py\(60px\), .atomic .Pt\(60px\) {
+  padding-top: 60px;
+}
+.atomic .Py\(60px\), .atomic .Pb\(60px\) {
+  padding-bottom: 60px;
+}
+.atomic .Py\(6px\), .atomic .Pt\(6px\) {
+  padding-top: 6px;
+}
+.atomic .Py\(6px\), .atomic .Pb\(6px\) {
+  padding-bottom: 6px;
+}
+.atomic .Py\(7px\), .atomic .Pt\(7px\) {
+  padding-top: 7px;
+}
+.atomic .Py\(7px\), .atomic .Pb\(7px\) {
+  padding-bottom: 7px;
+}
+.atomic .Py\(7px\)\! {
+  padding-top: 7px !important;
+  padding-bottom: 7px !important;
+}
+.atomic .Py\(8px\), .atomic .Pt\(8px\) {
+  padding-top: 8px;
+}
+.atomic .Py\(8px\), .atomic .Pb\(8px\) {
+  padding-bottom: 8px;
+}
+.atomic .Py\(9px\), .atomic .Pt\(9px\) {
+  padding-top: 9px;
+}
+.atomic .Py\(9px\), .atomic .Pb\(9px\) {
+  padding-bottom: 9px;
+}
+.atomic .Pt\(0\)\! {
+  padding-top: 0 !important;
+}
+.atomic .Pt\(200px\) {
+  padding-top: 200px;
+}
+.atomic .Pt\(25px\) {
+  padding-top: 25px;
+}
+.atomic .Pt\(26px\) {
+  padding-top: 26px;
+}
+.atomic .Pt\(28px\) {
+  padding-top: 28px;
+}
+.atomic .Pt\(34px\) {
+  padding-top: 34px;
+}
+.atomic .Pt\(36px\) {
+  padding-top: 36px;
+}
+.atomic .Pt\(44px\) {
+  padding-top: 44px;
+}
+.smartphone .smartphone_Pt\(20px\) {
+  padding-top: 20px !important;
+}
+.atomic .Pend\(11px\) {
+  padding-right: 11px;
+}
+.atomic .Pend\(16\.5px\) {
+  padding-right: 16.5px;
+}
+.atomic .Pend\(163px\) {
+  padding-right: 163px;
+}
+.atomic .Pend\(17px\) {
+  padding-right: 17px;
+}
+.atomic .Pend\(30\%\) {
+  padding-right: 30%;
+}
+.atomic .Pend\(55px\) {
+  padding-right: 55px;
+}
+.atomic .Pb\(17px\) {
+  padding-bottom: 17px;
+}
+.atomic .Pb\(18px\) {
+  padding-bottom: 18px;
+}
+.atomic .Pb\(25px\) {
+  padding-bottom: 25px;
+}
+.atomic .Pb\(2px\)\! {
+  padding-bottom: 2px !important;
+}
+.atomic .Pb\(38px\) {
+  padding-bottom: 38px;
+}
+.atomic .Pb\(56\%\) {
+  padding-bottom: 56%;
+}
+.atomic .Pb\(70px\) {
+  padding-bottom: 70px;
+}
+.atomic .Pb\(83px\) {
+  padding-bottom: 83px;
+}
+.atomic .Pb\(92px\) {
+  padding-bottom: 92px;
+}
+.smartphone .smartphone_Pb\(3px\), .tablet .tablet_Pb\(3px\) {
+  padding-bottom: 3px !important;
+}
+.atomic .Pstart\(17px\) {
+  padding-left: 17px;
+}
+.atomic .Pstart\(20px\)\! {
+  padding-left: 20px !important;
+}
+.atomic .Pstart\(22px\) {
+  padding-left: 22px;
+}
+.atomic .Pstart\(30px\)\! {
+  padding-left: 30px !important;
+}
+.atomic .Pstart\(4\) {
+  padding-left: 4;
+}
+.atomic .Pstart\(42px\) {
+  padding-left: 42px;
+}
+.atomic .Pe\(n\), .atomic .Pe\(n\)\:di:disabled {
+  pointer-events: none;
+}
+.js-image-container-full-screen .js-image-container-full-screen_Pos\(f\), .atomic .Pos\(f\)\! {
+  position: fixed !important;
+}
+.atomic .Pos\(a\), .StretchedBox, .StretchedBox\:\:b::before {
+  position: absolute;
+}
+.atomic .Pos\(a\)\!, .Hidden {
+  position: absolute !important;
+}
+.atomic .Pos\(f\), .atomic .Pos\(f\)\:\:b::before {
+  position: fixed;
+}
+.atomic .Pos\(r\), .atomic .Pos\(r\)\:\:b::before {
+  position: relative;
+}
+.atomic .Pos\(s\)\! {
+  position: static !important;
+}
+.atomic .Pos\(st\) {
+  position: -webkit-sticky;
+  position: sticky;
+}
+.atomic .Rsz\(n\) {
+  resize: none;
+}
+.atomic .Tbl\(f\) {
+  table-layout: fixed;
+}
+.atomic .Ta\(c\) {
+  text-align: center;
+}
+.atomic .Ta\(e\) {
+  text-align: end;
+}
+.atomic .Ta\(end\) {
+  text-align: right;
+}
+.atomic .Ta\(s\) {
+  text-align: start;
+}
+.atomic .Ta\(start\) {
+  text-align: left;
+}
+.atomic .Tal\(c\) {
+  text-align-last: center;
+}
+.playerLink:hover .playerLink\:h_Td\(u\), .atomic .Td\(u\)\!, .tdv2-applet-featurebar:hover .tdv2-applet-featurebar\:h_Td\(u\) {
+  text-decoration: underline !important;
+}
+.atomic .Td\(lt\) {
+  text-decoration: line-through;
+}
+.atomic .Td\(n\), .atomic .Td\(n\)\:h:hover {
+  text-decoration: none;
+}
+.atomic .Td\(n\)\! {
+  text-decoration: none !important;
+}
+.atomic .Td\(u\)\:h:hover {
+  text-decoration: underline;
+}
+.atomic .Ti\(-999px\) {
+  text-indent: -999px;
+}
+.atomic .Ti\(10px\) {
+  text-indent: 10px;
+}
+.atomic .Ti\(15px\) {
+  text-indent: 15px;
+}
+.atomic .Tov\(e\), .Ell {
+  text-overflow: ellipsis;
+}
+.atomic .Tt\(c\) {
+  text-transform: capitalize;
+}
+.atomic .Tt\(l\) {
+  text-transform: lowercase;
+}
+.atomic .Tt\(n\) {
+  text-transform: none;
+}
+.atomic .Tt\(u\) {
+  text-transform: uppercase;
+}
+.atomic .Tsh\(dark-txtsh\) {
+  text-shadow: 0 1px 1px #000;
+}
+.atomic .Tsh\(n\) {
+  text-shadow: none;
+}
+.atomic .Tsh\(smadIndicatorTextShadow\) {
+  text-shadow: 0px 0px 10px #000080;
+}
+.atomic .Tsh\(smadParallaxCTACardCTALabelTextShadow\) {
+  text-shadow: 0px 0px 2px #000;
+}
+.atomic .Trf\(currency-type-tootlip-Trf\) {
+  transform: translate(-50%, calc(-100% - 10px));
+}
+.atomic .Trf\(pin-Trf\) {
+  transform: rotateZ(-45deg);
+}
+.atomic .Bfv\(h\) {
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+.atomic .Rotate\(45deg\) {
+  transform: rotate(45deg);
+}
+.atomic .Rotate\(90deg\) {
+  transform: rotate(90deg);
+}
+.atomic .Scale\(1\.02\,1\.02\)\:h:hover {
+  transform: scale(1.02,1.02);
+}
+.atomic .Skew\(-22\.5deg\) {
+  transform: skew(-22.5deg);
+}
+.atomic .Translate\(-50\%\,-50\%\) {
+  transform: translate(-50%,-50%);
+}
+.atomic .Translate\(25\%\,-50\%\) {
+  transform: translate(25%,-50%);
+}
+.ShowNavrail .ShowNavrail_Translate3d\(0\,40px\,0\) {
+  transform: translate3d(0,40px,0) !important;
+}
+.atomic .Translate3d\(0\,0\,0\) {
+  transform: translate3d(0,0,0);
+}
+.active .active_TranslateX\(-215px\) {
+  transform: translateX(-215px) !important;
+}
+.active .active_TranslateX\(-260px\) {
+  transform: translateX(-260px) !important;
+}
+.active .active_TranslateX\(215px\) {
+  transform: translateX(215px) !important;
+}
+.active .active_TranslateX\(260px\) {
+  transform: translateX(260px) !important;
+}
+.atomic .TranslateX\(-55px\) {
+  transform: translateX(-55px);
+}
+.atomic .TranslateX\(-70\%\) {
+  transform: translateX(-70%);
+}
+.atomic .TranslateX\(46\%\) {
+  transform: translateX(46%);
+}
+.feedback-summary-show .feedback-summary-show_TranslateY\(0px\) {
+  transform: translateY(0px) !important;
+}
+.scrollDown .scrollDown_TranslateY\(-46px\) {
+  transform: translateY(-46px) !important;
+}
+.atomic .TranslateY\(-50\%\) {
+  transform: translateY(-50%);
+}
+.atomic .TranslateY\(300\%\) {
+  transform: translateY(300%);
+}
+.atomic .TranslateZ\(0\) {
+  transform: translateZ(0);
+}
+.atomic .Trs\(\$shareTransition\) {
+  transition: all .15s ease-in-out;
+}
+.atomic .Trs\(component-transition-vertical\) {
+  transition: max-height 0.3s;
+}
+.atomic .Trs\(pin-Trs\) {
+  transition: left ease-in 1s;
+}
+.atomic .Trs\(smadIndicatorTransition\) {
+  transition: all 1.4s ease-in-out;
+}
+.atomic .Trs\(smadModalTransition\) {
+  transition: all 0.3s ease-in-out;
+}
+.atomic .Trsde\(\.1s\) {
+  transition-delay: .1s;
+}
+.atomic .Trsde\(\.4s\) {
+  transition-delay: .4s;
+}
+.atomic .Trsdu\(\.3s\) {
+  transition-duration: .3s;
+}
+.atomic .Trsdu\(\.42s\) {
+  transition-duration: .42s;
+}
+.atomic .Trsdu\(\.5s\) {
+  transition-duration: .5s;
+}
+.atomic .Trsdu\(\.75s\) {
+  transition-duration: .75s;
+}
+.atomic .Trsdu\(0\.3s\) {
+  transition-duration: 0.3s;
+}
+.atomic .Trsdu\(0s\)\! {
+  transition-duration: 0s !important;
+}
+.atomic .Trsdu\(100ms\) {
+  transition-duration: 100ms;
+}
+.atomic .Trsdu\(1s\) {
+  transition-duration: 1s;
+}
+.atomic .Trsdu\(200ms\) {
+  transition-duration: 200ms;
+}
+.atomic .Trsdu\(300ms\) {
+  transition-duration: 300ms;
+}
+.atomic .Trsdu\(500ms\) {
+  transition-duration: 500ms;
+}
+.atomic .Trsp\(a\) {
+  transition-property: all;
+}
+.atomic .Trstf\(e\) {
+  transition-timing-function: ease;
+}
+.atomic .Trstf\(eio\) {
+  transition-timing-function: ease-in-out;
+}
+.atomic .Trstf\(eo\) {
+  transition-timing-function: ease-out;
+}
+.atomic .Trstf\(l\) {
+  transition-timing-function: linear;
+}
+.atomic .Us\(n\) {
+  -webkit-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+.atomic .Va\(b\) {
+  vertical-align: bottom;
+}
+.atomic .Va\(bl\) {
+  vertical-align: baseline;
+}
+.atomic .Va\(m\) {
+  vertical-align: middle;
+}
+.atomic .Va\(m\)\! {
+  vertical-align: middle !important;
+}
+.atomic .Va\(sub\) {
+  vertical-align: sub;
+}
+.atomic .Va\(sup\) {
+  vertical-align: super;
+}
+.atomic .Va\(t\), .IbBox, .Row {
+  vertical-align: top;
+}
+.atomic .Va\(t\)\! {
+  vertical-align: top !important;
+}
+.atomic .Va\(tt\) {
+  vertical-align: text-top;
+}
+.gemini-dropdown-show .gemini-dropdown-show_V\(v\), .js-hotspot-modal-active .js-hotspot-modal-active_V\(v\), .wafer-beacon .wafer-beacon_V\(v\), .wafer-geolocation-denied + .wafer-geolocation-denied\+V\(v\) {
+  visibility: visible !important;
+}
+.atomic .V\(c\) {
+  visibility: collapse;
+}
+.atomic .V\(h\), .Ell:after, a[class*=LineClamp]:after {
+  visibility: hidden;
+}
+.atomic .V\(v\) {
+  visibility: visible;
+}
+.atomic .Whs\(n\) {
+  white-space: normal;
+}
+.atomic .Whs\(n\)\! {
+  white-space: normal !important;
+}
+.atomic .Whs\(nw\), .Ell {
+  white-space: nowrap;
+}
+.atomic .Whs\(p\) {
+  white-space: pre;
+}
+.atomic .Whs\(pl\) {
+  white-space: pre-line;
+}
+.atomic .Whs\(pw\) {
+  white-space: pre-wrap;
+}
+.active .active_W\(2px\) {
+  width: 2px !important;
+}
+.shortcutMenuPanel-open .shortcutMenuPanel-open_W\(100vw\), .shortcutMenuPanel-open .shortcutMenuPanel-open_W\(100vw\)\:\:b::before {
+  width: 100vw !important;
+}
+.smartphone .smartphone_W\(100\%\), .atomic .W\(100\%\)\! {
+  width: 100% !important;
+}
+.smartphone .smartphone_W\(24px\), .atomic .W\(24px\)\! {
+  width: 24px !important;
+}
+.tablet .tablet_W\(72\%\) {
+  width: 72% !important;
+}
+.tablet .tablet_W\(90\%\) {
+  width: 90% !important;
+}
+.atomic .W\(0\) {
+  width: 0;
+}
+.atomic .W\(1\.3em\) {
+  width: 1.3em;
+}
+.atomic .W\(1\/1\), .atomic .W\(100\%\), .atomic .W\(100\%\)--mdw320, .atomic .W\(100\%\)\:h:hover, .Row {
+  width: 100%;
+}
+.atomic .W\(1\/2\), .atomic .W\(50\%\) {
+  width: 50%;
+}
+.atomic .W\(1\/3\) {
+  width: 33.3333%;
+}
+.atomic .W\(1\/4\), .atomic .W\(25\%\) {
+  width: 25%;
+}
+.atomic .W\(1\/5\), .atomic .W\(20\%\) {
+  width: 20%;
+}
+.atomic .W\(1\/6\) {
+  width: 16.6667%;
+}
+.atomic .W\(1\/7\) {
+  width: 14.2857%;
+}
+.atomic .W\(1\/8\) {
+  width: 12.5%;
+}
+.atomic .W\(10\%\) {
+  width: 10%;
+}
+.atomic .W\(100px\) {
+  width: 100px;
+}
+.atomic .W\(100vw\) {
+  width: 100vw;
+}
+.atomic .W\(1012px\) {
+  width: 1012px;
+}
+.atomic .W\(104px\) {
+  width: 104px;
+}
+.atomic .W\(107px\) {
+  width: 107px;
+}
+.atomic .W\(1080px\) {
+  width: 1080px;
+}
+.atomic .W\(108px\) {
+  width: 108px;
+}
+.atomic .W\(10px\) {
+  width: 10px;
+}
+.atomic .W\(110px\) {
+  width: 110px;
+}
+.atomic .W\(113px\) {
+  width: 113px;
+}
+.atomic .W\(115px\) {
+  width: 115px;
+}
+.atomic .W\(12\%\) {
+  width: 12%;
+}
+.atomic .W\(126px\) {
+  width: 126px;
+}
+.atomic .W\(12px\) {
+  width: 12px;
+}
+.atomic .W\(132\%\) {
+  width: 132%;
+}
+.atomic .W\(138px\) {
+  width: 138px;
+}
+.atomic .W\(14\%\) {
+  width: 14%;
+}
+.atomic .W\(140px\) {
+  width: 140px;
+}
+.atomic .W\(142px\) {
+  width: 142px;
+}
+.atomic .W\(144px\) {
+  width: 144px;
+}
+.atomic .W\(145px\) {
+  width: 145px;
+}
+.atomic .W\(147px\) {
+  width: 147px;
+}
+.atomic .W\(14px\) {
+  width: 14px;
+}
+.atomic .W\(15\%\), .atomic .W\(3\/20\) {
+  width: 15%;
+}
+.atomic .W\(150px\) {
+  width: 150px;
+}
+.atomic .W\(156px\) {
+  width: 156px;
+}
+.atomic .W\(15px\) {
+  width: 15px;
+}
+.atomic .W\(16\%\) {
+  width: 16%;
+}
+.atomic .W\(160px\) {
+  width: 160px;
+}
+.atomic .W\(163px\) {
+  width: 163px;
+}
+.atomic .W\(165px\) {
+  width: 165px;
+}
+.atomic .W\(16px\) {
+  width: 16px;
+}
+.atomic .W\(170px\) {
+  width: 170px;
+}
+.atomic .W\(175px\) {
+  width: 175px;
+}
+.atomic .W\(180px\) {
+  width: 180px;
+}
+.atomic .W\(185px\) {
+  width: 185px;
+}
+.atomic .W\(186px\) {
+  width: 186px;
+}
+.atomic .W\(18px\) {
+  width: 18px;
+}
+.atomic .W\(1px\) {
+  width: 1px;
+}
+.atomic .W\(2\/3\) {
+  width: 66.6667%;
+}
+.atomic .W\(2\/5\), .atomic .W\(40\%\) {
+  width: 40%;
+}
+.atomic .W\(200px\) {
+  width: 200px;
+}
+.atomic .W\(205px\) {
+  width: 205px;
+}
+.atomic .W\(206px\) {
+  width: 206px;
+}
+.atomic .W\(20px\) {
+  width: 20px;
+}
+.atomic .W\(210px\) {
+  width: 210px;
+}
+.atomic .W\(215px\) {
+  width: 215px;
+}
+.atomic .W\(220px\) {
+  width: 220px;
+}
+.atomic .W\(225px\) {
+  width: 225px;
+}
+.atomic .W\(22px\) {
+  width: 22px;
+}
+.atomic .W\(230px\) {
+  width: 230px;
+}
+.atomic .W\(231px\) {
+  width: 231px;
+}
+.atomic .W\(236px\) {
+  width: 236px;
+}
+.atomic .W\(24\%\) {
+  width: 24%;
+}
+.atomic .W\(240px\) {
+  width: 240px;
+}
+.atomic .W\(24px\) {
+  width: 24px;
+}
+.atomic .W\(250px\) {
+  width: 250px;
+}
+.atomic .W\(252px\) {
+  width: 252px;
+}
+.atomic .W\(25px\) {
+  width: 25px;
+}
+.atomic .W\(260px\) {
+  width: 260px;
+}
+.atomic .W\(26px\) {
+  width: 26px;
+}
+.atomic .W\(271px\) {
+  width: 271px;
+}
+.atomic .W\(275px\) {
+  width: 275px;
+}
+.atomic .W\(27px\) {
+  width: 27px;
+}
+.atomic .W\(28\%\) {
+  width: 28%;
+}
+.atomic .W\(280px\), .atomic .W\(280px\)--xxs {
+  width: 280px;
+}
+.atomic .W\(285px\) {
+  width: 285px;
+}
+.atomic .W\(28px\) {
+  width: 28px;
+}
+.atomic .W\(290px\) {
+  width: 290px;
+}
+.atomic .W\(2px\) {
+  width: 2px;
+}
+.atomic .W\(3\%\) {
+  width: 3%;
+}
+.atomic .W\(3\/4\), .atomic .W\(75\%\) {
+  width: 75%;
+}
+.atomic .W\(3\/5\), .atomic .W\(60\%\) {
+  width: 60%;
+}
+.atomic .W\(30\%\) {
+  width: 30%;
+}
+.atomic .W\(300px\) {
+  width: 300px;
+}
+.atomic .W\(301px\) {
+  width: 301px;
+}
+.atomic .W\(30px\) {
+  width: 30px;
+}
+.atomic .W\(31\%\) {
+  width: 31%;
+}
+.atomic .W\(310px\) {
+  width: 310px;
+}
+.atomic .W\(315px\) {
+  width: 315px;
+}
+.atomic .W\(32\%\) {
+  width: 32%;
+}
+.atomic .W\(320px\) {
+  width: 320px;
+}
+.atomic .W\(328px\) {
+  width: 328px;
+}
+.atomic .W\(32px\) {
+  width: 32px;
+}
+.atomic .W\(33\%\) {
+  width: 33%;
+}
+.atomic .W\(338px\) {
+  width: 338px;
+}
+.atomic .W\(33px\) {
+  width: 33px;
+}
+.atomic .W\(35\%\) {
+  width: 35%;
+}
+.atomic .W\(350px\) {
+  width: 350px;
+}
+.atomic .W\(356px\) {
+  width: 356px;
+}
+.atomic .W\(35px\) {
+  width: 35px;
+}
+.atomic .W\(36px\) {
+  width: 36px;
+}
+.atomic .W\(375px\) {
+  width: 375px;
+}
+.atomic .W\(37px\) {
+  width: 37px;
+}
+.atomic .W\(38\%\) {
+  width: 38%;
+}
+.atomic .W\(38px\) {
+  width: 38px;
+}
+.atomic .W\(4\/5\), .atomic .W\(80\%\), .atomic .W\(80\%\)--xxs {
+  width: 80%;
+}
+.atomic .W\(400px\) {
+  width: 400px;
+}
+.atomic .W\(40px\) {
+  width: 40px;
+}
+.atomic .W\(42px\) {
+  width: 42px;
+}
+.atomic .W\(44px\), .atomic .W\(44px\)--xxs {
+  width: 44px;
+}
+.atomic .W\(45\%\) {
+  width: 45%;
+}
+.atomic .W\(450px\) {
+  width: 450px;
+}
+.atomic .W\(45px\) {
+  width: 45px;
+}
+.atomic .W\(48\%\) {
+  width: 48%;
+}
+.atomic .W\(48px\) {
+  width: 48px;
+}
+.atomic .W\(49\%\) {
+  width: 49%;
+}
+.atomic .W\(49px\) {
+  width: 49px;
+}
+.atomic .W\(4px\) {
+  width: 4px;
+}
+.atomic .W\(5\%\) {
+  width: 5%;
+}
+.atomic .W\(5\/12\) {
+  width: 41.6667%;
+}
+.atomic .W\(5\/6\) {
+  width: 83.3333%;
+}
+.atomic .W\(50px\) {
+  width: 50px;
+}
+.atomic .W\(525px\) {
+  width: 525px;
+}
+.atomic .W\(55\%\) {
+  width: 55%;
+}
+.atomic .W\(55px\) {
+  width: 55px;
+}
+.atomic .W\(58\%\) {
+  width: 58%;
+}
+.atomic .W\(6\%\) {
+  width: 6%;
+}
+.atomic .W\(60px\) {
+  width: 60px;
+}
+.atomic .W\(65\%\) {
+  width: 65%;
+}
+.atomic .W\(65px\) {
+  width: 65px;
+}
+.atomic .W\(66\%\) {
+  width: 66%;
+}
+.atomic .W\(67px\) {
+  width: 67px;
+}
+.atomic .W\(69px\) {
+  width: 69px;
+}
+.atomic .W\(6px\)\:\:b::before {
+  width: 6px;
+}
+.atomic .W\(7\%\) {
+  width: 7%;
+}
+.atomic .W\(7\/8\) {
+  width: 87.5%;
+}
+.atomic .W\(70\%\) {
+  width: 70%;
+}
+.atomic .W\(70px\) {
+  width: 70px;
+}
+.atomic .W\(720px\)--mnw1160 {
+  width: 720px;
+}
+.atomic .W\(72px\) {
+  width: 72px;
+}
+.atomic .W\(74\%\) {
+  width: 74%;
+}
+.atomic .W\(75px\) {
+  width: 75px;
+}
+.atomic .W\(76px\) {
+  width: 76px;
+}
+.atomic .W\(8\%\) {
+  width: 8%;
+}
+.atomic .W\(80px\), .atomic .W\(80px\)--xxs {
+  width: 80px;
+}
+.atomic .W\(82\%\) {
+  width: 82%;
+}
+.atomic .W\(85\%\) {
+  width: 85%;
+}
+.atomic .W\(85vw\) {
+  width: 85vw;
+}
+.atomic .W\(9\%\) {
+  width: 9%;
+}
+.atomic .W\(90\%\) {
+  width: 90%;
+}
+.atomic .W\(92px\) {
+  width: 92px;
+}
+.atomic .W\(94\%\) {
+  width: 94%;
+}
+.atomic .W\(95\%\) {
+  width: 95%;
+}
+.atomic .W\(a\) {
+  width: auto;
+}
+.atomic .W\(fc\) {
+  width: -webkit-fit-content;
+  width: fit-content;
+}
+.atomic .W\(featurebarWidth\) {
+  width: calc(100vw - 56px);
+}
+.atomic .Wow\(bw\) {
+  word-wrap: break-word;
+}
+.js-image-container-full-screen .js-image-container-full-screen_Z\(3\) {
+  z-index: 3 !important;
+}
+.atomic .Z\(-1\) {
+  z-index: -1;
+}
+.atomic .Z\(0\) {
+  z-index: 0;
+}
+.atomic .Z\(1\) {
+  z-index: 1;
+}
+.atomic .Z\(10\) {
+  z-index: 10;
+}
+.atomic .Z\(100\) {
+  z-index: 100;
+}
+.atomic .Z\(1000000\) {
+  z-index: 1000000;
+}
+.atomic .Z\(10003\) {
+  z-index: 10003;
+}
+.atomic .Z\(11\) {
+  z-index: 11;
+}
+.atomic .Z\(11000\) {
+  z-index: 11000;
+}
+.atomic .Z\(12\) {
+  z-index: 12;
+}
+.atomic .Z\(13\) {
+  z-index: 13;
+}
+.atomic .Z\(15\) {
+  z-index: 15;
+}
+.atomic .Z\(2\) {
+  z-index: 2;
+}
+.atomic .Z\(200\) {
+  z-index: 200;
+}
+.atomic .Z\(3\) {
+  z-index: 3;
+}
+.atomic .Z\(4\) {
+  z-index: 4;
+}
+.atomic .Z\(5\) {
+  z-index: 5;
+}
+.atomic .Z\(50\) {
+  z-index: 50;
+}
+.atomic .Z\(9\) {
+  z-index: 9;
+}
+.atomic .Z\(99\) {
+  z-index: 99;
+}
+.atomic .Z\(998\) {
+  z-index: 998;
+}
+.atomic .Z\(999\) {
+  z-index: 999;
+}
+.atomic .Z\(9999\) {
+  z-index: 9999;
+}
+.atomic .Fill\(\#828c93\) {
+  fill: #828c93;
+}
+.atomic .Fill\(\#fff\) {
+  fill: #fff;
+}
+.atomic .Fill\(\$c-casper\)\! {
+  fill: #ffffff !important;
+}
+.atomic .Fill\(\$c-fuji-grey-i\) {
+  fill: #5b636a;
+}
+.atomic .Fill\(\$c-fuji-red-2-b\) {
+  fill: #ff333a;
+}
+.atomic .Fill\(\$c-scooter\)\! {
+  fill: #0063EB !important;
+}
+.atomic .Fill\(--dolphin\) {
+  fill: var(--dolphin);
+}
+.atomic .Fill\(cc\)\! {
+  fill: currentColor !important;
+}
+.atomic .Fill\(color-gray-2\)\!, .atomic .Fill\(color-primary\)\! {
+  fill: #959595 !important;
+}
+.atomic .Fill\(color-positive\)\! {
+  fill: #1ac567 !important;
+}
+.atomic .Fill\(color-secondary\)\! {
+  fill: #f3f3f3 !important;
+}
+.share-button:hover .share-button\:h_Fill\(\$streamHoverClass\) {
+  fill: #0078ff !important;
+}
+.atomic .Stk\(\#828c93\) {
+  stroke: #828c93;
+}
+.atomic .Stk\(\#fff\) {
+  stroke: #fff;
+}
+.atomic .Stk\(\$c-fuji-grey-i\) {
+  stroke: #5b636a;
+}
+.atomic .Stk\(\$c-fuji-red-2-b\) {
+  stroke: #ff333a;
+}
+.atomic .Stkw\(1px\)\! {
+  stroke-width: 1px !important;
+}
+.BdY, .BdT, .BdB {
+  border-right-width: 0;
+  border-left-width: 0;
+}
+.BdT {
+  border-bottom-width: 0;
+}
+.BdB {
+  border-top-width: 0;
+}
+.Cf:before, .Cf:after {
+  content: " ";
+}
+.Ell:after, a[class*=LineClamp]:after {
+  content: ".";
+  font-size: 0;
+  height: 0;
+  width: 0;
+}
+.Ell {
+  -webkit-hyphens: none;
+      -ms-hyphens: none;
+          hyphens: none;
+}
+.Hidden {
+  clip: rect(1px,1px,1px,1px);
+  border: 0 !important;
+  height: 1px !important;
+  width: 1px !important;
+}
+[class*=LineClamp] {
+  display: -webkit-box;
+}
+a[class*=LineClamp] {
+  display : -webkit-box;
+}
+.LineClamp\(10\,215px\) {
+  -webkit-line-clamp: 10;
+  max-height: 215px;
+}
+.LineClamp\(2\,2\.5em\), .LineClamp\(2\,2\.7em\), .LineClamp\(2\,32px\), .LineClamp\(2\,34px\)--sm1024, .LineClamp\(2\,36px\), .LineClamp\(2\,38px\), .LineClamp\(2\,38px\)--sm1024, .LineClamp\(2\,44px\), .LineClamp\(2\,46px\), .LineClamp\(2\,90px\) {
+  -webkit-line-clamp: 2;
+}
+.LineClamp\(2\,2\.5em\) {
+  max-height: 2.5em;
+}
+.LineClamp\(2\,2\.7em\) {
+  max-height: 2.7em;
+}
+.LineClamp\(2\,32px\) {
+  max-height: 32px;
+}
+.LineClamp\(2\,34px\)--sm1024 {
+  max-height: 34px;
+}
+.LineClamp\(2\,36px\) {
+  max-height: 36px;
+}
+.LineClamp\(2\,38px\), .LineClamp\(2\,38px\)--sm1024 {
+  max-height: 38px;
+}
+.LineClamp\(2\,44px\) {
+  max-height: 44px;
+}
+.LineClamp\(2\,46px\) {
+  max-height: 46px;
+}
+.LineClamp\(2\,90px\) {
+  max-height: 90px;
+}
+.LineClamp\(3\,3\.5em\)--mdw320, .LineClamp\(3\,4em\)--mdw320 {
+  -webkit-line-clamp: 3;
+}
+.LineClamp\(3\,3\.5em\)--mdw320 {
+  max-height: 3.5em;
+}
+.LineClamp\(3\,4em\)--mdw320 {
+  max-height: 4em;
+}
+.StretchedBox, .StretchedBox\:\:b::before {
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+@media screen and (max-width: 767px) {
+  .atomic .Ai\(c\)--xs {
+    -ms-flex-align: center;
+        align-items: center;
+  }
+  .atomic .Ai\(fe\)--xs {
+    -ms-flex-align: end;
+        align-items: flex-end;
+  }
+  .atomic .Bdrstend\(8px\)--xs {
+    border-top-right-radius: 8px;
+  }
+  .atomic .Bdrststart\(8px\)--xs {
+    border-top-left-radius: 8px;
+  }
+  .atomic .D\(n\)--xs {
+    display: none;
+  }
+  .atomic .Fxg\(1\)--xs {
+    -ms-flex-positive: 1;
+        flex-grow: 1;
+  }
+  .atomic .Fld\(c\)--xs {
+    -ms-flex-direction: column;
+        flex-direction: column;
+  }
+  .atomic .Fz\(12px\)--xs {
+    font-size: 12px;
+  }
+  .atomic .Fz\(13px\)\!--xs {
+    font-size: 13px !important;
+  }
+  .atomic .Fz\(14px\)--xs {
+    font-size: 14px;
+  }
+  .atomic .Fz\(16px\)--xs {
+    font-size: 16px;
+  }
+  .atomic .H\(100\%\)--xs {
+    height: 100%;
+  }
+  .atomic .H\(48px\)--xs {
+    height: 48px;
+  }
+  .atomic .Mx\(a\)--xs {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .atomic .Mend\(20px\)--xs {
+    margin-right: 20px;
+  }
+  .atomic .Mend\(8px\)--xs {
+    margin-right: 8px;
+  }
+  .atomic .Mb\(40px\)--xs {
+    margin-bottom: 40px;
+  }
+  .atomic .Mb\(60px\)--xs {
+    margin-bottom: 60px;
+  }
+  .atomic .Mah\(100vh\)--xs {
+    max-height: 100vh;
+  }
+  .atomic .Mah\(300px\)\!--xs {
+    max-height: 300px !important;
+  }
+  .atomic .Mah\(54\.6vh\)--xs {
+    max-height: 54.6vh;
+  }
+  .atomic .Mah\(90\%\)--xs {
+    max-height: 90%;
+  }
+  .atomic .Maw\(50px\)--xs {
+    max-width: 50px;
+  }
+  .atomic .Maw\(65px\)--xs {
+    max-width: 65px;
+  }
+  .atomic .Mih\(40\.7vh\)--xs {
+    min-height: 40.7vh;
+  }
+  .atomic .Mih\(68\.8vh\)--xs {
+    min-height: 68.8vh;
+  }
+  .atomic .Miw\(100\%\)--xs {
+    min-width: 100%;
+  }
+  .atomic .Miw\(125px\)--xs {
+    min-width: 125px;
+  }
+  .atomic .B\(0\)--xs {
+    bottom: 0;
+  }
+  .atomic .Start\(0\)--xs {
+    left: 0;
+  }
+  .atomic .Ov\(h\)--xs {
+    overflow: hidden;
+  }
+  .atomic .Ovy\(h\)--xs {
+    overflow-y: hidden;
+  }
+  .atomic .P\(6px\)\!--xs {
+    padding: 6px !important;
+  }
+  .atomic .Px\(10px\)--xs {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .atomic .Px\(12px\)--xs {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .atomic .Px\(20px\)--xs {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .atomic .Px\(24px\)--xs {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+  .atomic .Py\(30px\)--xs {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .atomic .Py\(6px\)--xs {
+    padding-top: 6px;
+    padding-bottom: 6px;
+  }
+  .atomic .Py\(7px\)--xs {
+    padding-top: 7px;
+    padding-bottom: 7px;
+  }
+  .atomic .Py\(8px\)--xs {
+    padding-top: 8px;
+  }
+  .atomic .Py\(8px\)--xs, .atomic .Pb\(8px\)--xs {
+    padding-bottom: 8px;
+  }
+  .atomic .Pb\(34px\)--xs {
+    padding-bottom: 34px;
+  }
+  .atomic .Pos\(a\)--xs {
+    position: absolute;
+  }
+  .atomic .Pos\(f\)--xs {
+    position: fixed;
+  }
+  .atomic .Ta\(c\)--xs {
+    text-align: center;
+  }
+  .atomic .Tov\(e\)--xs {
+    text-overflow: ellipsis;
+  }
+  .atomic .Whs\(nw\)--xs {
+    white-space: nowrap;
+  }
+  .atomic .W\(100\%\)--xs {
+    width: 100%;
+  }
+  .atomic .W\(20\%\)\!--xs {
+    width: 20% !important;
+  }
+  .atomic .W\(35\%\)\!--xs {
+    width: 35% !important;
+  }
+  .atomic .W\(42px\)--xs {
+    width: 42px;
+  }
+  .atomic .W\(50px\)--xs {
+    width: 50px;
+  }
+  .atomic .W\(90\%\)\!--xs {
+    width: 90% !important;
+  }
+}
+@media screen and (min-width:768px) {
+  .atomic .Ai\(c\)--ntxs {
+    -ms-flex-align: center;
+        align-items: center;
+  }
+  .atomic .Bdrs\(8px\)--ntxs {
+    border-radius: 8px;
+  }
+  .atomic .D\(f\)--ntxs {
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .atomic .D\(ib\)--ntxs {
+    display: inline-block;
+  }
+  .atomic .D\(n\)--ntxs {
+    display: none;
+  }
+  .atomic .Or\(1\)--ntxs {
+    -ms-flex-order: 1;
+        order: 1;
+  }
+  .atomic .Or\(2\)--ntxs {
+    -ms-flex-order: 2;
+        order: 2;
+  }
+  .atomic .Jc\(c\)--ntxs {
+    -ms-flex-pack: center;
+        justify-content: center;
+  }
+  .atomic .Jc\(sb\)--ntxs {
+    -ms-flex-pack: justify;
+        justify-content: space-between;
+  }
+  .atomic .Fz\(14px\)--ntxs {
+    font-size: 14px;
+  }
+  .atomic .Fz\(16px\)--ntxs {
+    font-size: 16px;
+  }
+  .atomic .Fz\(20px\)--ntxs {
+    font-size: 20px;
+  }
+  .atomic .Gp\(65px\)--ntxs {
+    gap: 65px;
+  }
+  .atomic .H\(340px\)--ntxs {
+    height: 340px;
+  }
+  .atomic .H\(725px\)--ntxs {
+    height: 725px;
+  }
+  .atomic .H\(75px\)--ntxs {
+    height: 75px;
+  }
+  .atomic .My\(30px\)--ntxs {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .atomic .Mend\(18px\)--ntxs {
+    margin-right: 18px;
+  }
+  .atomic .Mend\(42px\)--ntxs {
+    margin-right: 42px;
+  }
+  .atomic .Mah\(331px\)--ntxs {
+    max-height: 331px;
+  }
+  .atomic .Mah\(444px\)--ntxs {
+    max-height: 444px;
+  }
+  .atomic .Mah\(559px\)--ntxs {
+    max-height: 559px;
+  }
+  .atomic .Maw\(327px\)--ntxs {
+    max-width: 327px;
+  }
+  .atomic .Maw\(375px\)--ntxs {
+    max-width: 375px;
+  }
+  .atomic .Maw\(900px\)--ntxs {
+    max-width: 900px;
+  }
+  .atomic .Mih\(331px\)--ntxs {
+    min-height: 331px;
+  }
+  .atomic .Mih\(525px\)--ntxs {
+    min-height: 525px;
+  }
+  .atomic .Miw\(155px\)--ntxs {
+    min-width: 155px;
+  }
+  .atomic .Px\(12px\)--ntxs {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .atomic .Px\(18px\)--ntxs {
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+  .atomic .Px\(24px\)--ntxs {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+  .atomic .Py\(16px\)--ntxs {
+    padding-top: 16px;
+    padding-bottom: 16px;
+  }
+  .atomic .Py\(54px\)--ntxs {
+    padding-top: 54px;
+    padding-bottom: 54px;
+  }
+  .atomic .Py\(6px\)--ntxs {
+    padding-top: 6px;
+    padding-bottom: 6px;
+  }
+  .atomic .Py\(7px\)--ntxs {
+    padding-top: 7px;
+    padding-bottom: 7px;
+  }
+  .atomic .Py\(8px\)--ntxs {
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+  .atomic .Pend\(30px\)--ntxs {
+    padding-right: 30px;
+  }
+  .atomic .Pb\(24px\)--ntxs {
+    padding-bottom: 24px;
+  }
+  .atomic .Pstart\(30px\)--ntxs {
+    padding-left: 30px;
+  }
+  .atomic .Ta\(c\)--ntxs {
+    text-align: center;
+  }
+  .atomic .Ta\(end\)--ntxs {
+    text-align: right;
+  }
+  .atomic .W\(110px\)--ntxs {
+    width: 110px;
+  }
+  .atomic .W\(327px\)--ntxs {
+    width: 327px;
+  }
+  .atomic .W\(360px\)--ntxs {
+    width: 360px;
+  }
+  .atomic .W\(375px\)--ntxs {
+    width: 375px;
+  }
+  .atomic .W\(392px\)--ntxs {
+    width: 392px;
+  }
+  .atomic .W\(423px\)--ntxs {
+    width: 423px;
+  }
+  .atomic .W\(50\%\)--ntxs {
+    width: 50%;
+  }
+  .atomic .W\(65px\)--ntxs {
+    width: 65px;
+  }
+}
+@media screen and (min-width:767px) {
+  .atomic .Bdstart\(light-grey-border\)--sm {
+    border-left: 1px solid #e0e4e9;
+  }
+  .atomic .Fz\(16px\)--sm {
+    font-size: 16px;
+  }
+  .atomic .Fz\(fz-sm\)--sm {
+    font-size: 13px;
+  }
+  .atomic .Fz\(fz-xl\)--sm {
+    font-size: 20px;
+  }
+  .atomic .Mend\(12px\)--sm {
+    margin-right: 12px;
+  }
+  .atomic .Mend\(32px\)--sm {
+    margin-right: 32px;
+  }
+  .atomic .Mb\(60px\)--sm {
+    margin-bottom: 60px;
+  }
+  .atomic .Maw\(50\%\)--sm {
+    max-width: 50%;
+  }
+  .atomic .Maw\(90px\)--sm {
+    max-width: 90px;
+  }
+  .atomic .Px\(120px\)--sm {
+    padding-left: 120px;
+    padding-right: 120px;
+  }
+  .atomic .W\(100\%\)--sm {
+    width: 100%;
+  }
+}
+@media screen and (min-width:992px) {
+  .atomic .Bgi\(user-landing-page-daily-desktop\)--md {
+    background-image: url(https://s.yimg.com/cv/apiv2/dailyfantasy/user-landing-page/desktop@2x.png);
+  }
+  .atomic .Fl\(end\)--md {
+    float: right;
+  }
+  .atomic .W\(40\%\)--md {
+    width: 40%;
+  }
+}
+@media screen and (min-width:1200px) {
+  .atomic .Fz\(15px\)--lg, .atomic .Fz\(fz-md\)--lg {
+    font-size: 15px;
+  }
+  .atomic .Fz\(20px\)--lg {
+    font-size: 20px;
+  }
+  .atomic .Fz\(30px\)--lg {
+    font-size: 30px;
+  }
+  .atomic .Fz\(fz-2xl\)--lg {
+    font-size: 22px;
+  }
+  .atomic .Fz\(fz-sm\)--lg {
+    font-size: 13px;
+  }
+  .atomic .Mx\(18px\)--lg {
+    margin-left: 18px;
+    margin-right: 18px;
+  }
+  .atomic .Mx\(20px\)--lg {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  .atomic .Mt\(-2px\)--lg {
+    margin-top: -2px;
+  }
+  .atomic .Mb\(5px\)--lg {
+    margin-bottom: 5px;
+  }
+  .atomic .Maw\(700px\)--lg {
+    max-width: 700px;
+  }
+  .atomic .Mih\(55px\)--lg {
+    min-height: 55px;
+  }
+  .atomic .W\(50\%\)--lg {
+    width: 50%;
+  }
+}
+@media screen and (max-width: 400px) {
+  .atomic .Fz\(12px\)--maw400 {
+    font-size: 12px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .atomic .Fz\(13px\)--sm320 {
+    font-size: 13px;
+  }
+  .atomic .Fz\(16px\)--maw320 {
+    font-size: 16px;
+  }
+  .atomic .Fz\(28px\)--maw320 {
+    font-size: 28px;
+  }
+  .atomic .H\(30px\)--maw320 {
+    height: 30px;
+  }
+  .atomic .Lh\(30px\)--maw320 {
+    line-height: 30px;
+  }
+  .atomic .Mt\(56px\)\!--maw320 {
+    margin-top: 56px !important;
+  }
+  .atomic .Px\(3px\)\!--maw320 {
+    padding-left: 3px !important;
+    padding-right: 3px !important;
+  }
+  .atomic .Py\(5px\)\!--maw320 {
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+  }
+  .atomic .Pt\(25px\)--maw320 {
+    padding-top: 25px;
+  }
+  .atomic .Pt\(4px\)\!--maw320 {
+    padding-top: 4px !important;
+  }
+  .atomic .W\(230px\)--maw320 {
+    width: 230px;
+  }
+}
+@media screen and (orientation: landscape) {
+  .atomic .D\(n\)--landscape {
+    display: none;
+  }
+}
+@media screen and (max-width: 320px) {
+  .atomic .Fz\(13px\)--sm320 {
+    font-size: 13px;
+  }
+  .atomic .Fz\(16px\)--maw320 {
+    font-size: 16px;
+  }
+  .atomic .Fz\(28px\)--maw320 {
+    font-size: 28px;
+  }
+  .atomic .H\(30px\)--maw320 {
+    height: 30px;
+  }
+  .atomic .Lh\(30px\)--maw320 {
+    line-height: 30px;
+  }
+  .atomic .Mt\(56px\)\!--maw320 {
+    margin-top: 56px !important;
+  }
+  .atomic .Px\(3px\)\!--maw320 {
+    padding-left: 3px !important;
+    padding-right: 3px !important;
+  }
+  .atomic .Py\(5px\)\!--maw320 {
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+  }
+  .atomic .Pt\(25px\)--maw320 {
+    padding-top: 25px;
+  }
+  .atomic .Pt\(4px\)\!--maw320 {
+    padding-top: 4px !important;
+  }
+  .atomic .W\(230px\)--maw320 {
+    width: 230px;
+  }
+}
+@media screen and (min-device-height: 740px) {
+  .atomic .Bgc\(\#ededf1\)--mdh740 {
+    background-color: #ededf1;
+  }
+  .atomic .Bgc\(--black\)--mdh740 {
+    background-color: var(--black);
+  }
+  .atomic .Bgc\(--dirty-seagull\)--mdh740 {
+    background-color: var(--dirty-seagull);
+  }
+  .atomic .Bgpy\(35\%\)--mdh740 {
+    background-position-y: 35%;
+  }
+  .atomic .H\(177\.77vw\)--mdh740 {
+    height: 177.77vw;
+  }
+  .atomic .H\(smadBigFontXLImgHeight\)\!--mdh740 {
+    height: calc(178vw - 20px) !important;
+  }
+  .atomic .H\(smadSImgHeight\)\!--mdh740 {
+    height: calc(142vw) !important;
+  }
+  .atomic .H\(smadXLImgHeight\)\!--mdh740 {
+    height: calc(177.77vw - 20px) !important;
+  }
+  .atomic .T\(smadTop\)--mdh740 {
+    top: initial !important;
+  }
+  .atomic .B\(40vw\)\!--mdh740 {
+    bottom: 40vw !important;
+  }
+  .atomic .B\(flashSaleXBottom\)\!--mdh740 {
+    bottom: calc((100vh - 177.77vw - 31px)/ 2 + 57px) !important;
+  }
+  .atomic .B\(smadBottom\)\!--mdh740 {
+    bottom: calc((100vh - 177.77vw - 31px)/2) !important;
+  }
+  .atomic .B\(smadMuteBottomX\)\!--mdh740 {
+    bottom: calc((100vh - 177.77vw)/2) !important;
+  }
+  .atomic .B\(smadNoUhBottom\)--mdh740 {
+    bottom: calc((100vh - 177.77vw - 11px)/2);
+  }
+}
+@media screen and (min-device-width: 320px) and (max-device-width: 375px) {
+  .atomic .Fz\(11px\)\!--minw320 {
+    font-size: 11px !important;
+  }
+  .atomic .W\(11\.5px\)\!--minw320 {
+    width: 11.5px !important;
+  }
+}
+@media screen and (min-device-width: 375px) {
+  .atomic .Fz\(13px\)\!--minw375 {
+    font-size: 13px !important;
+  }
+}
+@media screen and (min-width:512px) {
+  .atomic .Bdrs\(12px\)--ntxxs {
+    border-radius: 12px;
+  }
+  .atomic .Fxb\(50\%\)--ntxxs {
+    -ms-flex-preferred-size: 50%;
+        flex-basis: 50%;
+  }
+  .atomic .Fz\(20px\)--ntxxs {
+    font-size: 20px;
+  }
+  .atomic .Fz\(28px\)--ntxxs {
+    font-size: 28px;
+  }
+  .atomic .Fz\(40px\)--ntxxs {
+    font-size: 40px;
+  }
+  .atomic .H\(28px\)--ntxxs {
+    height: 28px;
+  }
+  .atomic .H\(68px\)--ntxxs {
+    height: 68px;
+  }
+  .atomic .W\(160px\)--ntxxs {
+    width: 160px;
+  }
+  .atomic .W\(180px\)--ntxxs {
+    width: 180px;
+  }
+  .atomic .W\(420px\)--ntxxs {
+    width: 420px;
+  }
+  .atomic .W\(480px\)--ntxxs {
+    width: 480px;
+  }
+  .atomic .W\(68px\)--ntxxs {
+    width: 68px;
+  }
+}
+@media screen and (max-width:767px) {
+  .atomic .Bgi\(user-landing-page-daily-mobile\)--xsmmax {
+    background-image: url(https://s.yimg.com/cv/apiv2/dailyfantasy/user-landing-page/mobile@2x.png);
+  }
+  .atomic .D\(n\)--xsmmax {
+    display: none;
+  }
+  .atomic .Fld\(c\)--xsmmax, .atomic .Fxd\(c\)--xsmmax {
+    -ms-flex-direction: column;
+        flex-direction: column;
+  }
+  .atomic .Jc\(c\)--xsmmax {
+    -ms-flex-pack: center;
+        justify-content: center;
+  }
+  .atomic .Mb\(25px\)--xsmmax {
+    margin-bottom: 25px;
+  }
+  .atomic .Px\(10px\)--xsmmax {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .atomic .Pt\(10px\)--xsmmax {
+    padding-top: 10px;
+  }
+  .atomic .W\(100\%\)--xsmmax {
+    width: 100%;
+  }
+}
+@media screen and (max-width:992px) {
+  .atomic .Bgi\(user-landing-page-daily-mobile\)--smmax {
+    background-image: url(https://s.yimg.com/cv/apiv2/dailyfantasy/user-landing-page/mobile@2x.png);
+  }
+  .atomic .Fz\(fz-md\)--smmax {
+    font-size: 15px;
+  }
+  .atomic .Fz\(fz-xsm\)--smmax {
+    font-size: 11px;
+  }
+}
+@media screen and (min-width:1320px) {
+  .atomic .Fl\(end\)--xlg {
+    float: right;
+  }
+}
+@media screen and (max-width:1320px) {
+  .atomic .Ta\(c\)--xlgmax {
+    text-align: center;
+  }
+  .atomic .W\(100\%\)\!--xlgmax {
+    width: 100% !important;
+  }
+}
+@media screen and (max-width: 1430px) {
+  .atomic .D\(n\)--ntxlg {
+    display: none;
+  }
+}

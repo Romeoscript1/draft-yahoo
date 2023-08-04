@@ -1,0 +1,3889 @@
+.ys-horizList > li {
+  border-color: #cbcbcb;
+}
+
+.Thm-lite {
+  background-color: white;
+  color: #333333;
+}
+.Thm-lite .NoLinkColor:link, .Thm-lite .NoLinkColor:visited, .Thm-lite .NoLinkColor a:link, .Thm-lite .NoLinkColor a:visited {
+  color: #333333;
+}
+.Thm-lite .LinkColor {
+  color: #0078FF;
+}
+.Thm-lite a, .Thm-lite a:link, .Thm-lite a:visited {
+  color: #0078FF;
+}
+.Thm-lite .B-link {
+  border: 1px solid #0078FF;
+}
+.Thm-lite .Bb-dark {
+  border-bottom: 1px solid #959595;
+}
+.Thm-lite .NoLinkColor a, .Thm-lite .NoLinkColor a:link, .Thm-lite .NoLinkColor a:visited {
+  color: #333333;
+}
+.Thm-lite a.Success,
+.Thm-lite a.Success:link,
+.Thm-lite a.Success:visited {
+  color: white;
+}
+.Thm-lite .Bgc-accent {
+  background-color: #1ac567;
+}
+.Thm-lite .Bgc-secondary {
+  background-color: white;
+}
+.Thm-lite .Bgc-tertiary-a {
+  background-color: #0078FF;
+}
+.Thm-lite .Bgc-tertiary-b {
+  background-color: #757575;
+}
+.Thm-lite .Bgc-tertiary-c {
+  background-color: #cbcbcb;
+}
+.Thm-lite .Bgc-inverse {
+  background-color: #333333;
+  color: white;
+}
+.Thm-lite .Bgc-highlight {
+  background-color: #edf7f3;
+}
+.Thm-lite .StickyHeaders .ys-sorted,
+.Thm-lite table th.ys-sorted {
+  color: #333333;
+}
+.Thm-lite table col.ys-sorted {
+  background-color: #f3f3f3;
+}
+.Thm-lite .StickyHeaders,
+.Thm-lite .FixedFooter,
+.Thm-lite table thead tr {
+  background-color: #F5F8FA;
+}
+.Thm-lite .ys-export-lineup-contest-container:hover,
+.Thm-lite .Hover > li:hover,
+.Thm-lite table.Hover > tbody tr:hover {
+  background-color: #edf7f3;
+}
+.Thm-lite .LinkColorOnHover a:link,
+.Thm-lite .LinkColorOnHover a:visited {
+  color: #333333;
+}
+.Thm-lite .Hover > li:hover .Success,
+.Thm-lite table.Hover > tbody tr:hover .Success {
+  color: white;
+}
+.Thm-lite .Hover > li:hover a,
+.Thm-lite table.Hover > tbody tr:hover a,
+.Thm-lite .LinkColorOnHover > li:hover a {
+  color: #0078FF;
+}
+.Thm-lite .Hover > li:hover .playerImage-l,
+.Thm-lite table.Hover > tbody tr:hover .playerImage-l,
+.Thm-lite .LinkColorOnHover > li:hover .playerImage-l {
+  background-color: white;
+}
+.Thm-lite .NoLinkColorOnHover:hover,
+.Thm-lite .NoLinkColorOnHover a:hover,
+.Thm-lite .NoLinColorOnHover > li:hover a {
+  color: #333333;
+}
+.Thm-lite .ModalDismiss {
+  background: transparent;
+  border: none;
+}
+.Thm-lite .PageOverlay {
+  background-color: rgba(203, 203, 203, 0.7);
+}
+.Thm-lite .ys-tabChoices li a,
+.Thm-lite .ys-tabChoices li a:link,
+.Thm-lite .ys-tabChoices li a:visited {
+  background-color: #e7e7e7;
+  color: #333333;
+}
+.Thm-lite .ys-tabChoices li.ys-selected a {
+  background-color: #1ac567;
+  color: white;
+}
+.Thm-lite .Modal .ys-matchHeader {
+  background-color: #cbcbcb;
+  border-color: #0078FF;
+  color: white;
+}
+.Thm-lite .Modal .ft {
+  background-color: #333333;
+  color: white;
+}
+.Thm-lite .Modal .ys-playerStats {
+  background-color: #333333;
+  color: white;
+}
+.Thm-lite .ys-toggle:hover {
+  background: #f3f3f3;
+  color: #0078FF;
+}
+
+.Thm-lite .ys-subNav li a {
+  color: #959595;
+}
+.Thm-lite .ys-subNav li.Selected a {
+  color: black;
+}
+
+.Thm-accent {
+  background-color: #0078FF;
+  color: white;
+}
+.Thm-accent a,
+.Thm-accent a:link,
+.Thm-accent a:visited,
+.Thm-accent .NoLinkColor:link,
+.Thm-accent .NoLinkColor:visited,
+.Thm-accent .NoLinkColor a:link,
+.Thm-accent .NoLinkColor a:visited,
+.Thm-accent .LinkColor {
+  color: white;
+}
+.Thm-accent .Dimmed,
+.Thm-accent .Dimmed a:link,
+.Thm-accent .Dimmed a:visited {
+  color: white !important;
+}
+.Thm-accent .ModalDismiss {
+  color: #333333;
+}
+.Thm-accent .Arrow:before,
+.Thm-accent .Arrow:after {
+  border-top-color: #0078FF;
+}
+
+.Thm-notify {
+  background-color: #0078FF;
+  color: white;
+}
+.Thm-notify a,
+.Thm-notify a:link,
+.Thm-notify a:visited {
+  color: white;
+}
+
+.Thm-success {
+  background: #1ac567;
+  color: white;
+}
+
+.Thm-error {
+  background: #e7252e;
+  color: white;
+}
+
+/* Unsure if this is a team color - assuming static for now */
+.ys-curtain {
+  background-color: #333333;
+}
+
+.B-lite {
+  border: 1px solid #e7e7e7;
+}
+
+.Bt-lite {
+  border-top: 1px solid #e7e7e7;
+}
+
+.Bb-lite {
+  border-bottom: 1px solid #e7e7e7;
+}
+
+.Bb-lite-thick {
+  border-bottom: 2px solid #e7e7e7;
+}
+
+.Bt-accent {
+  border-top: 2px solid #e1e4df;
+}
+
+.Bb-accent {
+  border-bottom: 2px solid #e1e4df;
+}
+
+.B-accent {
+  border: 1px solid #e1e4df;
+}
+
+.Bend-accent {
+  border-right: 2px solid #e1e4df;
+}
+
+.Bstart-accent {
+  border-left: 2px solid #e1e4df;
+}
+
+.Bstart-accent-secondary {
+  border-left: 2px solid #0078FF;
+}
+
+.Bstart-accent-tertiary {
+  border-left: 2px solid #ff520d;
+}
+
+.Bx-lite {
+  border-left: 1px solid #e7e7e7;
+  border-right: 1px solid #e7e7e7;
+}
+
+.Bstart-lite {
+  border-left: 1px solid #e7e7e7;
+}
+
+.Bb-lite {
+  border-bottom: 1px solid #e7e7e7;
+}
+
+.Bb-dark {
+  border-bottom: 1px solid #333333;
+}
+
+.Bstart-success {
+  border-left: 8px solid #1ac567;
+}
+
+.status-IR,
+.status-DTD,
+.status-INJ,
+.status-Q,
+.status-P,
+.status-D,
+.status-O,
+.status-DL,
+.status-DL7,
+.status-DL10,
+.status-DL15,
+.status-DL60,
+.status-DELAY,
+.status-PPD,
+.status-SUSP,
+.status-PUP,
+.status-GTD,
+.status-IL,
+.status-IL7,
+.status-IL10,
+.status-IL15,
+.status-IL60,
+.status-COVID {
+  color: #e7252e;
+}
+
+.ys-textIcon {
+  border-color: white;
+}
+
+.ys-swapIcon {
+  border-color: #1ac567;
+}
+
+.Bgc-header {
+  background-color: #f3f3f3;
+}
+
+.Bgc-selected {
+  background-color: #f3f3f3;
+}
+
+.Bgc-lite {
+  background-color: white;
+}
+
+.Bgc-error,
+.Bgc-live {
+  color: white;
+  background-color: #e7252e;
+}
+
+.Bgc-upcoming {
+  color: white;
+  background-color: #959595;
+}
+
+.Bgc-add {
+  background-color: #1ac567;
+}
+
+.Bgc-added {
+  background-color: #0078FF;
+}
+
+.Bgc-sorted {
+  background-color: #e7e7e7;
+}
+
+.B-dark {
+  border: 1px solid #333333;
+}
+
+.Bgc-dark-trans {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.Bgc-black-trans {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.Bgc-faint-trans {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.Bgc-lite-trans {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.ys-positionIcon {
+  background-color: #0078FF;
+  color: white;
+}
+
+.ys-navigation {
+  background-color: #333333;
+}
+
+.LinkColor:hover {
+  text-decoration: underline;
+}
+
+.ys-smartphone .ys-notification-box {
+  top: 90px;
+  z-index: 5;
+}
+.ys-smartphone .ys-notification-box .ys-notification-message {
+  margin: 0 40px 0 6px;
+}
+
+.ys-smartphone ~ .ys-notification-box {
+  top: 55px;
+}
+
+.ys-smartphone .ys-notification-box {
+  top: 40px;
+}
+
+.ys-smartphone .Hover > li:hover,
+.ys-smartphone table.Hover > tbody tr:hover,
+.ys-smartphone .Thm-lite .Hover > li:hover,
+.ys-smartphone .Thm-lite table.Hover > tbody tr:hover {
+  background-color: white;
+}
+.ys-smartphone .Thm-lite li.active-player-list-item {
+  background-color: #edf7f3;
+}
+
+form input:focus:invalid,
+form textarea:focus:invalid,
+form select:focus:invalid {
+  border-color: #e7252e;
+  color: #e7252e;
+}
+
+.ys-loading-overlay:before {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-color: white;
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+.ys-paypal-logo {
+  text-indent: -1000px;
+  overflow: hidden;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.ys-paypal-logo.md {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/paypal_logo_medium.png);
+  width: 250px;
+  height: 51px;
+}
+
+.ys-paypal-logo.sm {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/paypal_logo_small.png);
+  width: 90px;
+  height: 38px;
+}
+
+.ys-daily-modal-header {
+  width: 350px;
+  height: 19px;
+  text-indent: -1000px;
+  overflow: hidden;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/daily_modal_header@2x.png);
+}
+
+.FormImportant {
+  background-color: #f3f3f3;
+  border-radius: 3px;
+  padding: 10px;
+}
+
+.PageOverlay {
+  background-color: rgba(0, 0, 0, 0.7);
+  transition: opacity 0.5s;
+}
+
+@font-face {
+  font-family: "sports";
+  src: url("https://s.yimg.com/os/mit/sports/f/64800a2/yahoo-fantasy-icons-bd94f63561dde7ac4a55aa540e923397.woff");
+  src: url("https://s.yimg.com/os/mit/sports/f/64800a2/yahoo-fantasy-icons-bd94f63561dde7ac4a55aa540e923397.eot") format("embedded-opentype"), url("https://s.yimg.com/os/mit/sports/f/64800a2/yahoo-fantasy-icons-bd94f63561dde7ac4a55aa540e923397.woff") format("woff"), url("https://s.yimg.com/os/mit/sports/f/64800a2/yahoo-fantasy-icons-bd94f63561dde7ac4a55aa540e923397.ttf") format("truetype"), url("https://s.yimg.com/os/mit/sports/f/64800a2/yahoo-fantasy-icons-bd94f63561dde7ac4a55aa540e923397.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+/*New Yahoo Icons for Flyout*/
+@font-face {
+  font-family: "yahoo";
+  src: url("https://s.yimg.com/xe/fantasy-assethub/f/c558734/yahoo-fantasy-icons-7c9d76bbf1b43eacc1be051ebd2ca9f0.eot");
+  src: url("https://s.yimg.com/xe/fantasy-assethub/f/c558734/yahoo-fantasy-icons-7c9d76bbf1b43eacc1be051ebd2ca9f0.eot") format("embedded-opentype"), url("https://s.yimg.com/xe/fantasy-assethub/f/c558734/yahoo-fantasy-icons-7c9d76bbf1b43eacc1be051ebd2ca9f0.woff") format("woff"), url("https://s.yimg.com/xe/fantasy-assethub/f/c558734/yahoo-fantasy-icons-7c9d76bbf1b43eacc1be051ebd2ca9f0.ttf") format("truetype"), url("https://s.yimg.com/xe/fantasy-assethub/f/c558734/yahoo-fantasy-icons-7c9d76bbf1b43eacc1be051ebd2ca9f0.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+[class^=ys-icon-], [class*=" ys-icon-"], .ys-icon {
+  font-family: "sports";
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^=yahoo-icon-], [class*=" yahoo-icon-"], .yahoo-icon {
+  font-family: "yahoo";
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a[class^=ys-icon-]:hover, a[class*=" ys-icon-"]:hover, a.ys-icon:hover {
+  text-decoration: none;
+}
+
+a[class^=yahoo-icon-]:hover, a[class*=" yahoo-icon-"]:hover, a.yahoo-icon:hover {
+  text-decoration: none;
+}
+
+.ys-icon-trending:before {
+  content: "\e212";
+}
+
+.ys-icon-nfl:before {
+  content: "\e204";
+}
+
+.ys-icon-ncaaf:before {
+  content: "\e226";
+}
+
+.ys-icon-cfb:before {
+  content: "\e226";
+}
+
+.ys-icon-nba:before {
+  content: "\e202";
+}
+
+.ys-icon-ncaab:before {
+  content: "\e202";
+}
+
+.ys-icon-nhl:before {
+  content: "\e203";
+}
+
+.ys-icon-mlb:before {
+  content: "\e205";
+}
+
+.ys-icon-pga:before {
+  content: "\e210";
+}
+
+.ys-icon-add:before {
+  content: "\e213";
+}
+
+.ys-icon-alarm_clock:before {
+  content: "\e031";
+}
+
+.ys-icon-arrow_north:before {
+  content: "\e007";
+}
+
+.ys-icon-arrow_south:before {
+  content: "\e00a";
+}
+
+.ys-icon-arrow_start:before {
+  content: "\e006";
+}
+
+.ys-icon-arrow_end:before {
+  content: "\e008";
+}
+
+.ys-icon-attachment:before {
+  content: "\e03a";
+}
+
+.ys-icon-auction:before {
+  content: "\e601";
+}
+
+.ys-icon-baseball:before {
+  content: "\e205";
+}
+
+.ys-icon-basketball:before {
+  content: "\e202";
+}
+
+.ys-icon-bills:before {
+  content: "\e224";
+}
+
+.ys-icon-bullet:before {
+  content: "\e019";
+}
+
+.ys-icon-bullhorn:before {
+  content: "\e045";
+}
+
+.ys-icon-calendar:before {
+  content: "\e040";
+}
+
+.ys-icon-camera:before {
+  content: "\e208";
+}
+
+.ys-icon-carousel_start:before {
+  content: "\e025";
+}
+
+.ys-icon-carousel_end:before {
+  content: "\e000";
+}
+
+.ys-icon-chart_users:before {
+  content: "\e00e";
+}
+
+.ys-icon-check:before {
+  content: "\e063";
+}
+
+.ys-icon-checkbox:before {
+  content: "\e02a";
+}
+
+.ys-icon-close:before {
+  content: "\e009";
+}
+
+.ys-icon-close_thin:before {
+  content: "\e219";
+}
+
+.ys-icon-circle_check:before {
+  content: "\e032";
+}
+
+.ys-icon-circle_warning:before {
+  content: "\e221";
+}
+
+.ys-icon-circle_x:before {
+  content: "\e200";
+}
+
+.ys-icon-daily:before {
+  content: "\e220";
+}
+
+.ys-icon-devices:before {
+  content: "\e014";
+}
+
+.ys-icon-disabled:before {
+  content: "\e038";
+}
+
+.ys-icon-dollar_sign:before {
+  content: "\e042";
+}
+
+.ys-icon-draft:before {
+  content: "\e201";
+}
+
+.ys-icon-edit:before {
+  content: "\e041";
+}
+
+.ys-icon-filter:before {
+  content: "\e600";
+}
+
+.ys-icon-flag:before {
+  content: "\e02e";
+}
+
+.ys-icon-facebook:before {
+  content: "\e00d";
+}
+
+.ys-icon-football:before {
+  content: "\e204";
+}
+
+.ys-icon-football_college:before {
+  content: "\e226";
+}
+
+.ys-icon-football_play:before {
+  content: "\e016";
+}
+
+.ys-icon-golf:before {
+  content: "\e210";
+}
+
+.ys-icon-group:before {
+  content: "\e017";
+}
+
+.ys-icon-hockey:before {
+  content: "\e203";
+}
+
+.ys-icon-home:before {
+  content: "\e01d";
+}
+
+.ys-icon-help:before {
+  content: "\e03f";
+}
+
+.ys-icon-import:before {
+  content: "\e218";
+}
+
+.ys-icon-info:before {
+  content: "\e013";
+}
+
+.ys-icon-info_diamond:before {
+  content: "\e03b";
+}
+
+.ys-icon-info_outline:before {
+  content: "\e217";
+}
+
+.ys-icon-keepers:before {
+  content: "\e03e";
+}
+
+.ys-icon-line_arrow_north:before {
+  content: "\e004";
+}
+
+.ys-icon-line_arrow_south:before {
+  content: "\e002";
+}
+
+.ys-icon-line_arrow_start:before {
+  content: "\e003";
+}
+
+.ys-icon-line_arrow_end:before {
+  content: "\e005";
+}
+
+.ys-icon-mail:before {
+  content: "\e01a";
+}
+
+.ys-icon-mail_outline:before {
+  content: "\e222";
+}
+
+.ys-icon-minus:before {
+  content: "\e033";
+}
+
+.ys-icon-nav:before {
+  content: "\e01e";
+}
+
+.ys-icon-new_note:before {
+  content: "\e020";
+}
+
+.ys-icon-newspaper:before {
+  content: "\e00f";
+}
+
+.ys-icon-notification_bell:before {
+  content: "\e039";
+}
+
+.ys-icon-pointer_north:before {
+  content: "\e024";
+}
+
+.ys-icon-pointer_south:before {
+  content: "\e02f";
+}
+
+.ys-icon-play:before {
+  content: "\e034";
+}
+
+.ys-icon-plus:before {
+  content: "\e035";
+}
+
+.ys-icon-printer:before {
+  content: "\e206";
+}
+
+.ys-icon-racing:before {
+  content: "\e211";
+}
+
+.ys-icon-record:before {
+  content: "\e209";
+}
+
+.ys-icon-refresh:before {
+  content: "\e021";
+}
+
+.ys-icon-remove:before {
+  content: "\e214";
+}
+
+.ys-icon-search:before {
+  content: "\e01b";
+}
+
+.ys-icon-settings:before {
+  content: "\e00c";
+}
+
+.ys-icon-up_down_arrow:before {
+  content: "\e00b";
+}
+
+.ys-icon-share:before {
+  content: "\e01c";
+}
+
+.ys-icon-skull:before {
+  content: "\e666";
+}
+
+.ys-icon-smack:before {
+  content: "\e015";
+}
+
+.ys-icon-sms:before {
+  content: "\e223";
+}
+
+.ys-icon-soccer:before {
+  content: "\e216";
+}
+
+.ys-icon-star:before {
+  content: "\e023";
+}
+
+.ys-icon-star_hollow:before {
+  content: "\e061";
+}
+
+.ys-icon-swap:before {
+  content: "\e215";
+}
+
+.ys-icon-talk_bubble:before {
+  content: "\e05e";
+}
+
+.ys-icon-trash:before {
+  content: "\e022";
+}
+
+.ys-icon-trending:before {
+  content: "\e212";
+}
+
+.ys-icon-trophy:before {
+  content: "\e010";
+}
+
+.ys-icon-trophy_outline:before {
+  content: "\e225";
+}
+
+.ys-icon-trophy_pro:before {
+  content: "\e011";
+}
+
+.ys-icon-trophy_vip:before {
+  content: "\e012";
+}
+
+.ys-icon-twitter:before {
+  content: "\e001";
+}
+
+.ys-icon-tumblr:before {
+  content: "\e071";
+}
+
+.ys-icon-trade:before {
+  content: "\e037";
+}
+
+.ys-icon-user:before {
+  content: "\e01f";
+}
+
+.ys-icon-video:before {
+  content: "\e036";
+}
+
+.ys-icon-video_camera:before {
+  content: "\e207";
+}
+
+.ys-icon-warning:before {
+  content: "\e046";
+}
+
+.ys-icon-no_scripting:before {
+  content: "\e229";
+}
+
+.ys-icon-scales:before {
+  content: "\e228";
+}
+
+.ys-icon-ten_max:before {
+  content: "\e227";
+}
+
+.ys-icon-cloudy:before {
+  content: "\e230";
+}
+
+.ys-icon-dome:before {
+  content: "\e231";
+}
+
+.ys-icon-rain:before {
+  content: "\e232";
+}
+
+.ys-icon-snow:before {
+  content: "\e233";
+}
+
+.ys-icon-sun:before {
+  content: "\e234";
+}
+
+.ys-icon-wind:before {
+  content: "\e235";
+}
+
+.ys-icon-lock:before {
+  content: "\e245";
+}
+
+.ys-icon-medal:before {
+  content: "\e246";
+}
+
+.ys-icon-shield_star:before {
+  content: "\e247";
+}
+
+.ys-icon-arrow-down:before {
+  content: "\e002";
+}
+
+.ys-icon-arrow-up:before {
+  content: "\e004";
+}
+
+/*New Yahoo Icons for Flyout*/
+.yahoo-icon-daily:before {
+  content: "\e220";
+}
+
+.yahoo-icon-nfl:before {
+  content: "\e204";
+}
+
+.yahoo-icon-cfb:before {
+  content: "\e226";
+}
+
+.yahoo-icon-nba:before {
+  content: "\e202";
+}
+
+.yahoo-icon-nhl:before {
+  content: "\e203";
+}
+
+.yahoo-icon-mlb:before {
+  content: "\e205";
+}
+
+.yahoo-icon-pga:before {
+  content: "\e210";
+}
+
+.yahoo-icon-racing:before {
+  content: "\e211";
+}
+
+.yahoo-icon-basketball:before {
+  content: "\e202";
+}
+
+.yahoo-icon-soccer:before {
+  content: "\e216";
+}
+
+.yahoo-icon-skull:before {
+  content: "\e666";
+}
+
+.yahoo-icon-trophy:before {
+  content: "\e010";
+}
+
+/* Player Image */
+.playerImage-s,
+.playerImage-m,
+.playerImage-l,
+.playerImage-xl,
+.playerImage-2xl,
+.playerImage-r,
+.teamImage-m,
+.teamImage-l,
+.teamImage-2xl,
+.teamImage-r {
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: 150%;
+}
+
+.teamImage-m,
+.teamImage-l,
+.teamImage-r {
+  background-position: center;
+  background-size: 100%;
+}
+
+.playerImage-s {
+  height: 30px;
+  width: 30px;
+}
+
+.playerImage-m,
+.teamImage-m {
+  height: 50px;
+  width: 50px;
+}
+
+.playerImage-m.playerImageType-raw {
+  height: 40px;
+  margin: 3px auto;
+  width: 40px;
+}
+
+.playerImage-l,
+.teamImage-l {
+  height: 60px;
+  max-width: 100%;
+  width: 60px;
+}
+
+.playerImage-xl {
+  height: 75px;
+  width: 75px;
+}
+
+.playerImage-2xl,
+.teamImage-2xl {
+  background-position: bottom;
+  background-size: 95%;
+  height: 175px;
+  width: 250px;
+}
+
+.teamImage-2xl {
+  background-position: center;
+  background-size: 65%;
+}
+
+.playerImage-r,
+.teamImage-r {
+  height: 40px;
+  max-width: 100%;
+  width: 40px;
+}
+
+.playerImage-r.playerImageType-raw {
+  height: 30px;
+  margin: 3px auto;
+  width: 30px;
+}
+
+.playerImage-2xl.playerImageType-raw {
+  background-position: top;
+  background-size: 100%;
+  height: 125px;
+  margin-top: -62px;
+  top: 50%;
+  width: 125px;
+}
+
+.playerImageType-raw {
+  background-position: top;
+  background-size: 100%;
+  border-radius: 50% 50%;
+}
+
+@media screen and (min-height: 800px) {
+  .playerImage-r,
+  .teamImage-r {
+    height: 50px;
+    width: 50px;
+  }
+  .playerImage-r.playerImageType-raw {
+    height: 40px;
+    width: 40px;
+  }
+}
+@media screen and (min-height: 900px) {
+  .playerImage-r,
+  .teamImage-r {
+    height: 60px;
+    width: 60px;
+  }
+  .playerImage-r.playerImageType-raw {
+    height: 50px;
+    width: 50px;
+  }
+}
+.hiddenPlayer {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/hidden_player.png);
+  background-size: 100%;
+}
+
+.ys-smartphone .playerImage-2xl,
+.ys-smartphone .teamImage-2xl {
+  height: 100px;
+  width: 110px;
+  background-size: 140%;
+}
+.ys-smartphone .playerImage-2xl.playerImageType-raw {
+  height: 80px;
+  margin-top: -40px;
+  top: 50%;
+  width: 80px;
+}
+.ys-smartphone .playerImage-2xl.playerImageType-raw,
+.ys-smartphone .teamImage-2xl {
+  background-size: 100%;
+}
+
+/* Player Modal */
+.Modal .ys-playerModal {
+  -webkit-tap-highlight-color: transparent;
+}
+.Modal .ys-playerModal .hd .ys-weatherIcon {
+  top: 4px;
+}
+.Modal .ys-playerModal .bd {
+  height: 200px;
+  transition: height 0.5s ease-in-out;
+}
+@media screen and (min-height: 700px) {
+  .Modal .ys-playerModal .bd {
+    height: 250px;
+  }
+}
+@media screen and (min-height: 800px) {
+  .Modal .ys-playerModal .bd {
+    height: 350px;
+  }
+}
+@media screen and (min-height: 900px) {
+  .Modal .ys-playerModal .bd {
+    height: 450px;
+  }
+}
+.Modal .ys-playerModal .ys-curtain {
+  height: 300%;
+  right: -5%;
+  top: -50%;
+  transform: rotate(35deg);
+}
+.Modal .ys-playerModal .sparkLine {
+  height: 90px;
+  height: 0;
+  width: 250px;
+}
+
+/* Player Note Freshness */
+.player-note-freshness-icon {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  text-indent: -1000px;
+  overflow: hidden;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.player-note-freshness-icon.SUPER_FRESH {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/player_note_new@2x.png);
+}
+.player-note-freshness-icon.FRESH {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/player_note_old@2x.png);
+}
+.player-note-freshness-icon.STALE {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/player_note_very_old@2x.png);
+}
+
+.profileImage-xs,
+.profileImage-s,
+.profileImage-m,
+.profileImage-l,
+.profileImage-xl {
+  border-radius: 50%;
+  -moz-force-broken-image-icon: 1;
+}
+
+.profileImage-xs {
+  width: 20px;
+  height: 20px;
+}
+
+.profileImage-s {
+  height: 30px;
+  width: 30px;
+}
+
+.profileImage-m {
+  height: 40px;
+  width: 40px;
+}
+
+.profileImage-l {
+  height: 60px;
+  width: 60px;
+}
+
+.profileImage-xl {
+  height: 75px;
+  width: 75px;
+}
+
+.ys-gamesList .ys-active,
+.ys-gamesList .ys-filterable > .ys-gamesListGame.ys-active:hover {
+  background-color: #0F69FF;
+  color: white;
+  outline: none;
+}
+.ys-gamesList .ys-filterable > .ys-gamesListGame:hover,
+.ys-gamesList .ys-filterable.ys-gamesListAll:hover {
+  background-color: #f3f3f3;
+  text-decoration: none;
+}
+.ys-gamesList .ys-icon:hover {
+  color: #333333;
+}
+.ys-gamesList .ys-gameListWrapper {
+  overflow: hidden;
+}
+.ys-gamesList .ys-gameListControl,
+.ys-gamesList .ys-gameListAll {
+  display: table-cell;
+}
+
+.ys-smartphone .ys-gamesList .ys-gameListWrapper {
+  overflow: scroll;
+}
+.ys-smartphone .ys-gamesList .ys-gameListWrapper ol {
+  border-left: 1px solid #e7e7e7;
+}
+.ys-smartphone .ys-gamesList .ys-gameListControl,
+.ys-smartphone .ys-gamesList .ys-gameListAll {
+  display: none;
+}
+
+.ys-pillChoose li {
+  display: inline-block;
+}
+.ys-pillChoose li a,
+.ys-pillChoose li a:link,
+.ys-pillChoose li a:visited,
+.ys-pillChoose li a.Disabled:hover {
+  background-color: white;
+  border: 1px solid #e7e7e7;
+  color: #333333;
+  display: block;
+  margin-left: -1px;
+  padding: 10px 12px;
+}
+.ys-pillChoose li a .ys-icon,
+.ys-pillChoose li a:link .ys-icon,
+.ys-pillChoose li a:visited .ys-icon,
+.ys-pillChoose li a.Disabled:hover .ys-icon {
+  color: #959595;
+}
+.ys-pillChoose li a:hover {
+  background-color: #f3f3f3;
+  color: #0078FF;
+  text-decoration: none;
+}
+.ys-pillChoose li a:hover .ys-icon {
+  color: #333333;
+}
+.ys-pillChoose li a.Selected {
+  background-color: #0F69FF;
+  color: white;
+}
+.ys-pillChoose li a.Selected .ys-icon {
+  color: white;
+}
+.ys-pillChoose li a.Selected .ys-main-badge {
+  background-color: white;
+  color: black;
+}
+.ys-pillChoose li:first-child a {
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+.ys-pillChoose li:last-child a {
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+.ys-pillChoose-basic li {
+  display: inline-block;
+}
+.ys-pillChoose-basic li a,
+.ys-pillChoose-basic li a:link,
+.ys-pillChoose-basic li a:visited,
+.ys-pillChoose-basic li a.Disabled:hover {
+  background-color: white;
+  border-right: 1px solid #e7e7e7;
+  border-left: 1px solid #e7e7e7;
+  color: #333333;
+  display: block;
+  margin-left: -1px;
+  padding: 10px 12px;
+}
+.ys-pillChoose-basic li a .ys-icon,
+.ys-pillChoose-basic li a:link .ys-icon,
+.ys-pillChoose-basic li a:visited .ys-icon,
+.ys-pillChoose-basic li a.Disabled:hover .ys-icon {
+  color: #959595;
+}
+.ys-pillChoose-basic li a:hover {
+  background-color: #f3f3f3;
+  color: #0078FF;
+  text-decoration: none;
+}
+.ys-pillChoose-basic li a:hover .ys-icon {
+  color: #333333;
+}
+.ys-pillChoose-basic li a.Selected {
+  background-color: #0F69FF;
+  color: white;
+}
+.ys-pillChoose-basic li a.Selected .ys-icon {
+  color: white;
+}
+.ys-pillChoose-basic li a.Selected .ys-main-badge {
+  background-color: white;
+  color: black;
+}
+
+.ys-pillChoose-rounded {
+  display: inline-block;
+  padding: 2px;
+  background: #e1e4df;
+  border-radius: 80px;
+}
+.ys-pillChoose-rounded li {
+  display: inline-block;
+}
+.ys-pillChoose-rounded li a,
+.ys-pillChoose-rounded li a:link,
+.ys-pillChoose-rounded li a:visited,
+.ys-pillChoose-rounded li a.Disabled:hover {
+  background-color: white;
+  border: 1px solid #e7e7e7;
+  color: #333333;
+  display: block;
+  margin: 1px;
+  padding: 10px 12px;
+  outline: 0;
+}
+.ys-pillChoose-rounded li a .ys-icon,
+.ys-pillChoose-rounded li a:link .ys-icon,
+.ys-pillChoose-rounded li a:visited .ys-icon,
+.ys-pillChoose-rounded li a.Disabled:hover .ys-icon {
+  color: #959595;
+}
+.ys-pillChoose-rounded li a:hover {
+  background-color: #f3f3f3;
+  text-decoration: none;
+}
+.ys-pillChoose-rounded li a:hover .ys-icon {
+  color: #333333;
+}
+.ys-pillChoose-rounded li a.Selected {
+  background-color: white;
+  color: black;
+}
+.ys-pillChoose-rounded li a.Selected .ys-icon {
+  color: black;
+}
+.ys-pillChoose-rounded li a.Selected .ys-main-badge {
+  background-color: white;
+  color: black;
+}
+.ys-pillChoose-rounded li a:not(.Selected) {
+  background: #e1e4df;
+}
+.ys-pillChoose-rounded li:first-child a {
+  border-radius: 80px;
+}
+.ys-pillChoose-rounded li:last-child a:not(.Selected) {
+  border-left: 0;
+  border-top-right-radius: 80px;
+  border-bottom-right-radius: 80px;
+}
+.ys-pillChoose-rounded li:last-child a.Selected {
+  border-left: 0;
+  border-radius: 80px;
+}
+
+.ys-horizList > li {
+  border-left: 1px solid #cbcbcb;
+  display: inline-block;
+  margin-left: -1px;
+  padding: 0 6px;
+}
+
+.ys-horizList > li:first-child {
+  border-left: none;
+  padding-left: 0;
+}
+
+.StickyHeaders.Pos-f + table {
+  margin-top: 32px;
+}
+
+.Thm-lite .ys-replace-player-players-disabled .StickyHeaders {
+  background-color: white;
+}
+
+.ys-dotNav li a {
+  border: 2px solid #0078FF;
+  border-radius: 50%;
+  height: 1em;
+  width: 1em;
+}
+.ys-dotNav li.Selected a {
+  background: #0078FF;
+  transform: scale(1.3);
+}
+
+.Modal {
+  max-width: 1100px;
+  min-width: 725px;
+  opacity: 1;
+  transform: none;
+  width: 50%;
+  outline: 0;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  transition: all 0.3s;
+  background: #fff;
+  display: inline-block;
+  zoom: 1;
+  vertical-align: middle;
+}
+.Modal .ModalDismiss {
+  border: none;
+  background: none;
+}
+.Modal .ModalDismiss:hover, .Modal .ModalDismiss:focus {
+  background: none;
+  outline: none;
+}
+.Modal .bd {
+  transition: height 0.5s ease-in-out;
+}
+
+.ModalShim {
+  display: inline-block;
+  zoom: 1;
+  vertical-align: middle;
+  height: 100%;
+}
+
+.ys-smartphone #myLightboxContainer.Modal {
+  max-height: 90%;
+  min-width: 90%;
+  overflow-y: auto;
+}
+.ys-smartphone .ys-mobile-modal {
+  height: 90%;
+  width: 95%;
+}
+.ys-smartphone .ys-mobile-modal .ModalDismiss {
+  padding-top: 10px;
+}
+.ys-smartphone .ys-player-details {
+  height: 550px;
+}
+
+.flex-container-bottom {
+  top: 100% !important;
+  transform: translateY(-100%);
+}
+
+.UnifiedEmail input[type=button] {
+  -webkit-appearance: none;
+}
+
+.Modal .ys-depthChartModal .bd,
+.Modal .ys-startingLineupModal .bd {
+  height: 300px;
+}
+@media screen and (min-height: 600px) {
+  .Modal .ys-depthChartModal .bd,
+  .Modal .ys-startingLineupModal .bd {
+    height: 400px;
+  }
+}
+@media screen and (min-height: 700px) {
+  .Modal .ys-depthChartModal .bd,
+  .Modal .ys-startingLineupModal .bd {
+    height: 500px;
+  }
+}
+@media screen and (min-height: 800px) {
+  .Modal .ys-depthChartModal .bd,
+  .Modal .ys-startingLineupModal .bd {
+    height: 600px;
+  }
+}
+
+.ys-contest-invite input[type=search].Pstart\(40px\) {
+  padding-left: 40px;
+}
+
+.ys-desktop .connection-status {
+  display: none;
+}
+
+/* TODO: remove once this is resolved: https://jira.corp.yahoo.com/servicedesk/agent/FANTASY/issue/FANTASY-13273 */
+.ys-desktop .react-invites-component .send-options,
+.ys-tablet .react-invites-component .send-options {
+  display: none;
+}
+
+.ys-smartphone .ys-mainNav li {
+  line-height: 50px;
+}
+.ys-smartphone .ys-mainNavSetLineup li a,
+.ys-smartphone .ys-mainNavSetLineup li a:link,
+.ys-smartphone .ys-mainNavSetLineup li a:visited,
+.ys-smartphone .ys-mainNavContestDetails li a,
+.ys-smartphone .ys-mainNavContestDetails li a:link,
+.ys-smartphone .ys-mainNavContestDetails li a:visited {
+  color: white;
+}
+.ys-smartphone .ys-mainNavSetLineup li.Selected,
+.ys-smartphone .ys-mainNavContestDetails li.Selected {
+  position: static;
+}
+
+.ys-filterChoices {
+  padding: 8px;
+}
+
+.ys-filterChoices li {
+  display: inline;
+  list-style-type: none;
+  padding-right: 8px;
+  padding-left: 8px;
+}
+
+.ys-filterChoices li.Selected {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.ys-filterChoices li.Selected a {
+  background-color: black;
+  padding: 8px;
+  display: inline;
+  border-radius: 3px;
+  color: white;
+}
+
+.ys-smartphone .ys-filter-button:focus {
+  border: 1px solid #cbcbcb;
+  box-shadow: none;
+}
+.ys-smartphone .ys-active-filter-button,
+.ys-smartphone .ys-active-filter-button:focus {
+  border: 1px solid #e1e4df;
+  box-shadow: none;
+}
+
+.ys-smartphone #contestSearch,
+.ys-smartphone #multiRoundSearch {
+  padding-left: 40px;
+}
+.ys-smartphone label[for=contestSearch],
+.ys-smartphone label[for=multiRoundSearch] {
+  width: 40px;
+  line-height: 45px;
+}
+.ys-smartphone .ys-mobile-entry-icon-carousel-end {
+  line-height: 70px;
+}
+
+@media (max-width: 1200px) {
+  .ys-desktop .ys-players-list-table.ys-player-game-status-start-time {
+    display: block !important;
+  }
+}
+
+.ys-form .ys-batch-contest-entry-checkbox + label {
+  padding-left: 41px !important;
+}
+.ys-form .ys-batch-contest-entry-checkbox + label:hover {
+  background-color: #e7e7e7;
+}
+.ys-form .ys-batch-contest-entry-checkbox + label:before {
+  background: #fff;
+  margin-left: 15px;
+}
+.ys-form .ys-batch-contest-entry-select .SelectBox-Pick {
+  border: 1px solid #ccc !important;
+  background: #fff;
+  padding: 0.1em 0.4em 0.2em 0.4em;
+  min-width: inherit;
+}
+
+.ys-contests-list .ys-batch-enter-select.SelectBox {
+  top: 0;
+}
+.ys-contests-list .ys-batch-enter-select.SelectBox .SelectBox-Pick {
+  border: 1px solid #ccc !important;
+  background: #fff;
+  padding: 0.1em 0.4em;
+  min-width: inherit;
+  vertical-align: text-top;
+}
+
+.ys-contests-filter-modal .ys-contests-filter-modal-clear.Disabled,
+.ys-contests-filter-modal .ys-contests-filter-modal-apply.Disabled {
+  border: 1px solid;
+  /* Must use important!, since Stencil uses important! itself */
+  opacity: 0.1 !important;
+}
+
+.ys-smartphone .ys-contest-overview-prize-payouts,
+.ys-smartphone .ys-contest-overview-details-entrants {
+  max-height: 200px;
+}
+
+.ys-research-page-container blockquote,
+.ys-research-page-container dl,
+.ys-research-page-container h1,
+.ys-research-page-container h2,
+.ys-research-page-container h3,
+.ys-research-page-container h4,
+.ys-research-page-container h5,
+.ys-research-page-container h6,
+.ys-research-page-container ol,
+.ys-research-page-container p,
+.ys-research-page-container table,
+.ys-research-page-container ul {
+  margin: 0;
+}
+.ys-research-page-container a:hover {
+  text-decoration: none;
+}
+
+.ys-weatherIcon {
+  background: red;
+  height: 20px;
+  width: 20px;
+  position: relative;
+}
+
+.ys-positionIcon {
+  border-radius: 2px;
+}
+
+.ys-addIcon,
+.ys-removeIcon {
+  border: 2px solid #1ac567;
+  border-radius: 50%;
+  color: #1ac567;
+  cursor: pointer;
+  padding: 3px;
+}
+
+.ys-removeIcon {
+  border: 2px solid #959595;
+  color: #959595;
+}
+
+.ys-swapIcon,
+.ys-textIcon,
+.ys-keyIcon,
+.ys-dotIcon,
+.ys-playIcon {
+  border-radius: 50%;
+  color: white;
+  display: inline-block;
+  height: 1.3em;
+  line-height: 1.3em;
+  text-align: center;
+  vertical-align: top;
+  width: 1.3em;
+}
+
+.ys-textStatus {
+  font-weight: bold;
+  padding: 1px;
+}
+
+.ys-keyIcon {
+  cursor: help;
+  font-size: 11px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  overflow: hidden;
+  padding: 1px;
+  vertical-align: middle;
+}
+
+.ys-swapIcon {
+  border-style: solid;
+  border-width: 1px;
+}
+
+.ys-dotIcon {
+  background-color: #0F69FF;
+  height: 0.6em;
+  text-align: left;
+  text-indent: -999px;
+  width: 0.6em;
+}
+
+.ys-textIcon {
+  border-style: solid;
+  border-width: 1px;
+}
+
+.ys-bigCheck {
+  background: red;
+  height: 100px;
+  width: 100px;
+}
+
+.arrow-down-sm {
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 5px solid #959595;
+}
+
+.arrow-up-sm {
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-bottom: 5px solid #959595;
+}
+
+.ys-smartphone #playerSearch {
+  padding-left: 40px;
+}
+.ys-smartphone .ys-playerList .scrolling-header {
+  left: 0;
+  width: 100% !important;
+}
+.ys-smartphone label[for=playerSearch] {
+  width: 40px;
+  line-height: 45px;
+}
+.ys-smartphone .lineup-slot-abbr-inline,
+.ys-smartphone .player-primary-position-inline {
+  color: #959595;
+}
+.ys-smartphone .ys-player-list-item,
+.ys-smartphone .ys-player-list-item i,
+.ys-smartphone .ys-player-list-item-name-container,
+.ys-smartphone .ys-cancel-contest-container {
+  height: 50px;
+  line-height: 50px;
+}
+.ys-smartphone .ys-players-filter-container .SelectBox-Pick {
+  border: 0 none;
+}
+.ys-smartphone .ys-import-lineup-content .touch-wrapper {
+  border-top: 2px solid #1ac567;
+}
+.ys-smartphone .ys-import-lineup-content .IbBox a {
+  color: #cbcbcb;
+}
+.ys-smartphone .ys-import-lineup-content .IbBox .selected a {
+  color: #1ac567;
+}
+.ys-smartphone .ys-import-lineup-content .Carousel-Item.IbBox a {
+  color: #333333;
+}
+.ys-smartphone .ys-import-lineup-content .ys-carousel-control-items {
+  margin-top: 10px;
+}
+.ys-smartphone .ys-contests-live-and-upcoming,
+.ys-smartphone .ys-player-list-item {
+  -webkit-tap-highlight-color: transparent;
+}
+
+.ys-player-list-item-name-container {
+  text-indent: 10px;
+}
+
+@media screen and (max-device-width: 420px) {
+  .ys-playerList .ys-player-game-status-start-time, .ys-lineup-content .ys-player-game-status-start-time, .ys-import-lineup-content .ys-player-game-status-start-time {
+    display: block !important;
+    padding-left: 0 !important;
+  }
+}
+/* TODO: PR pending: better selector hook for fixed positioning */
+.scrolling-header.Pos\(f\) .ys-roster-column {
+  height: 100vh;
+}
+
+@media screen and (max-height: 550px) {
+  .scrolling-header.Pos\(f\) .ys-roster {
+    overflow: hidden;
+    overflow-y: scroll;
+  }
+}
+.ys-form input,
+.ys-form select {
+  border: 1px solid #cbcbcb;
+  border-radius: 3px;
+}
+.ys-form input[type=radio],
+.ys-form input[type=checkbox] {
+  position: absolute;
+  left: -9999px;
+}
+.ys-form input[type=checkbox] + label {
+  position: relative;
+  padding-left: 26px;
+}
+.ys-form input[type=radio] + label:before,
+.ys-form input[type=checkbox] + label:before {
+  border: 1px solid #cbcbcb;
+  border-radius: 50%;
+  content: "";
+  display: inline-block;
+  height: 1em;
+  line-height: 1em;
+  margin-right: 0.5em;
+  text-align: center;
+  vertical-align: top;
+  width: 1em;
+}
+.ys-form input[type=checkbox] + label:before {
+  border-radius: 3px;
+  height: 15px;
+  line-height: 15px;
+  width: 15px;
+  position: absolute;
+  left: 0px;
+}
+.ys-form #userSuspensionCheckbox + label:before {
+  top: 5px;
+}
+.ys-form input[type=radio]:checked + label:before,
+.ys-form input[type=checkbox]:checked + label:before {
+  background: #0063eb;
+}
+.ys-form input[type=radio]:checked + label:before {
+  border: 2px solid #0F69FF;
+  box-shadow: 0 0 0 2px white inset;
+}
+.ys-form input[type=checkbox]:checked + label:before {
+  font-family: "sports";
+  content: "\e063";
+  color: white;
+  font-size: 8px;
+}
+.ys-form .SelectBox-Pick {
+  padding: 0.1em 0.2em 0.2em 0;
+}
+.ys-form .SelectBox-Pick i {
+  font-weight: 200;
+}
+.ys-form .SelectBox-Text {
+  font-weight: 500;
+}
+
+#odds-list {
+  border-spacing: 0 8px !important;
+}
+#odds-list tr:hover {
+  background-color: inherit;
+}
+#odds-list td {
+  border: 1px solid #e2e2e6;
+  border-right: 0;
+}
+#odds-list td:last-of-type {
+  border-right: 1px solid #e2e2e6;
+}
+
+.ys-smartphone .ys-formLarge input[type=radio] + label {
+  padding: 0.44em 0;
+  width: 87%;
+  margin: 0;
+}
+.ys-smartphone .ys-form input,
+.ys-smartphone .ys-form input[type=button],
+.ys-smartphone .ys-form select {
+  border-radius: 2px;
+  -webkit-appearance: none;
+}
+.ys-smartphone .ys-form .ys-user-suspension-select-box .SelectBox-Pick {
+  padding: 0;
+}
+.ys-smartphone .ys-form input[type=search],
+.ys-smartphone .ys-form .ys-filter-label .ys-icon-filter,
+.ys-smartphone .ys-form .ys-filter-label + input {
+  height: 40px;
+  line-height: 40px;
+}
+.ys-smartphone .ys-filter-label,
+.ys-smartphone .ys-filter-button {
+  width: 40px;
+}
+.ys-smartphone .ys-remove-cc {
+  position: relative;
+  top: 2px;
+}
+
+.ys-formLarge input[type=radio] {
+  display: none;
+}
+.ys-formLarge input[type=radio] + label {
+  border: 1px solid #cbcbcb;
+  border-radius: 3px;
+  display: inline-block;
+  margin-right: 0.5em;
+  padding: 0.48em 1.3em;
+  text-align: center;
+  vertical-align: middle;
+}
+.ys-formLarge input[type=radio] + label:hover {
+  background-color: #f3f3f3;
+  color: #0078FF;
+}
+.ys-formLarge input[type=radio] + label:hover {
+  color: #333333;
+}
+.ys-formLarge input[type=radio]:checked + label,
+.ys-formLarge .ys-radio-textinput {
+  background: #0063eb;
+  color: white;
+}
+.ys-formLarge input.ys-radio-textinput {
+  padding: 0.44em 0 0.44em 30px;
+}
+.ys-formLarge .ys-radio-textinput::-webkit-inner-spin-button,
+.ys-formLarge .ys-radio-textinput::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.ys-formLarge input[type=number].ys-radio-textinput {
+  -moz-appearance: textfield;
+}
+.ys-formLarge input[type=radio] + label:before,
+.ys-formLarge input[type=radio]:checked + input + .ys-formOverlay,
+.ys-formLarge input[type=checkbox] + label:before,
+.ys-formLarge input[type=checkbox]:checked + input + .ys-formOverlay,
+.ys-formLarge input:focus + .ys-formOverlay {
+  display: none;
+}
+.ys-formLarge input[type=radio]:checked ~ .ys-currency-placeholder {
+  color: white;
+}
+.ys-formLarge .ys-currency-placeholder {
+  top: 0.6em;
+  left: 0.5em;
+  color: #afafaf;
+}
+.ys-formLarge .ys-formOverlay {
+  background: white;
+  border: 1px solid #cbcbcb;
+  border-radius: 3px;
+  left: 0;
+  height: 50px;
+  text-indent: 10px;
+}
+.ys-formLarge .ys-formOverlay:hover {
+  background-color: #f3f3f3;
+  color: #0078FF;
+}
+
+.ys-withdraw-input div {
+  top: 11px;
+  left: 12px;
+}
+.ys-withdraw-input input {
+  width: 220px;
+  text-indent: 24px;
+}
+
+.ys-formFullWidth input[type=radio] + label {
+  padding: 1em 0;
+  text-align: center;
+  width: 90%;
+}
+
+form input:focus:invalid,
+form textarea:focus:invalid,
+form select:focus:invalid {
+  border-color: #e7252e;
+  color: #e7252e;
+}
+
+.ys-radio-button-check-label > input:checked + div:before {
+  content: "\e063";
+  color: #0063eb;
+  position: absolute;
+  line-height: 20px;
+  left: 0;
+  right: 0;
+}
+
+.ys-radio-button-check-label input:checked + div:before {
+  content: "\e063";
+  color: #0063eb;
+  position: absolute;
+  line-height: 20px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-weight: bold;
+}
+
+.ys-radio-button-check-label input:checked + div {
+  border-color: #0063eb;
+}
+
+.ys-batch-enter-checkbox-button-check-label input:checked + div:before {
+  content: "\e063";
+  color: #0063eb;
+  position: absolute;
+  line-height: 20px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-weight: bold;
+}
+
+.ys-batch-enter-checkbox-button-check-label input:checked + div {
+  border-color: #0063eb;
+}
+
+.ys-radio-button-check-label > input:checked + div:before {
+  content: "\e063";
+  color: #0063eb;
+  position: absolute;
+  line-height: 20px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-weight: bold;
+}
+
+.ys-radio-button-check-label > input:checked + div {
+  border-color: #0063eb;
+}
+
+.ys-current-players-scrolling-header-container .scrolling-header {
+  bottom: auto !important;
+  top: -1px !important;
+}
+
+.ys-odds-container .ys-betslip-sidebar .scrolling-header:not([class=positioned]) {
+  position: inherit;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.ys-chart-baseline {
+  stroke: #959595;
+}
+
+.ys-chart-reference {
+  stroke: #cbcbcb;
+}
+
+.ys-chart-circle {
+  stroke: #959595;
+  fill: #959595;
+}
+
+.ys-chart-lineplot {
+  stroke: #0078FF;
+}
+
+.ys-welcomePromo {
+  background-image: url(https://s.yimg.com/cv/apiv2/sports/logo/welcome@2x.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 505px;
+  height: 27px;
+  max-width: 90%;
+  overflow: hidden;
+  text-indent: -999em;
+}
+
+@-webkit-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@-moz-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@-ms-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+@-moz-keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+@-ms-keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+@-webkit-keyframes bumpSmall {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.1);
+  }
+}
+@-moz-keyframes bumpSmall {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.1);
+  }
+}
+@-ms-keyframes bumpSmall {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.1);
+  }
+}
+@keyframes bumpSmall {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.1);
+  }
+}
+@-webkit-keyframes bumpMedium {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.25);
+  }
+}
+@-moz-keyframes bumpMedium {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.25);
+  }
+}
+@-ms-keyframes bumpMedium {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.25);
+  }
+}
+@keyframes bumpMedium {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.25);
+  }
+}
+@-webkit-keyframes bumpLarge {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.4);
+  }
+}
+@-moz-keyframes bumpLarge {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.4);
+  }
+}
+@-ms-keyframes bumpLarge {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.4);
+  }
+}
+@keyframes bumpLarge {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.4);
+  }
+}
+@-webkit-keyframes flipUp {
+  from {
+    transform: rotateX(110deg);
+  }
+  to {
+    transform: rotateX(0deg);
+  }
+}
+@-moz-keyframes flipUp {
+  from {
+    transform: rotateX(110deg);
+  }
+  to {
+    transform: rotateX(0deg);
+  }
+}
+@-ms-keyframes flipUp {
+  from {
+    transform: rotateX(110deg);
+  }
+  to {
+    transform: rotateX(0deg);
+  }
+}
+@keyframes flipUp {
+  from {
+    transform: rotateX(110deg);
+  }
+  to {
+    transform: rotateX(0deg);
+  }
+}
+@-webkit-keyframes slideInLeft {
+  from {
+    transform: translateX(-20px);
+  }
+  to {
+    transform: translateX(0px);
+  }
+}
+@-moz-keyframes slideInLeft {
+  from {
+    transform: translateX(-20px);
+  }
+  to {
+    transform: translateX(0px);
+  }
+}
+@-ms-keyframes slideInLeft {
+  from {
+    transform: translateX(-20px);
+  }
+  to {
+    transform: translateX(0px);
+  }
+}
+@keyframes slideInLeft {
+  from {
+    transform: translateX(-20px);
+  }
+  to {
+    transform: translateX(0px);
+  }
+}
+@-webkit-keyframes countFlash {
+  from {
+    color: #1ac567;
+  }
+}
+@-moz-keyframes countFlash {
+  from {
+    color: #1ac567;
+  }
+}
+@-ms-keyframes countFlash {
+  from {
+    color: #1ac567;
+  }
+}
+@keyframes countFlash {
+  from {
+    color: #1ac567;
+  }
+}
+@-webkit-keyframes bgcPositiveFlash {
+  from {
+    background-color: rgba(0, 192, 115, 0.3);
+  }
+}
+@-moz-keyframes bgcPositiveFlash {
+  from {
+    background-color: rgba(0, 192, 115, 0.3);
+  }
+}
+@-ms-keyframes bgcPositiveFlash {
+  from {
+    background-color: rgba(0, 192, 115, 0.3);
+  }
+}
+@keyframes bgcPositiveFlash {
+  from {
+    background-color: rgba(0, 192, 115, 0.3);
+  }
+}
+@-webkit-keyframes bgcNegativeFlash {
+  from {
+    background-color: rgba(231, 37, 46, 0.3);
+  }
+}
+@-moz-keyframes bgcNegativeFlash {
+  from {
+    background-color: rgba(231, 37, 46, 0.3);
+  }
+}
+@-ms-keyframes bgcNegativeFlash {
+  from {
+    background-color: rgba(231, 37, 46, 0.3);
+  }
+}
+@keyframes bgcNegativeFlash {
+  from {
+    background-color: rgba(231, 37, 46, 0.3);
+  }
+}
+@-webkit-keyframes blink {
+  to {
+    visibility: hidden;
+  }
+}
+@-moz-keyframes blink {
+  to {
+    visibility: hidden;
+  }
+}
+@-ms-keyframes blink {
+  to {
+    visibility: hidden;
+  }
+}
+@keyframes blink {
+  to {
+    visibility: hidden;
+  }
+}
+.blink {
+  -webkit-animation: blink 0.5s steps(3, start) 3;
+  -moz-animation: blink 0.5s steps(3, start) 3;
+  -ms-animation: blink 0.5s steps(3, start) 3;
+  animation: blink 0.5s steps(3, start) 3;
+}
+
+.bgcPositiveFlash {
+  -webkit-animation: bgcPositiveFlash 1s linear;
+  -moz-animation: bgcPositiveFlash 1s linear;
+  -ms-animation: bgcPositiveFlash 1s linear;
+  animation: bgcPositiveFlash 1s linear;
+}
+
+.bgcNegativeFlash {
+  -webkit-animation: bgcNegativeFlash 1s linear;
+  -moz-animation: bgcNegativeFlash 1s linear;
+  -ms-animation: bgcNegativeFlash 1s linear;
+  animation: bgcNegativeFlash 1s linear;
+}
+
+.countFlash {
+  -webkit-animation: countFlash 1s linear;
+  -moz-animation: countFlash 1s linear;
+  -ms-animation: countFlash 1s linear;
+  animation: countFlash 1s linear;
+}
+
+.rotate {
+  -webkit-animation: rotate 1s linear infinite;
+  -moz-animation: rotate 1s linear infinite;
+  -ms-animation: rotate 1s linear infinite;
+  animation: rotate 1s linear infinite;
+}
+
+.fadeIn {
+  -webkit-animation: fadeIn 0.3s linear;
+  -moz-animation: fadeIn 0.3s linear;
+  -ms-animation: fadeIn 0.3s linear;
+  animation: fadeIn 0.3s linear;
+}
+
+.fadeOut {
+  -webkit-animation: fadeOut 0.3s linear;
+  -moz-animation: fadeOut 0.3s linear;
+  -ms-animation: fadeOut 0.3s linear;
+  animation: fadeOut 0.3s linear;
+}
+
+.bump-sm {
+  -webkit-animation: bumpSmall 0.375s ease-out 2 alternate;
+  -moz-animation: bumpSmall 0.375s ease-out 2 alternate;
+  -ms-animation: bumpSmall 0.375s ease-out 2 alternate;
+  animation: bumpSmall 0.375s ease-out 2 alternate;
+}
+.bump-md {
+  -webkit-animation: bumpMedium 0.375s ease-out 2 alternate;
+  -moz-animation: bumpMedium 0.375s ease-out 2 alternate;
+  -ms-animation: bumpMedium 0.375s ease-out 2 alternate;
+  animation: bumpMedium 0.375s ease-out 2 alternate;
+}
+.bump-lg {
+  -webkit-animation: bumpLarge 0.375s ease-out 2 alternate;
+  -moz-animation: bumpLarge 0.375s ease-out 2 alternate;
+  -ms-animation: bumpLarge 0.375s ease-out 2 alternate;
+  animation: bumpLarge 0.375s ease-out 2 alternate;
+}
+
+.fade-bg {
+  transition: background-color 0.25s ease-in-out;
+}
+
+.fade-border {
+  transition: border-color 0.25s ease-in-out;
+}
+
+.twitch .twitch-targ {
+  transition: top 0.1s ease-in;
+  position: relative;
+  top: 1px;
+}
+.twitch:hover .twitch-targ {
+  top: -2px;
+}
+
+.flipUp {
+  backface-visibility: hidden;
+  -webkit-animation: flipUp 0.3s;
+  -moz-animation: flipUp 0.3s;
+  -ms-animation: flipUp 0.3s;
+  animation: flipUp 0.3s;
+  transition-timing-function: cubic-bezier(0.57, 0.19, 0.43, 1);
+  transform-origin: 50%, 100%;
+  transition-property: transform;
+}
+
+.slideInLeft {
+  -webkit-animation: slideInLeft 0.25s;
+  -moz-animation: slideInLeft 0.25s;
+  -ms-animation: slideInLeft 0.25s;
+  animation: slideInLeft 0.25s;
+  transition-property: transform;
+}
+
+.ys-footer {
+  transition: top 0.2s ease-out;
+}
+
+.ys-lever-container, .side1, .side2 {
+  width: 40px;
+  height: 40px;
+}
+
+@media screen and (min-height: 800px) {
+  .ys-lever-container, .side1, .side2 {
+    height: 50px;
+    width: 50px;
+  }
+}
+@media screen and (min-height: 900px) {
+  .ys-lever-container, .side1, .side2 {
+    height: 60px;
+    width: 60px;
+  }
+}
+.ys-lever-container {
+  perspective: 120px;
+  position: relative;
+}
+.ys-lever-container.flip-on .side1, .ys-lever-container.flip-on .side2 {
+  transition-duration: 0.3s;
+  transition-timing-function: cubic-bezier(0.57, 0.19, 0.43, 1);
+}
+.ys-lever-container.flip-on .side1 {
+  transform: rotateX(110deg);
+}
+.ys-lever-container.flip-on .side2 {
+  transform: rotateX(0deg);
+}
+
+.side1, .side2 {
+  backface-visibility: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition-duration: 0.1s;
+  transition-timing-function: cubic-bezier(0.57, 0.19, 0.43, 1);
+  transform-origin: 50%, 100%;
+  transition-property: transform;
+}
+
+.side1 {
+  transform: rotateX(0deg);
+}
+
+.side2 {
+  z-index: 2;
+  transform: rotateX(-110deg);
+}
+
+/* line up rows */
+.ys-player-row .row-slide-in {
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.57, 0.19, 0.43, 1);
+  transition-duration: 0.25s;
+  position: relative;
+  opacity: 0;
+}
+.ys-player-row .row-slide-out {
+  transition-property: all;
+  transition-timing-function: ease-out;
+  transition-duration: 0.15s;
+  transform: translateX(0);
+  display: block;
+  opacity: 1;
+}
+
+.ys-player-row.ys-player-row-filled .row-slide-in {
+  opacity: 1;
+  bottom: 0;
+}
+.ys-player-row.ys-player-row-filled .row-slide-out {
+  opacity: 0;
+  transform: translateX(15px);
+}
+
+.ys-promotional-carousel-arrow:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  transition-property: background-color;
+  transition-timing-function: ease-in;
+  transition-duration: 0.2s;
+  transform: translateX(0);
+}
+
+.FastTrans {
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+}
+
+.ys-smartphone.ys-webview {
+  margin-top: 0px;
+}
+
+.ys-smartphone.ys-webview ~ .ys-notification-box {
+  top: 0;
+}
+
+.ys-smartphone.ys-webview + .ys-daily-footer {
+  display: none;
+}
+
+#content,
+#MobileTop,
+#myLightboxContainer,
+#webview-content,
+.ys-daily-footer,
+.ys-footer,
+.UnifiedEmail {
+  padding-left: env(safe-area-inset-left);
+  padding-right: env(safe-area-inset-right);
+}
+
+#myLightboxContainer,
+#webview-content,
+.ys-daily-footer,
+.ys-footer,
+.UnifiedModal > .Bottom {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+#myLightboxContainer,
+.ys-footer {
+  box-sizing: border-box;
+}
+
+.ys-smartphone .ys-notification-box .ys-notification-message {
+  max-width: 90%;
+}
+
+.ys-notification-box .ys-notification-message a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+/* Deposit Bonus */
+#ys-deposit-bonus-selection .ys-amount-label,
+#ys-deposit-bonus-selection .ys-amount-selection-add-other-inner-container,
+#ys-deposit-bonus-selection .ys-deposit-bonus-card {
+  width: 134px;
+  -webkit-tap-highlight-color: transparent;
+}
+#ys-deposit-bonus-selection .ys-amount-label {
+  height: 61px;
+  line-height: 61px;
+  color: white;
+}
+#ys-deposit-bonus-selection .ys-amount-label,
+#ys-deposit-bonus-selection .ys-radio-textinput {
+  font-size: 36px;
+}
+#ys-deposit-bonus-selection .ys-radio-textinput.ys-radio-textinput-small {
+  font-size: 24px;
+}
+#ys-deposit-bonus-selection .ys-amount-selection-add-other-inner-container {
+  height: 61px;
+}
+#ys-deposit-bonus-selection .ys-amount-label:hover {
+  color: white;
+}
+#ys-deposit-bonus-selection .ys-amount-selection-add-other-label,
+#ys-deposit-bonus-selection .ys-radio-textinput {
+  margin: 5px auto;
+  background-color: white;
+  height: 51px;
+}
+#ys-deposit-bonus-selection input[type=radio]:checked ~ .ys-currency-placeholder,
+#ys-deposit-bonus-selection .ys-amount-selection-add-other-placeholder {
+  color: #959595;
+}
+#ys-deposit-bonus-selection .ys-currency-placeholder {
+  font-size: 24px;
+  top: 0.45em;
+  left: 0.8em;
+}
+#ys-deposit-bonus-selection .ys-amount-selection-add-other-placeholder {
+  font-size: 18px;
+}
+#ys-deposit-bonus-selection .ys-deposit-bonus-card {
+  height: 85px;
+  border: 1px solid #959595;
+  border-top: none;
+}
+#ys-deposit-bonus-selection .ys-deposit-bonus-card a {
+  outline: 0 none;
+}
+#ys-deposit-bonus-selection .ys-deposit-bonus-card-free-money-currency {
+  color: #959595;
+}
+#ys-deposit-bonus-selection .ys-deposit-bonus-card-free-money-percentage-multiplier {
+  color: #0078FF;
+}
+#ys-deposit-bonus-selection .ys-deposit-bonus-card-free-money-percentage {
+  color: #1ac567;
+}
+#ys-deposit-bonus-selection .ys-desposit-bonus-select-button {
+  width: 98px;
+  font-size: 11px;
+  bottom: -8px;
+  margin: 0 auto;
+}
+#ys-deposit-bonus-selection .ys-amount-selection-active input[type=radio] + .ys-amount-label,
+#ys-deposit-bonus-selection .ys-amount-selection-active .ys-desposit-bonus-select-button {
+  background: #1ac567;
+}
+#ys-deposit-bonus-selection .ys-amount-selection-active input[type=radio] + .ys-amount-label,
+#ys-deposit-bonus-selection .ys-amount-selection-active .ys-deposit-bonus-card,
+#ys-deposit-bonus-selection .ys-amount-selection-active .ys-desposit-bonus-select-button {
+  border-color: #1ac567;
+}
+#ys-deposit-bonus-selection .ys-amount-selection-active .ys-desposit-bonus-select-button,
+#ys-deposit-bonus-selection .ys-amount-selection-active .ys-desposit-bonus-select-button:hover {
+  background: #1ac567;
+  border-color: #1ac567;
+  color: white;
+}
+#ys-deposit-bonus-selection .ys-amount-selection-active .ys-desposit-bonus-select-button:hover {
+  opacity: 0.9;
+}
+#ys-deposit-bonus-selection .ys-amount-selection-active .ys-amount-selection-add-other-inner-container {
+  background: #1ac567;
+}
+#ys-deposit-bonus-selection .ys-amount-selection-active .ys-amount-selection-add-other-container .ys-radio-textinput {
+  color: #959595;
+  text-indent: 30px;
+}
+#ys-deposit-bonus-selection .ys-amount-selection-inactive .ys-amount-label {
+  background: #757575;
+}
+#ys-deposit-bonus-selection .ys-amount-selection-inactive .ys-amount-label,
+#ys-deposit-bonus-selection .ys-amount-selection-inactive .ys-deposit-bonus-card {
+  border-color: #757575;
+}
+#ys-deposit-bonus-selection .ys-amount-selection-inactive .ys-amount-label:hover {
+  background: #959595;
+  color: white;
+}
+#ys-deposit-bonus-selection .ys-amount-selection-inactive .ys-desposit-bonus-select-button {
+  background: white;
+  color: #959595;
+  border-color: #959595;
+}
+#ys-deposit-bonus-selection .ys-amount-selection-inactive .ys-desposit-bonus-select-button:hover {
+  background: #959595;
+  border-color: #959595;
+  color: white;
+}
+#ys-deposit-bonus-selection .ys-amount-selection-inactive .ys-amount-selection-add-other-inner-container {
+  background: #757575;
+}
+#ys-deposit-bonus-selection .ys-popular-badge {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/popular_badge@2x.png);
+}
+#ys-deposit-bonus-selection .ys-popular-badge-small {
+  width: 90px;
+  height: 15px;
+}
+
+.ys-radio-textinput {
+  height: 51px;
+}
+
+/* Smartphone */
+.ys-smartphone {
+  /* Upsell */
+}
+.ys-smartphone #ys-deposit-bonus-selection .ys-amount-label,
+.ys-smartphone #ys-deposit-bonus-selection .ys-amount-selection-add-other-inner-container,
+.ys-smartphone #ys-deposit-bonus-selection .ys-deposit-bonus-card {
+  width: 90%;
+}
+.ys-smartphone #ys-deposit-bonus-selection .ys-deposit-bonus-card {
+  height: auto;
+  padding-bottom: 10px;
+}
+.ys-smartphone #ys-deposit-bonus-selection .ys-amount-label {
+  font-size: 28px;
+}
+.ys-smartphone #ys-deposit-bonus-selection .ys-popular-badge-small {
+  max-width: 90px;
+}
+.ys-smartphone #ys-deposit-bonus-selection .ys-amount-selection-add-other-label,
+.ys-smartphone #ys-deposit-bonus-selection .ys-radio-textinput {
+  margin: auto;
+  font-size: 28px;
+}
+.ys-smartphone #ys-deposit-bonus-selection .ys-amount-selection-active .ys-radio-textinput {
+  border-color: #1ac567;
+  color: #959595;
+  text-indent: 50%;
+}
+.ys-smartphone #ys-deposit-bonus-selection .ys-amount-selection-active .ys-currency-placeholder {
+  text-indent: 40%;
+  left: 0.5em;
+}
+.ys-smartphone #ys-deposit-bonus-selection .ys-radio-textinput {
+  text-indent: 40px;
+}
+@media (max-width: 340px) {
+  .ys-smartphone #ys-deposit-bonus-selection .ys-popular-badge-small {
+    width: 70px;
+  }
+}
+.ys-smartphone .ys-amount-selection-active .ys-radio-textinput {
+  text-indent: 50%;
+}
+.ys-smartphone .ys-amount-selection-active .ys-currency-placeholder {
+  text-indent: 40%;
+}
+.ys-smartphone .ys-amount-selection-item:nth-of-type(2) .ys-amount-label,
+.ys-smartphone .ys-amount-selection-item:nth-of-type(2) .ys-deposit-bonus-card {
+  margin-left: 5%;
+}
+.ys-smartphone .ys-amount-selection-item:nth-of-type(3) .ys-amount-label,
+.ys-smartphone .ys-amount-selection-item:nth-of-type(3) .ys-deposit-bonus-card {
+  margin-left: 10%;
+}
+.ys-smartphone .ys-amount-selection-add-other-container {
+  width: 100%;
+}
+.ys-smartphone .ys-deposit-bonus-addfunds {
+  background: none;
+  min-width: 100%;
+}
+
+.ys-sticky-footer {
+  background: #f3f3f3;
+  position: relative;
+}
+
+.ys-sticky-footer:before,
+.ys-sticky-footer:after {
+  background: #f3f3f3;
+  content: "";
+  display: block;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.ys-sticky-footer:before {
+  left: -10px;
+}
+
+.ys-sticky-footer:after {
+  right: -10px;
+}
+
+.ys-multistep {
+  text-align: center;
+  display: inline-block;
+}
+
+.ys-multistep .ys-step {
+  border: solid #cbcbcb 1px;
+  color: #cbcbcb;
+  border-radius: 50%;
+  display: inline-block;
+  height: 1.8em;
+  line-height: 1.8em;
+  margin-left: 8px;
+  position: relative;
+  vertical-align: middle;
+  width: 1.8em;
+}
+
+.ys-multistep .ys-step:before {
+  content: "";
+  border-bottom: solid #cbcbcb 1px;
+  height: 50%;
+  position: absolute;
+  left: -10px;
+  top: 0;
+  width: 10px;
+}
+
+.ys-multistep .ys-step.Completed:before,
+.ys-multistep .ys-step.Selected:before {
+  border-bottom-color: #959595;
+}
+
+.ys-multistep .ys-step.Selected {
+  color: #f3f3f3;
+  background: #959595;
+  border-color: #959595;
+}
+
+.ys-multistep .ys-step.Completed {
+  color: #959595;
+  border-color: #959595;
+}
+
+.ys-multistep .ys-step:first-child {
+  margin-left: 0;
+}
+
+.ys-multistep .ys-step:first-child:before {
+  content: normal;
+}
+
+.ys-refer-a-friend .ys-refer-a-friend-header-img {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/Team_icon@1x.png);
+}
+.ys-refer-a-friend .ys-refer-a-friend-section-1:after,
+.ys-refer-a-friend .ys-refer-a-friend-section-2:after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  width: 0;
+  height: 0;
+  border-left: solid 20px transparent;
+  border-right: solid 20px transparent;
+  z-index: 9;
+}
+.ys-refer-a-friend .ys-refer-a-friend-section-1:after {
+  border-top: solid 20px white;
+}
+.ys-refer-a-friend .ys-refer-a-friend-section-2:after {
+  border-top: solid 20px #1ac567;
+}
+
+.ys-affiliatesPage-table {
+  width: 200 px;
+}
+
+.ys-affiliatesPage-table td {
+  border: 2px solid #F1F1F5;
+  padding: 10px;
+}
+
+.ys-affiliatesPage-table-header {
+  background-color: #F7F8FF;
+}
+
+.ys-affiliatesCommissionModel p {
+  border: 2px solid #F7F8FF;
+  padding: 5px;
+}
+
+.ys-affiliatesCommissionModel ul {
+  list-style-type: disc;
+}
+
+.ys-affiliatesPage-howitWorks-1 {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/profile@3x.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+  height: 72px;
+}
+
+.ys-affiliatesPage-howitWorks-2 {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/link@3x.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+  height: 72px;
+}
+
+.ys-affiliatesPage-howitWorks-3 {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/billing@3x.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+  height: 72px;
+}
+
+.ys-affiliatesPage-promo-mobile {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/AffiliatesPageMobile_2.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+  height: 400px;
+}
+
+.ys-affiliatesPage-promo {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/AffiliatesPage_1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+  height: 400px;
+}
+
+.ys-affiliates-partner-promo {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+  height: 400px;
+}
+.ys-affiliates-partner-promo.default-background-image {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/AffiliatesPage_1.png);
+}
+
+.ys-landingPage-fantasyLogo {
+  background-image: url(https://s.yimg.com/cv/apiv2/sports/logo/welcome@2x.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  text-indent: -999em;
+}
+
+.ys-affiliatesPage-promo a:link, .ys-affiliatesPage-promo a:visited,
+.ys-affiliatesPage-promo-mobile a:link, .ys-affiliatesPage-promo-mobile a:visited {
+  color: white !important;
+}
+
+.ys-smartphone .ys-affiliates-partner-promo.default-background-image {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/AffiliatesPageMobile_2.png);
+}
+
+/* Player Note Freshness */
+.user-level-icon {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  overflow: hidden;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.user-level-icon.user-level-icon-sm {
+  width: 25px;
+  height: 25px;
+  line-height: 25px;
+}
+.user-level-icon.user-level-icon-xl {
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+}
+.user-level-icon.nfl.diamond {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_nfl_diamond_mini@2x.png);
+}
+.user-level-icon.nfl.platinum {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_nfl_platinum_mini@2x.png);
+}
+.user-level-icon.nfl.gold {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_nfl_gold_mini@2x.png);
+}
+.user-level-icon.nfl.silver {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_nfl_silver_mini@2x.png);
+}
+.user-level-icon.nfl.bronze {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_nfl_bronze_mini@2x.png);
+}
+.user-level-icon.nba.diamond {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_nba_diamond_mini@2x.png);
+}
+.user-level-icon.nba.platinum {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_nba_platinum_mini@2x.png);
+}
+.user-level-icon.nba.gold {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_nba_gold_mini@2x.png);
+}
+.user-level-icon.nba.silver {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_nba_silver_mini@2x.png);
+}
+.user-level-icon.nba.bronze {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_nba_bronze_mini@2x.png);
+}
+.user-level-icon.nhl.diamond {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_nhl_diamond_mini@2x.png);
+}
+.user-level-icon.nhl.platinum {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_nhl_platinum_mini@2x.png);
+}
+.user-level-icon.nhl.gold {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_nhl_gold_mini@2x.png);
+}
+.user-level-icon.nhl.silver {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_nhl_silver_mini@2x.png);
+}
+.user-level-icon.nhl.bronze {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_nhl_bronze_mini@2x.png);
+}
+.user-level-icon.mlb.diamond {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_mlb_diamond_mini@2x.png);
+}
+.user-level-icon.mlb.platinum {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_mlb_platinum_mini@2x.png);
+}
+.user-level-icon.mlb.gold {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_mlb_gold_mini@2x.png);
+}
+.user-level-icon.mlb.silver {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_mlb_silver_mini@2x.png);
+}
+.user-level-icon.mlb.bronze {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_mlb_bronze_mini@2x.png);
+}
+.user-level-icon.soccer.diamond {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_soccer_diamond_mini@2x.png);
+}
+.user-level-icon.soccer.platinum {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_soccer_platinum_mini@2x.png);
+}
+.user-level-icon.soccer.gold {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_soccer_gold_mini@2x.png);
+}
+.user-level-icon.soccer.silver {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_soccer_silver_mini@2x.png);
+}
+.user-level-icon.soccer.bronze {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_soccer_bronze_mini@2x.png);
+}
+.user-level-icon.golf.diamond {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_golf_diamond_mini@2x.png);
+}
+.user-level-icon.golf.platinum {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_golf_platinum_mini@2x.png);
+}
+.user-level-icon.golf.gold {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_golf_gold_mini@2x.png);
+}
+.user-level-icon.golf.silver {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_golf_silver_mini@2x.png);
+}
+.user-level-icon.golf.bronze {
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/felo_golf_bronze_mini@2x.png);
+}
+
+.ys-level-background-color-diamond {
+  background-color: #74a3c7;
+}
+
+.ys-level-background-color-diamond.ys-level-color-diamond {
+  color: white;
+}
+
+.ys-level-color-diamond {
+  color: #74a3c7;
+}
+
+.ys-level-background-color-platinum {
+  background-color: #787d82;
+}
+
+.ys-level-background-color-platinum.ys-level-color-platinum {
+  color: white;
+}
+
+.ys-level-color-platinum {
+  color: #787d82;
+}
+
+.ys-level-background-color-gold {
+  background-color: #e6c110;
+}
+
+.ys-level-background-color-gold.ys-level-color-gold {
+  color: white;
+}
+
+.ys-level-color-gold {
+  color: #e6c110;
+}
+
+.ys-level-background-color-silver {
+  background-color: #d1d3d9;
+}
+
+.ys-level-background-color-silver.ys-level-color-silver {
+  color: white;
+}
+
+.ys-level-color-silver {
+  color: #d1d3d9;
+}
+
+.ys-level-background-color-bronze {
+  background-color: #cf7f27;
+}
+
+.ys-level-background-color-bronze.ys-level-color-bronze {
+  color: white;
+}
+
+.ys-level-color-bronze {
+  color: #cf7f27;
+}
+
+.ys-level-background-color-none {
+  background-color: #f7f8ff;
+}
+
+.ys-level-background-color-none.ys-level-color-none {
+  color: #b9bdc5;
+}
+
+.ys-level-color-none {
+  color: #b9bdc5;
+}
+
+.quickmatch-icon {
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  overflow: hidden;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/quickmatch.png);
+}
+.quickmatch-icon.quickmatch-icon-xl {
+  width: 75px;
+  height: 75px;
+  line-height: 75px;
+  background-image: url(https://s.yimg.com/cv/apiv2/DailyFantasy/quickmatch@2x.png);
+}
+
+.ys-quickMatchOnboardingModal .Carousel-Item {
+  white-space: normal;
+}
+.ys-quickMatchOnboardingModal .ys-carousel-control-items {
+  height: 60px;
+  background: #F1F1F5;
+  position: relative;
+}
+.ys-quickMatchOnboardingModal .ys-carousel-control-items button.Disabled {
+  display: none;
+}
+
+/**
+ * React Select
+ * ============
+ * Created by Jed Watson and Joss Mackison for KeystoneJS, http://www.keystonejs.com/
+ * https://twitter.com/jedwatson https://twitter.com/jossmackison https://twitter.com/keystonejs
+ * MIT License: https://github.com/JedWatson/react-select
+*/
+.user-select-container {
+  /* Invite Select */
+}
+.user-select-container .Select {
+  position: relative;
+}
+.user-select-container .Select input::-webkit-contacts-auto-fill-button,
+.user-select-container .Select input::-webkit-credentials-auto-fill-button {
+  display: none !important;
+}
+.user-select-container .Select input::-ms-clear {
+  display: none !important;
+}
+.user-select-container .Select input::-ms-reveal {
+  display: none !important;
+}
+.user-select-container .Select,
+.user-select-container .Select div,
+.user-select-container .Select input,
+.user-select-container .Select span {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.user-select-container .Select.is-open > .Select-control {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background: #fff;
+  border-color: #b3b3b3 #ccc #d9d9d9;
+}
+.user-select-container .Select.is-open > .Select-control .Select-arrow {
+  top: -2px;
+  border-color: transparent transparent #999;
+  border-width: 0 5px 5px;
+}
+.user-select-container .Select.is-searchable.is-open > .Select-control {
+  cursor: text;
+}
+.user-select-container .Select.is-searchable.is-focused:not(.is-open) > .Select-control {
+  cursor: text;
+}
+.user-select-container .Select.is-focused > .Select-control {
+  background: #fff;
+}
+.user-select-container .Select.is-focused:not(.is-open) > .Select-control {
+  border-color: #007eff;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 0 3px rgba(0, 126, 255, 0.1);
+  background: #fff;
+}
+.user-select-container .Select.has-value.is-clearable.Select--single > .Select-control .Select-value {
+  padding-right: 42px;
+}
+.user-select-container .Select.has-value.Select--single > .Select-control .Select-value .Select-value-label,
+.user-select-container .Select.has-value.is-pseudo-focused.Select--single > .Select-control .Select-value .Select-value-label {
+  color: #333;
+}
+.user-select-container .Select.has-value.Select--single > .Select-control .Select-value a.Select-value-label,
+.user-select-container .Select.has-value.is-pseudo-focused.Select--single > .Select-control .Select-value a.Select-value-label {
+  cursor: pointer;
+  text-decoration: none;
+}
+.user-select-container .Select.has-value.Select--single > .Select-control .Select-value a.Select-value-label:hover,
+.user-select-container .Select.has-value.is-pseudo-focused.Select--single > .Select-control .Select-value a.Select-value-label:hover,
+.user-select-container .Select.has-value.Select--single > .Select-control .Select-value a.Select-value-label:focus,
+.user-select-container .Select.has-value.is-pseudo-focused.Select--single > .Select-control .Select-value a.Select-value-label:focus {
+  color: #007eff;
+  outline: none;
+  text-decoration: underline;
+}
+.user-select-container .Select.has-value.Select--single > .Select-control .Select-value a.Select-value-label:focus,
+.user-select-container .Select.has-value.is-pseudo-focused.Select--single > .Select-control .Select-value a.Select-value-label:focus {
+  background: #fff;
+}
+.user-select-container .Select.has-value.is-pseudo-focused .Select-input {
+  opacity: 0;
+}
+.user-select-container .Select.is-open .Select-arrow,
+.user-select-container .Select .Select-arrow-zone:hover > .Select-arrow {
+  border-top-color: #666;
+}
+.user-select-container .Select-control {
+  background-color: white;
+  border-color: #d9d9d9 #ccc #b3b3b3;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  color: #333;
+  cursor: default;
+  display: inline-block;
+  border-spacing: 0;
+  border-collapse: separate;
+  outline: none;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+.user-select-container .Select-control:hover {
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.06);
+}
+.user-select-container .Select-control .Select-input:focus {
+  outline: none;
+  background: white;
+}
+.user-select-container .Select-placeholder,
+.user-select-container .Select--single > .Select-control .Select-value {
+  bottom: 0;
+  color: #aaa;
+  left: 0;
+  padding-left: 10px;
+  padding-right: 10px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.user-select-container .Select-input {
+  padding-left: 10px;
+  padding-right: 10px;
+  vertical-align: middle;
+}
+.user-select-container .Select-input > input {
+  width: 100%;
+  background: none transparent;
+  border: 0 none;
+  box-shadow: none;
+  cursor: default;
+  display: inline-block;
+  font-family: inherit;
+  font-size: inherit;
+  margin: 0;
+  outline: none;
+  -webkit-appearance: none;
+  box-shadow: none !important;
+}
+.user-select-container .is-focused .Select-input > input {
+  cursor: text;
+}
+.user-select-container .has-value.is-pseudo-focused .Select-input {
+  opacity: 0;
+}
+.user-select-container .Select-control:not(.is-searchable) > .Select-input {
+  outline: none;
+}
+.user-select-container .Select-control > *:last-child {
+  padding-right: 5px;
+}
+.user-select-container .Select--multi .Select-multi-value-wrapper {
+  display: inline-block;
+}
+.user-select-container .Select .Select-aria-only {
+  position: absolute;
+  display: inline-block;
+  height: 1px;
+  width: 1px;
+  margin: -1px;
+  clip: rect(0, 0, 0, 0);
+  overflow: hidden;
+  float: left;
+}
+.user-select-container .Select-menu-outer {
+  border-radius: 2px;
+  background-color: white;
+  box-sizing: border-box;
+  margin-top: 0;
+  max-height: 200px;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  width: 100%;
+  z-index: 1;
+  -webkit-overflow-scrolling: touch;
+}
+.user-select-container .Select.has-options .Select-menu-outer {
+  box-shadow: 3px 3px 3px 2px rgba(0, 0, 0, 0.2);
+}
+.user-select-container .Select.is-focused .Select-menu-outer {
+  display: block;
+}
+.user-select-container .Select-menu {
+  max-height: 198px;
+  overflow-y: auto;
+}
+.user-select-container .Select-option {
+  box-sizing: border-box;
+  background-color: white;
+  color: #666666;
+  cursor: pointer;
+  display: block;
+  padding: 8px 10px;
+}
+.user-select-container .Select-option:last-child {
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+.user-select-container .Select-option.is-selected {
+  background-color: #f5faff;
+  color: #333;
+}
+.user-select-container .Select-option.is-focused {
+  background-color: #ebf5ff;
+  color: #333;
+}
+.user-select-container .Select-noresults {
+  display: none !important;
+}
+.user-select-container .Select--multi .Select-input {
+  vertical-align: middle;
+  margin-left: 10px;
+  padding: 0;
+}
+.user-select-container .Select--multi.has-value .Select-input {
+  margin-left: 5px;
+}
+.user-select-container .Select--multi .Select-value {
+  background-color: #b9bdc5;
+  border-radius: 15px;
+  color: white;
+  display: inline-block;
+  font-size: 1.1em;
+  line-height: 1.2;
+  margin-left: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin-top: 5px;
+}
+.user-select-container .Select--multi .Select-value-icon,
+.user-select-container .Select--multi .Select-value-label {
+  display: inline-block;
+  vertical-align: middle;
+}
+.user-select-container .Select--multi .Select-value-label {
+  border-bottom-right-radius: 2px;
+  border-top-right-radius: 2px;
+  cursor: default;
+  padding: 2px 5px;
+}
+.user-select-container .Select--multi a.Select-value-label {
+  color: #007eff;
+  cursor: pointer;
+  text-decoration: none;
+}
+.user-select-container .Select--multi a.Select-value-label:hover {
+  text-decoration: underline;
+}
+.user-select-container .Select--multi .Select-value-icon {
+  cursor: pointer;
+  border-radius: 10px;
+}
+.user-select-container .Select--multi .Select-value-icon:hover,
+.user-select-container .Select--multi .Select-value-icon:focus {
+  background-color: white;
+  color: #0071e6;
+}
+.user-select-container .Select--multi .Select-value-icon:active {
+  background-color: white;
+}
+.user-select-container .user-invite-select-container .Select {
+  min-height: 40px;
+}
+.user-select-container .user-invite-select-container .Select-control {
+  min-height: 40px;
+}
+.user-select-container .user-invite-select-container .Select-input {
+  min-height: 40px;
+}
+.user-select-container .user-invite-select-container .Select-input > input {
+  line-height: 25px;
+  padding: 8px 0 0 0;
+}
+.user-select-container .user-invite-select-container .Select-placeholder {
+  line-height: 40px;
+  font-size: 15px;
+}
+
+.ys-checkbox-toggle-slider-container .switch {
+  display: inline-block;
+  position: relative;
+}
+.ys-checkbox-toggle-slider-container .switch input {
+  opacity: 0;
+}
+.ys-checkbox-toggle-slider-container .slider {
+  background-color: #e7e7e7;
+  bottom: 0;
+  cursor: pointer;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: 0.4s;
+}
+.ys-checkbox-toggle-slider-container .slider:before {
+  background-color: #fff;
+  content: "";
+  position: absolute;
+  transition: 0.4s;
+}
+.ys-checkbox-toggle-slider-container input:checked + .slider {
+  background-color: #0063eb;
+}
+.ys-checkbox-toggle-slider-container .slider.round {
+  border-radius: 34px;
+}
+.ys-checkbox-toggle-slider-container .slider.round:before {
+  border-radius: 50%;
+}
+.ys-checkbox-toggle-slider-container .switch.ys-checkbox-toggle-slider-sm {
+  height: 24px;
+  width: 40px;
+}
+.ys-checkbox-toggle-slider-container .switch.ys-checkbox-toggle-slider-md {
+  height: 27px;
+  width: 48px;
+}
+.ys-checkbox-toggle-slider-container .switch.ys-checkbox-toggle-slider-lg {
+  height: 34px;
+  width: 60px;
+}
+.ys-checkbox-toggle-slider-container .slider.ys-checkbox-toggle-slider-sm:before {
+  height: 20px;
+  width: 20px;
+  left: 2px;
+  bottom: 2px;
+}
+.ys-checkbox-toggle-slider-container .slider.ys-checkbox-toggle-slider-md:before {
+  height: 21px;
+  width: 21px;
+  left: 3.5px;
+  bottom: 3.5px;
+}
+.ys-checkbox-toggle-slider-container .slider.ys-checkbox-toggle-slider-lg:before {
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+}
+.ys-checkbox-toggle-slider-container input:checked + .slider.ys-checkbox-toggle-slider-sm:before {
+  transform: translateX(16px);
+}
+.ys-checkbox-toggle-slider-container input:checked + .slider.ys-checkbox-toggle-slider-md:before {
+  transform: translateX(20px);
+}
+.ys-checkbox-toggle-slider-container input:checked + .slider.ys-checkbox-toggle-slider-lg:before {
+  transform: translateX(26px);
+}
+
+ol.numbered-list {
+  counter-reset: li;
+  list-style-type: none;
+}
+ol.numbered-list li {
+  margin-bottom: 16px;
+}
+ol.numbered-list li:before {
+  content: counter(li);
+  counter-increment: li;
+  display: inline-block;
+  height: 24px;
+  width: 24px;
+  line-height: 24px;
+  border: 1px solid #959595;
+  border-radius: 50%;
+  color: black;
+  font-weight: 700;
+  font-size: 14px;
+  margin-right: 10px;
+  text-align: center;
+}
+
+.pulse-blue {
+  box-shadow: 0 0 0 0 rgb(0, 99, 235);
+  animation: pulse-blue 1.5s infinite;
+}
+
+@keyframes pulse-blue {
+  0% {
+    box-shadow: 0 0 0 0 rgba(0, 99, 235, 0.7);
+  }
+  70% {
+    box-shadow: 0 0 0 10px rgba(0, 99, 235, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(0, 99, 235, 0);
+  }
+}
+.TextHidden {
+  text-indent: -999em;
+  overflow: hidden;
+  zoom: 1;
+}
+
+.TableVa\(m\) td, .TableVa\(m\) th {
+  vertical-align: middle;
+}
+
+.TableRowBorderTop > tbody td, .TableRowBorderTop > tbody th {
+  border-top: 1px solid #e2e2e6;
+}
+
+.Disabled {
+  opacity: 0.4 !important;
+  cursor: default !important;
+  text-shadow: none;
+}
+
+.Overlay {
+  background: rgba(255, 255, 255, 0.8);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.SelectBox {
+  position: relative;
+  max-width: 100%;
+}
+
+.SelectBox select {
+  cursor: pointer;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+}
+
+.SelectBox-Pick {
+  display: block;
+  border-radius: 2px;
+  min-width: 3em;
+  position: relative;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: 0.3em 0.2em 0.2em 0.5em;
+}
+
+.SelectBoxNoBorder .SelectBox-Pick {
+  border: 0 !important;
+}
+
+.More {
+  position: relative;
+}
+
+.Tooltip {
+  box-shadow: 3px 5px 15px 5px rgba(0, 0, 0, 0.26);
+  border: 2px solid #1ac567;
+}
+.Tooltip.BorderSecondary {
+  border-color: #cbcbcb;
+}
+.Tooltip.Arrow:before, .Tooltip.Arrow:after {
+  border-width: 15px;
+}
+.Tooltip.sm {
+  box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.26);
+}
+.Tooltip.sm.Arrow:before, .Tooltip.sm.Arrow:after {
+  border-width: 7px;
+}
+
+.Arrow:after, .Arrow:before {
+  content: "";
+  position: absolute;
+  height: 0;
+  width: 0;
+  border-color: transparent;
+  border-style: solid;
+}
+
+.Arrow.North:after, .Arrow.North:before, .Arrow.South:after, .Arrow.South:before {
+  left: 50%;
+  margin-left: -7px;
+}
+
+.Arrow.West:after, .Arrow.West:before {
+  top: 50%;
+  margin-top: -7px;
+}
+
+.Arrow.North:before, .Arrow.NorthEast:before, .Arrow.NorthFarWest:before, .Arrow.NorthWest:before {
+  bottom: 100%;
+  border-bottom-color: #1ac567;
+}
+
+.Arrow.North:after, .Arrow.NorthEast:after, .Arrow.NorthFarWest:after, .Arrow.NorthWest:after {
+  bottom: 100%;
+  margin-bottom: -2px;
+  border-top-width: 0;
+  border-bottom-color: #fff;
+}
+
+.Arrow.South:before, .Arrow.SouthEast:before, .Arrow.SouthFarWest:before {
+  top: 100%;
+  border-top-color: #1ac567;
+}
+
+.Arrow.South:after, .Arrow.SouthEast:after, .Arrow.SouthFarWest:after {
+  top: 100%;
+  margin-top: -2px;
+  border-top-color: #fff;
+}
+
+.Arrow.West:before {
+  right: 100%;
+  border-right-color: #1ac567;
+}
+
+.Arrow.West:after {
+  right: 100%;
+  margin-right: -2px;
+  border-right-color: #fff;
+}
+
+.Arrow.NorthEast:after, .Arrow.NorthEast:before, .Arrow.SouthEast:after, .Arrow.SouthEast:before {
+  margin-left: -2px;
+  left: 75%;
+}
+
+.Arrow.NorthWest:after, .Arrow.NorthWest:before {
+  margin-left: -7px;
+  left: 25%;
+}
+
+.Arrow.NorthFarWest:after, .Arrow.NorthFarWest:before, .Arrow.SouthFarWest:after, .Arrow.SouthFarWest:before {
+  margin-left: -7px;
+  left: 10px;
+}
+
+.Arrow.SouthEast.BorderSecondary:before,
+.Arrow.SouthFarWest.BorderSecondary:before,
+.Arrow.South.BorderSecondary:before {
+  border-top-color: #cbcbcb;
+}
+
+.Arrow.NorthEast.BorderSecondary:before,
+.Arrow.NorthWest.BorderSecondary:before,
+.Arrow.NorthFarWest.BorderSecondary:before,
+.Arrow.North.BorderSecondary:before {
+  border-bottom-color: #cbcbcb;
+}
+
+.Arrow.West.BorderSecondary:before {
+  border-bottom-color: #cbcbcb;
+}
+
+.slider {
+  background-color: #0F69FF;
+}
+
+.full-slider {
+  background-color: #333333;
+  border-radius: 1em;
+  height: 0.4em;
+  position: relative;
+}
+
+.left {
+  float: left;
+  margin-left: -5px;
+}
+
+.right {
+  float: right;
+  margin-right: -12px;
+}
+
+.right,
+.left {
+  background: white;
+  border: 1px solid #333333;
+  border-radius: 50%;
+  cursor: pointer;
+  height: 1.4em;
+  position: relative;
+  top: -0.6em;
+  width: 1.4em;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  position: relative;
+  min-height: 100%;
+}
+
+button {
+  background: transparent;
+  border: none;
+}
+
+abbr[title] {
+  text-decoration: none !important;
+}
+
+th {
+  font-weight: normal;
+}
+
+/* hack to display footer message in IE >= 10 */
+.IE-show {
+  display: none;
+}
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .IE-show {
+    display: block;
+  }
+}

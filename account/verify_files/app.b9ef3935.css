@@ -1,0 +1,1000 @@
+.desktop body {
+  background-color: #cbcbce;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  div.EnableDarkBackground {
+    background-color: #000000;
+  }
+}
+@media print {
+  body {
+    -webkit-print-color-adjust: exact;
+  }
+  .hide-print {
+    display: none !important;
+  }
+}
+.desktop .FootballHeader .Uh-container,
+.tablet .FootballHeader .Uh-container {
+  background-image: url(https://s.yimg.com/dh/ap/fantasy/img/background-football@2x.jpg);
+  background-attachment: fixed;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+
+.desktop .SurvivalHeader .Uh-container,
+.tablet .SurvivalHeader .Uh-container {
+  background-image: url(https://s.yimg.com/cv/ae/default/170621/survival-bg-header@2x.jpg);
+  background-attachment: fixed;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+
+.PickNWinSplashPage {
+  min-height: 100vh;
+  background-attachment: fixed;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #072848;
+  background-image: url(https://s.yimg.com/cv/api/fantasy/slate/mobile-web-bg@2x.png);
+}
+
+.desktop .PickNWinSplashPage {
+  background-image: url(https://s.yimg.com/cv/apiv2/fantasy/slate/desktop-bg@3x.png);
+}
+
+.PickNWinMobile, .PickNWinDesktop {
+  background-color: #072848;
+  color: #fff;
+}
+.PickNWinMobile > div.main > div, .PickNWinDesktop > div.main > div {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  min-height: 0;
+}
+
+.PickNWinMobile::after {
+  content: "";
+  background-image: url(https://s.yimg.com/cv/apiv2/fantasy/slate/bg-graphic.png);
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  opacity: 0.15;
+}
+
+.PickNWinDesktop::after {
+  content: "";
+  background-image: url(https://s.yimg.com/cv/apiv2/fantasy/slate/bg-graphic-desktop@2x.jpg);
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+#atomic .PickNWinSplashPage .Bg\(customGradientUH\)\! {
+  background: #000 !important;
+}
+
+.desktop .SplashPage,
+.tablet .SplashPage,
+.smartphone .SplashPage {
+  min-height: 100vh;
+  background-attachment: fixed;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.desktop .SplashPage,
+.tablet .SplashPage {
+  background-image: url(https://s.yimg.com/cv/ae/default/170717/survival-bg-landing@2x.jpg);
+}
+
+.smartphone .SplashPage {
+  background-image: url(https://s.yimg.com/cv/ae/default/170718/bg-survival-mw@2x.jpg);
+}
+
+.ys-overlay-body.Ovy\(s\)::-webkit-scrollbar {
+  -webkit-appearance: none;
+  width: 7px;
+}
+
+.ys-overlay-body.Ovy\(s\)::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  background-color: rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 1px rgba(255, 255, 255, 0.5);
+}
+
+.groupHome-Invites .ysf-groupinvites .footer,
+.groupHome-Invites .ysf-groupinvites .compose-message span,
+.groupHome-Invites .ysf-groupinvites .compose-message svg {
+  display: none;
+}
+
+.BestBall .Bleed, .BestBall .Splash {
+  background-color: #041A8A;
+  background-image: url(https://s.yimg.com/cv/apiv2/sports/bestball/bleed-header-jumbo2.png);
+  background-size: 1220px 671px;
+  background-repeat: repeat-x;
+  background-position: 0% 0%;
+}
+
+.Wallet .Splash {
+  background-color: #1d2228;
+  background-position: 50% 50%;
+}
+
+.smartphone .Wallet .Splash {
+  background-size: 100%;
+}
+
+.Wallet .Splash.BestBall {
+  background-color: #020E65;
+  background-image: url(https://s.yimg.com/cv/apiv2/sports/bestball/header-bg@2x.jpg);
+  background-size: 1220px 296px;
+  background-repeat: repeat-x;
+  background-position: 0% 0%;
+}
+
+.Wallet .Splash.DailyFantasy {
+  background: linear-gradient(180deg, #00A1A6 0%, #00A1A6 42.53%, #046A6D 100%);
+}
+
+.Wallet .Splash.FantasySlate {
+  background-color: #002651;
+  background-image: url(https://s.yimg.com/cv/apiv2/default/slate/Basketball_Court_BG.jpg);
+}
+
+.Wallet .Splash.FullFantasy {
+  background-color: #d8d8d8;
+  background-image: url(https://s.yimg.com/dh/ap/fantasy/img/background-football@2x.jpg);
+  background-position: 0% 0%;
+  background-size: 100% 277px;
+}
+
+.Wallet .Splash.FullFantasy.NBA {
+  background-image: url(https://s.yimg.com/dh/ap/fantasy/img/background-basketball@2x.jpg);
+}
+
+.Wallet .Splash.FullFantasy.MLB {
+  background-image: url(https://s.yimg.com/dh/ap/fantasy/img/background-baseball@2x.jpg);
+}
+
+.Wallet .Splash.FullFantasy.NHL {
+  background-image: url(https://s.yimg.com/dh/ap/fantasy/img/background-hockey@2x.jpg);
+}
+
+.Wallet .Splash.FullFantasy.NFL {
+  background-image: url(https://s.yimg.com/dh/ap/fantasy/img/background-football@2x.jpg);
+}
+
+.Wallet .Splash.FullFantasy.CFB {
+  background-image: url(https://s.yimg.com/cv/api/default/20180206/background-college-football@2x.jpg);
+}
+
+.Wallet .Splash.Sportsbook {
+  background-size: 100% 308px;
+  background-color: #400090;
+  background-image: url(https://s.yimg.com/cv/apiv2/sportsbook/YSB_Header_Without_Text@3x_2.png);
+}
+
+.Wallet .Splash.Sports {
+  background-color: #1d2228;
+}
+
+.Wallet #content {
+  background-color: white;
+  width: 980px;
+  margin: 0 auto;
+}
+
+.Countdown {
+  font-variant-numeric: tabular-nums;
+}
+
+#ybar-inner-wrap {
+  border-bottom: none;
+}
+
+.sdaLite [class*=caas-da],
+.sdaLite [id*=defaultMAST],
+.sdaLite [id*=defaultLDRB],
+.sdaLite [id*=defaultLREC],
+.sdaLite [id*=defaultWFPAD] {
+  display: none;
+}
+
+@font-face {
+  font-family: "sports";
+  src: url("https://s.yimg.com/os/mit/sports/f/64800a2/yahoo-fantasy-icons-bd94f63561dde7ac4a55aa540e923397.woff");
+  src: url("https://s.yimg.com/os/mit/sports/f/64800a2/yahoo-fantasy-icons-bd94f63561dde7ac4a55aa540e923397.eot") format("embedded-opentype"), url("https://s.yimg.com/os/mit/sports/f/64800a2/yahoo-fantasy-icons-bd94f63561dde7ac4a55aa540e923397.woff") format("woff"), url("https://s.yimg.com/os/mit/sports/f/64800a2/yahoo-fantasy-icons-bd94f63561dde7ac4a55aa540e923397.ttf") format("truetype"), url("https://s.yimg.com/os/mit/sports/f/64800a2/yahoo-fantasy-icons-bd94f63561dde7ac4a55aa540e923397.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+[class^=ys-icon-], [class*=" ys-icon-"], .ys-icon {
+  font-family: "sports" !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a[class^=ys-icon-]:hover, a[class*=" ys-icon-"]:hover, a.ys-icon:hover {
+  text-decoration: none;
+}
+
+.ys-icon-trending:before {
+  content: "\e212";
+}
+
+.ys-icon-nfl:before {
+  content: "\e204";
+}
+
+.ys-icon-cfb:before {
+  content: "\e226";
+}
+
+.ys-icon-nba:before {
+  content: "\e202";
+}
+
+.ys-icon-nhl:before {
+  content: "\e203";
+}
+
+.ys-icon-mlb:before {
+  content: "\e205";
+}
+
+.ys-icon-pga:before {
+  content: "\e210";
+}
+
+.ys-icon-add:before {
+  content: "\e213";
+}
+
+.ys-icon-alarm_clock:before {
+  content: "\e031";
+}
+
+.ys-icon-arrow_north:before {
+  content: "\e007";
+}
+
+.ys-icon-arrow_south:before {
+  content: "\e00a";
+}
+
+.ys-icon-arrow_start:before {
+  content: "\e006";
+}
+
+.ys-icon-arrow_end:before {
+  content: "\e008";
+}
+
+.ys-icon-attachment:before {
+  content: "\e03a";
+}
+
+.ys-icon-auction:before {
+  content: "\e601";
+}
+
+.ys-icon-baseball:before {
+  content: "\e205";
+}
+
+.ys-icon-basketball:before {
+  content: "\e202";
+}
+
+.ys-icon-bills:before {
+  content: "\e224";
+}
+
+.ys-icon-bullet:before {
+  content: "\e019";
+}
+
+.ys-icon-bullhorn:before {
+  content: "\e045";
+}
+
+.ys-icon-calendar:before {
+  content: "\e040";
+}
+
+.ys-icon-camera:before {
+  content: "\e208";
+}
+
+.ys-icon-carousel_start:before {
+  content: "\e025";
+}
+
+.ys-icon-carousel_end:before {
+  content: "\e000";
+}
+
+.ys-icon-chart_users:before {
+  content: "\e00e";
+}
+
+.ys-icon-check:before {
+  content: "\e063";
+}
+
+.ys-icon-checkbox:before {
+  content: "\e02a";
+}
+
+.ys-icon-close:before {
+  content: "\e009";
+}
+
+.ys-icon-close_thin:before {
+  content: "\e219";
+}
+
+.ys-icon-circle_check:before {
+  content: "\e032";
+}
+
+.ys-icon-circle_warning:before {
+  content: "\e221";
+}
+
+.ys-icon-circle_x:before {
+  content: "\e200";
+}
+
+.ys-icon-daily:before {
+  content: "\e220";
+}
+
+.ys-icon-devices:before {
+  content: "\e014";
+}
+
+.ys-icon-disabled:before {
+  content: "\e038";
+}
+
+.ys-icon-dollar_sign:before {
+  content: "\e042";
+}
+
+.ys-icon-draft:before {
+  content: "\e201";
+}
+
+.ys-icon-edit:before {
+  content: "\e041";
+}
+
+.ys-icon-filter:before {
+  content: "\e600";
+}
+
+.ys-icon-flag:before {
+  content: "\e02e";
+}
+
+.ys-icon-facebook:before {
+  content: "\e00d";
+}
+
+.ys-icon-football:before {
+  content: "\e204";
+}
+
+.ys-icon-football_college:before {
+  content: "\e226";
+}
+
+.ys-icon-football_play:before {
+  content: "\e016";
+}
+
+.ys-icon-golf:before {
+  content: "\e210";
+}
+
+.ys-icon-group:before {
+  content: "\e017";
+}
+
+.ys-icon-hockey:before {
+  content: "\e203";
+}
+
+.ys-icon-home:before {
+  content: "\e01d";
+}
+
+.ys-icon-help:before {
+  content: "\e03f";
+}
+
+.ys-icon-import:before {
+  content: "\e218";
+}
+
+.ys-icon-info:before {
+  content: "\e013";
+}
+
+.ys-icon-info_diamond:before {
+  content: "\e03b";
+}
+
+.ys-icon-info_outline:before {
+  content: "\e217";
+}
+
+.ys-icon-keepers:before {
+  content: "\e03e";
+}
+
+.ys-icon-line_arrow_north:before {
+  content: "\e004";
+}
+
+.ys-icon-line_arrow_south:before {
+  content: "\e002";
+}
+
+.ys-icon-line_arrow_start:before {
+  content: "\e003";
+}
+
+.ys-icon-line_arrow_end:before {
+  content: "\e005";
+}
+
+.ys-icon-mail:before {
+  content: "\e01a";
+}
+
+.ys-icon-mail_outline:before {
+  content: "\e222";
+}
+
+.ys-icon-minus:before {
+  content: "\e033";
+}
+
+.ys-icon-nav:before {
+  content: "\e01e";
+}
+
+.ys-icon-new_note:before {
+  content: "\e020";
+}
+
+.ys-icon-newspaper:before {
+  content: "\e00f";
+}
+
+.ys-icon-notification_bell:before {
+  content: "\e039";
+}
+
+.ys-icon-pointer_north:before {
+  content: "\e024";
+}
+
+.ys-icon-pointer_south:before {
+  content: "\e02f";
+}
+
+.ys-icon-play:before {
+  content: "\e034";
+}
+
+.ys-icon-plus:before {
+  content: "\e035";
+}
+
+.ys-icon-printer:before {
+  content: "\e206";
+}
+
+.ys-icon-racing:before {
+  content: "\e211";
+}
+
+.ys-icon-record:before {
+  content: "\e209";
+}
+
+.ys-icon-refresh:before {
+  content: "\e021";
+}
+
+.ys-icon-remove:before {
+  content: "\e214";
+}
+
+.ys-icon-search:before {
+  content: "\e01b";
+}
+
+.ys-icon-settings:before {
+  content: "\e00c";
+}
+
+.ys-icon-up_down_arrow:before {
+  content: "\e00b";
+}
+
+.ys-icon-share:before {
+  content: "\e01c";
+}
+
+.ys-icon-skull:before {
+  content: "\e666";
+}
+
+.ys-icon-smack:before {
+  content: "\e015";
+}
+
+.ys-icon-sms:before {
+  content: "\e223";
+}
+
+.ys-icon-soccer:before {
+  content: "\e216";
+}
+
+.ys-icon-star:before {
+  content: "\e023";
+}
+
+.ys-icon-star_hollow:before {
+  content: "\e061";
+}
+
+.ys-icon-swap:before {
+  content: "\e215";
+}
+
+.ys-icon-talk_bubble:before {
+  content: "\e05e";
+}
+
+.ys-icon-trash:before {
+  content: "\e022";
+}
+
+.ys-icon-trending:before {
+  content: "\e212";
+}
+
+.ys-icon-trophy:before {
+  content: "\e010";
+}
+
+.ys-icon-trophy_outline:before {
+  content: "\e225";
+}
+
+.ys-icon-trophy_pro:before {
+  content: "\e011";
+}
+
+.ys-icon-trophy_vip:before {
+  content: "\e012";
+}
+
+.ys-icon-twitter:before {
+  content: "\e001";
+}
+
+.ys-icon-tumblr:before {
+  content: "\e071";
+}
+
+.ys-icon-trade:before {
+  content: "\e037";
+}
+
+.ys-icon-user:before {
+  content: "\e01f";
+}
+
+.ys-icon-video:before {
+  content: "\e036";
+}
+
+.ys-icon-video_camera:before {
+  content: "\e207";
+}
+
+.ys-icon-warning:before {
+  content: "\e046";
+}
+
+.ys-icon-no_scripting:before {
+  content: "\e229";
+}
+
+.ys-icon-scales:before {
+  content: "\e228";
+}
+
+.ys-icon-ten_max:before {
+  content: "\e227";
+}
+
+.ys-icon-cloudy:before {
+  content: "\e230";
+}
+
+.ys-icon-dome:before {
+  content: "\e231";
+}
+
+.ys-icon-rain:before {
+  content: "\e232";
+}
+
+.ys-icon-snow:before {
+  content: "\e233";
+}
+
+.ys-icon-sun:before {
+  content: "\e234";
+}
+
+.ys-icon-wind:before {
+  content: "\e235";
+}
+
+.ys-icon-lock:before {
+  content: "\e245";
+}
+
+.ys-icon-medal:before {
+  content: "\e246";
+}
+
+.ys-icon-shield_star:before {
+  content: "\e247";
+}
+
+input[type=number]::-webkit-outer-spin-button,
+input[type=number]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+/**
+ * React Select
+ * ============
+ * Created by Jed Watson and Joss Mackison for KeystoneJS, http://www.keystonejs.com/
+ * https://twitter.com/jedwatson https://twitter.com/jossmackison https://twitter.com/keystonejs
+ * MIT License: https://github.com/JedWatson/react-select
+*/
+.user-select-container {
+  /* Block User Select */
+  /* Invite Select */
+}
+.user-select-container .Select {
+  position: relative;
+}
+.user-select-container .Select-clear-zone {
+  display: none;
+}
+.user-select-container .Select input::-webkit-contacts-auto-fill-button,
+.user-select-container .Select input::-webkit-credentials-auto-fill-button {
+  display: none !important;
+}
+.user-select-container .Select input::-ms-clear {
+  display: none !important;
+}
+.user-select-container .Select input::-ms-reveal {
+  display: none !important;
+}
+.user-select-container .Select,
+.user-select-container .Select div,
+.user-select-container .Select input,
+.user-select-container .Select span {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.user-select-container .Select.is-open > .Select-control {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background: #fff;
+}
+.user-select-container .Select.is-open > .Select-control .Select-arrow {
+  top: -2px;
+  border-width: 0 5px 5px;
+}
+.user-select-container .Select.is-searchable.is-open > .Select-control {
+  cursor: text;
+}
+.user-select-container .Select.is-searchable.is-focused:not(.is-open) > .Select-control {
+  cursor: text;
+}
+.user-select-container .Select.is-focused > .Select-control {
+  background: #fff;
+}
+.user-select-container .Select.is-focused:not(.is-open) > .Select-control {
+  background: #fff;
+}
+.user-select-container .Select.has-value.is-clearable.Select--single > .Select-control .Select-value {
+  padding-right: 42px;
+}
+.user-select-container .Select.has-value.Select--single > .Select-control .Select-value a.Select-value-label,
+.user-select-container .Select.has-value.is-pseudo-focused.Select--single > .Select-control .Select-value a.Select-value-label {
+  cursor: pointer;
+  text-decoration: none;
+}
+.user-select-container .Select.has-value.Select--single > .Select-control .Select-value a.Select-value-label:hover,
+.user-select-container .Select.has-value.is-pseudo-focused.Select--single > .Select-control .Select-value a.Select-value-label:hover,
+.user-select-container .Select.has-value.Select--single > .Select-control .Select-value a.Select-value-label:focus,
+.user-select-container .Select.has-value.is-pseudo-focused.Select--single > .Select-control .Select-value a.Select-value-label:focus {
+  outline: none;
+  text-decoration: underline;
+}
+.user-select-container .Select.has-value.Select--single > .Select-control .Select-value a.Select-value-label:focus,
+.user-select-container .Select.has-value.is-pseudo-focused.Select--single > .Select-control .Select-value a.Select-value-label:focus {
+  background: #fff;
+}
+.user-select-container .Select.has-value.is-pseudo-focused .Select-input {
+  opacity: 0;
+}
+.user-select-container .Select.is-open .Select-arrow,
+.user-select-container .Select .Select-arrow-zone:hover > .Select-arrow {
+  border-top-color: #666;
+}
+.user-select-container .Select-control {
+  background-color: #ffffff;
+  border-radius: 0;
+  border-bottom: 1px solid #e0e4e9;
+  cursor: default;
+  display: inline-block;
+  border-spacing: 0;
+  border-collapse: separate;
+  outline: none;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+.user-select-container .Select-control:hover {
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.06);
+}
+.user-select-container .Select-control .Select-input:focus {
+  outline: none;
+  background: #ffffff;
+}
+.user-select-container .Select-placeholder {
+  color: #787d82;
+}
+.user-select-container .Select-placeholder,
+.user-select-container .Select--single > .Select-control .Select-value {
+  bottom: 0;
+  left: 0;
+  padding-left: 10px;
+  padding-right: 10px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.user-select-container .Select-input {
+  padding-bottom: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  vertical-align: middle;
+}
+.user-select-container .Select-input > input {
+  width: 100%;
+  background: none transparent;
+  border: 0 none;
+  box-shadow: none;
+  cursor: default;
+  display: inline-block;
+  font-family: "YahooSans" !important;
+  font-weight: 500 !important;
+  font-style: normal !important;
+  font-stretch: normal !important;
+  margin: 0;
+  outline: none;
+  -webkit-appearance: none;
+  box-shadow: none !important;
+}
+.user-select-container .is-focused .Select-input > input {
+  cursor: text;
+}
+.user-select-container .has-value.is-pseudo-focused .Select-input {
+  opacity: 0;
+}
+.user-select-container .Select-control:not(.is-searchable) > .Select-input {
+  outline: none;
+}
+.user-select-container .Select-control > *:last-child {
+  padding-right: 5px;
+}
+.user-select-container .Select--multi .Select-multi-value-wrapper {
+  display: inline-block;
+}
+.user-select-container .Select .Select-aria-only {
+  position: absolute;
+  display: inline-block;
+  height: 1px;
+  width: 1px;
+  margin: -1px;
+  clip: rect(0, 0, 0, 0);
+  overflow: hidden;
+  float: left;
+}
+.user-select-container .Select-menu-outer {
+  border-radius: 2px;
+  background-color: #ffffff;
+  box-sizing: border-box;
+  margin-top: 0;
+  max-height: 200px;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  width: 100%;
+  z-index: 1;
+  -webkit-overflow-scrolling: touch;
+}
+.user-select-container .Select.has-options .Select-menu-outer {
+  box-shadow: 3px 3px 3px 2px rgba(0, 0, 0, 0.2);
+}
+.user-select-container .Select.is-focused .Select-menu-outer {
+  display: block;
+}
+.user-select-container .Select-menu {
+  max-height: 198px;
+  overflow-y: auto;
+}
+.user-select-container .Select-option {
+  box-sizing: border-box;
+  background-color: #ffffff;
+  cursor: pointer;
+  display: block;
+  padding: 8px 10px;
+}
+.user-select-container .Select-option:last-child {
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+.user-select-container .Select-option.is-selected {
+  background-color: #f5faff;
+}
+.user-select-container .Select-option.is-focused {
+  background-color: #ebf5ff;
+}
+.user-select-container .Select-noresults {
+  display: none !important;
+}
+.user-select-container .Select--multi .Select-input {
+  vertical-align: middle;
+  margin-left: 10px;
+  padding: 0;
+}
+.user-select-container .Select--multi.has-value .Select-input {
+  margin-left: 5px;
+}
+.user-select-container .Select--multi .Select-value {
+  background-color: #b9bdc5;
+  border-radius: 15px;
+  color: #ffffff;
+  display: inline-block;
+  font-size: 1.1em;
+  line-height: 1.2;
+  margin-left: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin-top: 5px;
+}
+.user-select-container .Select--multi .Select-value-icon,
+.user-select-container .Select--multi .Select-value-label {
+  display: inline-block;
+  vertical-align: middle;
+}
+.user-select-container .Select--multi .Select-value-label {
+  border-bottom-right-radius: 2px;
+  border-top-right-radius: 2px;
+  cursor: default;
+  padding: 2px 5px;
+}
+.user-select-container .Select--multi a.Select-value-label {
+  cursor: pointer;
+  text-decoration: none;
+}
+.user-select-container .Select--multi a.Select-value-label:hover {
+  text-decoration: none;
+}
+.user-select-container .Select--multi .Select-value-icon {
+  cursor: pointer;
+  border-radius: 10px;
+}
+.user-select-container .Select--multi .Select-value-icon:hover,
+.user-select-container .Select--multi .Select-value-icon:focus {
+  background-color: #ffffff;
+}
+.user-select-container .Select--multi .Select-value-icon:active {
+  background-color: #ffffff;
+}
+.user-select-container .block-user-select-container .Select {
+  height: 30px;
+}
+.user-select-container .block-user-select-container .Select-control {
+  height: 30px;
+}
+.user-select-container .block-user-select-container .Select-input {
+  height: 30px;
+}
+.user-select-container .block-user-select-container .Select-value {
+  line-height: 30px;
+  font-size: 1.5rem;
+}
+.user-select-container .block-user-select-container .Select-placeholder {
+  font-size: 1.3rem;
+}
+.user-select-container .block-user-select-container .Select-input > input {
+  line-height: 15px;
+  padding: 6px 0 0 0;
+  font-size: 1.5rem;
+}
+.user-select-container .block-user-select-container .Select-placeholder {
+  color: #787d82;
+  line-height: 28px;
+}
+.user-select-container .block-user-select-container .Select-clear-zone {
+  display: none;
+}
+.user-select-container .user-invite-select-container .Select {
+  min-height: 40px;
+}
+.user-select-container .user-invite-select-container .Select-control {
+  min-height: 40px;
+}
+.user-select-container .user-invite-select-container .Select-input {
+  min-height: 40px;
+}
+.user-select-container .user-invite-select-container .Select-input > input {
+  line-height: 25px;
+  padding: 8px 0 0 0;
+}
+.user-select-container .user-invite-select-container .Select-placeholder {
+  color: #787d82;
+  line-height: 40px;
+  font-size: 1.5rem;
+}
